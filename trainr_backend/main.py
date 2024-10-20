@@ -11,6 +11,11 @@ from langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 from langchain_community.vectorstores import Chroma
 
+import cv2
+from ultralytics import YOLO
+import numpy as np
+import csv
+
 
 #Reference to https://www.youtube.com/watch?v=tcqEUSNCn8I
 load_dotenv()
@@ -104,3 +109,72 @@ def retrieve():
     print("Got Here")
     print("Response", formatted_response)
     return jsonify({"Response":response_text, "Sources":sources}) 
+
+@app.route("/cv", methods=["POST"])
+def cv(video_path):
+    model = YOLO("yolov8n-pose.pt")
+    cap = cv2.VideoCapture(video_path)
+
+    # get video properties
+    frame_width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
+    frame_height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
+    fps = int(cap.get(cv2.CAP_PROP_FPS))
+
+    # define the code and create VideoWriter object
+    fourcc = cv2.VideoWriter_fourcc(*'mp4v')
+    out = cv2.VideoWriter('output.mp4', fourcc, fps, (frame_width, frame_height))
+
+    frame_count = 0
+    all_frames_data = []
+
+    while cap.isOpened():
+        ret, frame = cap.read()
+        if ret:
+            results = model(frame, verbose=False)
+
+            annotated_frame = results[0].plot()
+
+            # write the frame to the output video
+            out.write(annotated_frame)
+
+            # extract keypoints
+            keypoints = results[0].keypoints.cpu().numpy()
+            
+            if len(keypoints) > 0:
+                print(f"Running Frame {frame_count}")
+                frame_data = [frame_count]
+                for person_idx, person_keypoints in enumerate(keypoints):
+                    # iterates through all keypoints and prints if confident
+                    for i, kp in enumerate(person_keypoints.data[0]):
+                        x, y, conf = kp[0], kp[1], kp[2]
+                        if conf > 0:  # only print keypoints that are detected
+                            frame_data.extend([round(x, 2), round(y, 2), round(conf, 2)])
+                all_frames_data.append(frame_data)
+
+            # for visual purposes only
+            #cv2.imshow("YOLOv8", annotated_frame)
+
+            # how to break/end if needed
+            if cv2.waitKey(1) & 0xFF == ord("q"):
+                break
+
+            frame_count += 1
+        else:
+            break
+
+    # release everything when the job is finished
+    cap.release()
+    out.release()
+    cv2.destroyAllWindows()
+
+    # write data to CSV
+    with open('pose_keypoints.csv', 'w', newline='') as file:
+        writer = csv.writer(file)
+        # write header
+        header = ['frame']
+        for i in range(17):  # 17 keypoints
+            header.extend([f'kp{i}_x', f'kp{i}_y', f'kp{i}_conf'])
+        writer.writerow(header)
+        
+        # write data
+        writer.writerows(all_frames_data)
