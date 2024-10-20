@@ -13,7 +13,7 @@ export function ActivitySelect() {
       <SelectTrigger className="w-[180px]">
         <SelectValue placeholder="Select Activity" />
       </SelectTrigger>
-      <SelectContent>
+      <SelectContent className="bg-white bg-opacity-100"> 
         <SelectItem value="Low">Running</SelectItem>
         <SelectItem value="Medium">Basketball</SelectItem>
         <SelectItem value="High">Bouldering</SelectItem>

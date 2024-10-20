@@ -19,7 +19,7 @@ export function IntensitySelect() {
       <SelectTrigger className="w-[180px]">
         <SelectValue placeholder="Select Intensity" />
       </SelectTrigger>
-      <SelectContent>
+      <SelectContent className="bg-white bg-opacity-100"> 
         <SelectItem value="Low">Low</SelectItem>
         <SelectItem value="Medium">Medium</SelectItem>
         <SelectItem value="High">High</SelectItem>

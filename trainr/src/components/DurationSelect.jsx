@@ -13,7 +13,7 @@ export function DurationSelect() {
       <SelectTrigger className="w-[180px]">
         <SelectValue placeholder="Select duration" />
       </SelectTrigger>
-      <SelectContent>
+      <SelectContent className="bg-white bg-opacity-100"> 
         <SelectItem value="30">30 minutes</SelectItem>
         <SelectItem value="45">45 minutes</SelectItem>
         <SelectItem value="60">60 minutes</SelectItem>
