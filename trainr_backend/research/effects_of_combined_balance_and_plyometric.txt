@@ -1,0 +1,1131 @@
+Downloaded from http://journals.lww.com/nsca-jscr by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCyw
+CX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdgGj2MwlZLeI= on 10/20/2024
+
+EFFECTS OF COMBINED BALANCE AND PLYOMETRIC
+TRAINING ON ATHLETIC PERFORMANCE IN FEMALE
+BASKETBALL PLAYERS
+ICHRAK BOUTERAA,1 YASSINE NEGRA,1 ROY J. SHEPHARD,2
+
+AND
+
+MOHAMED SOUHAIEL CHELLY1,3
+
+1
+
+Research Unit (UR17JS01), Sport Performance, Health & Society, Higher Institute of Sport and Physical Education of Ksar
+Saıˆd, University of “La Manouba,” Tunis, Tunisia; 2Faculty of Kinesiology and Physical Education, University of Toronto,
+Toronto, Ontario, Canada; and 3Department of Biological Sciences Applied for Physical Activities and Sport, Higher Institute of
+Sport and Physical Education of Ksar Saıˆd, University of “La Manouba,” Tunis, Tunisia
+
+ABSTRACT
+Bouteraa, I, Negra, Y, Shephard, RJ, and Chelly, MS. Effects of
+combined balance and plyometric training on athletic performance in female basketball players. J Strength Cond Res
+34(7): 1967–1973, 2020—The purpose of this study was to
+examine the effect of 8 weeks combined balance and plyometric training on the physical fitness of female adolescent basketball players. Twenty-six healthy regional-level players were
+randomly assigned to either an experimental group (E; n =
+16, age = 16.4 6 0.5) or a control group (C; n = 10, age =
+16.5 6 0.5). C maintained their normal basketball training
+schedule, whereas for 8 weeks E replaced a part of their standard regimen by biweekly combined training sessions. Testing
+before and after training included the squat jump (SJ), countermovement jump (CMJ), drop jump (DJ), 5-, 10-, and 20-m
+sprints, Stork balance test (SBT), Y-balance test (YBT) and
+modified Illinois change of direction test (MICODT). Results
+indicated no significant intergroup differences in SJ and CMJ
+height; however, E increased their DJ height (p , 0.05, Cohens’d = 0.11). No significant intergroup differences were
+found for sprint performance or SBT, but dynamic YBT tended
+to a significant group interaction (p = 0.087, d = 0.006). Post
+hoc analysis also showed a significant increase of MICODT for
+E (D 6.68%, p = 0.041, d = 0.084). In summary, the addition of
+8 weeks of balance and plyometric training to regular in-season
+basketball training proved a safe and feasible intervention that
+enhanced DJ height, balance, and agility for female adolescent
+basketball players relative to the standard basketball training
+regimen.
+
+KEY WORDS change of direction, female athletes, plyometrics,
+balance training, jumping ability, sprinting, agility
+Address correspondence to Yassine Negra, yassinenegra@hotmail.fr.
+34(7)/1967–1973
+Journal of Strength and Conditioning Research
+Ó 2018 National Strength and Conditioning Association
+
+INTRODUCTION
+
+B
+
+asketball is characterized by activities that range
+from low-intensity running and walking to maximal sprints and jumps. Some short sprints include
+rapid changes of direction and velocity, and agility is thus an important component of the skills required for
+this sport (13).
+Previous authors have recommended both plyometric
+(21) and balance training (4,18) to improve muscular
+strength and power, and to decrease the incidence and
+severity of sport-related injuries (14). Plyometrics is
+a dynamic form of resistance training with a rapid stretchshortening cycle, involving both vertical and horizontal
+displacements of the individual’s center of gravity (23). Component exercises include jumping, hopping, and skipping,
+with multijoint actions, rapid eccentric phases, and highvelocity concentric muscular contractions potentiated by
+the stretch reflex (2,18,21). Such training is well suited to
+enhancing vertical jump height and running speed (10),
+rebound jump height (25), agility (18,21), and balance (18).
+Balance can be defined as the ability to maintain the
+body’s center of gravity over its base of support; it reflects
+appropriate neuromuscular actions in response to continuous visual, vestibular, and somato-sensory cues (5). A
+good balance is a prerequisite of success in almost every
+sport (3,4,9); it also enhances athletic performance (17,22)
+and has value in the prevention of athletic injuries. Basketball players must address issues of physical contact and
+other situations challenging their balance, such as twisting
+movements (particularly of the pivot foot) during jump
+shots, offensive and defensive rebounds, accelerations
+and decelerations with changes of direction, penetrations
+into the defensive perimeter, boxing-out, and dribbling
+(5). These various actions are all performed in a limited
+space and require very fast movements, a high coordinating ability and appropriate strength (5). Because balance
+and coordination are not fully developed in children of
+either sex (28), it is important that specific balance training be incorporated into programs for adolescents (3). A
+VOLUME 34 | NUMBER 7 | JULY 2020 |
+
+1967
+
+Copyright © 2018 National Strength and Conditioning Association. Unauthorized reproduction of this article is prohibited.
+
+Combined Training in Female Basketball Players
+
+Downloaded from http://journals.lww.com/nsca-jscr by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCyw
+CX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdgGj2MwlZLeI= on 10/20/2024
+
+number of studies have shown improved balance-related
+test scores with balance training (16,17,22). Gandevia (15)
+further indicated that balance training could improve proprioceptive feedback, resulting in a more rapid and greater
+neuromuscular activation during plyometric exercise. Balance training may prepare for subsequent plyometric
+training by improving the mechanics of landing and takeoff (20). Moreover, balance training may precondition
+a player for a subsequent resistance regimen (8).
+Several authors have recently offered combined plyometric and balance training to young athletes (9,16,27).
+Zemkova and Hamar (33) showed that 6 weeks of combined agility and balance training significantly enhanced
+dynamic balance, running speed, agility, and the ground
+contact time during a drop jump (DJ) relative to a group
+that received only agility training. An 8-week combined
+program of balance and plyometric exercises also proved
+superior to plyometrics alone in terms of improving sprint
+and shuttle-run performance (9). However, to our knowledge, there have been no prior studies of combined balance and plyometric in female adolescent basketball
+players.
+This study thus aimed to examine the effects of replacing
+a part of the standard basketball training regimen by 8 weeks
+of combined balance + plyometric training in female adolescent basketball players. The initial hypothesis was that the
+experimental group would show greater gains of physical
+fitness than a control group who followed the standard basketball training regimen.
+
+METHODS
+Experimental Approach to the Problem
+
+We examined whether 8 weeks of biweekly in-season
+combined balance and plyometric training would enhance
+selected aspects of performance in female U17 basketball
+players relative to their peers who continued to follow the
+standard in-season regimen. A group of 26 regional-level
+players (see Procedures and Evaluation for details of
+training) volunteered for random assignment to either an
+experimental group (E; n = 16) or a control group that
+continued to follow the standard in-season regimen (C; n
+= 10). Both groups had been training for 3 months and
+were already 1 month into the competitive season. Data
+were collected before the modification of training and
+after completion of the 8-week trial. The test protocol
+included assessments of jumping ability (squat jump [SJ],
+countermovement jump [CMJ], DJ), linear speed (5, 10,
+and 20-m sprints), change of direction test (modified Illinois change of direction test [MICODT]), and measures
+of balance (standing Stork balance test [SBT] and Y-balance test [YBT]). Initial and final testing was conducted at
+the same time of day (7:30–9:30 AM), and under the same
+experimental conditions, at least 48 hours after the last
+training session or match.
+
+1968
+
+the
+
+TABLE 1. Anthropometric characteristics of the
+study participants.*†
+E (n = 16)
+Age (y)
+Body height (m)
+Body mass (kg)
+Body mass index
+(kg$m22)
+
+16.4
+1.68
+56.6
+19.9
+
+6
+6
+6
+6
+
+0.5
+0.05
+8.3
+2.1
+
+C (n = 10)
+16.5
+1.68
+55.6
+19.8
+
+6
+6
+6
+6
+
+0.5
+0.08
+7.0
+2.7
+
+*E = experimental group; C = control group.
+†Data are presented as mean 6 SD.
+
+Subjects
+
+Anthropometric data for E and C are presented in Table 1.
+Players who missed more than 20% of training sessions and/
+or more than 2 consecutive sessions were excluded from the
+study (26). All subjects were free of injuries during the 6
+months before and throughout the study.
+All procedures were in accordance with the latest
+version of the Declaration of Helsinki and were approved
+by the ISSEP – Ksar Said’s Review Committee for the
+ethical use of human subjects according to current
+national laws and regulations and procedures. All participants and their legal representatives were first informed
+about testing and training procedures, and possible benefits and risks related to the study. Written informed consent from the children and their legal representatives was
+then obtained.
+Procedures
+
+Squat Jump, Countermovement Jump, and Drop Jump. The
+heights of the SJ, CMJ, and DJ were determined using the
+Optojump photoelectric system (Microgate SRL, Bolzano,
+Italy). Subjects began the SJ at a knee angle of 908, avoiding
+any downward movement, and performed a vertical jump by
+pushing upwards, keeping their legs straight throughout.
+The CMJ began from an upright position, with the subject
+making a rapid downward movement to a knee angle of
+;908 and simultaneously beginning to push-off. During the
+DJ, subjects were asked to rebound from a 0.3-m height box,
+immediately making a vertical jump. During all 3 jumps,
+subjects kept their hands on their hips and jumped as high
+as possible. One minute of rest was allowed between trials,
+with the highest jump on each test being used in subsequent
+analyses. The Optojump photoelectric cells consist of 2 parallel bars (a transmitter and a receiver unit), placed approximately 1 m apart. The transmitter contains 32 light-emitting
+diodes, positioned at 31-mm intervals, 3 mm above ground
+level. Proprietary software (Optojump version 3.01.0001)
+connected to a personal computer allowed quantification
+of jump heights. The flight time of vertical jumps was
+
+TM
+
+Journal of Strength and Conditioning Research
+
+Copyright © 2018 National Strength and Conditioning Association. Unauthorized reproduction of this article is prohibited.
+
+the
+
+TM
+
+Journal of Strength and Conditioning Research
+
+TABLE 2. Plyometric training program.
+Weeks
+Downloaded from http://journals.lww.com/nsca-jscr by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCyw
+CX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdgGj2MwlZLeI= on 10/20/2024
+
+Ground contact per session
+
+Plyometric drill
+
+1
+
+80
+
+2
+
+90
+
+3
+
+90
+
+4
+
+99
+
+5
+
+99
+
+6
+
+108
+
+7
+
+108
+
+8
+
+120
+
+Vertical jump-and-reach
+Double leg jump forward
+40 cm hurdle jump
+Vertical jump-and-reach
+Double leg zig-zag jump
+40 cm hurdle jump
+Vertical jump-and-reach
+Double leg jump forward
+60 cm hurdle jump
+Vertical jump-and-reach
+Double leg zig-zag jump
+60 cm hurdle jump
+Vertical jump-and-reach
+Double leg jump forward
+40 cm drop-jump
+Vertical jump-and-reach
+Double leg zig-zag jump
+40 cm drop-jump
+Vertical jump-and-reach
+Double leg jump forward
+60 cm drop-jump
+Vertical jump-and-reach
+Double leg zig-zag jump
+60 cm drop jump
+
+measured with an accuracy of 1 ms (1 kHz). Jump height
+power relative to body mass (W$kg21) was estimated as
+follows (7):
+
+h¼
+Power ¼
+
+g t2f
+8
+g 2 3tf 3tt
+43tc
+
+Where, h: jump height, g: acceleration of gravity (9.81
+m$s22), tf: flight time, tc: contact time, tt: total time of one
+jump = tf + tc, Intraclass correlation coefficients (ICC) were
+0.91, 0.93, and 0.92 for SJ, CMJ, and DJ, respectively.
+Running Speed. Performance over a 20-m sprint was assessed
+at 5, 10, and 20-m using an electronic timing system with 4
+single beam photoelectric gates (Microgate, Bolzano). Subjects made a standing start 0.3-m before the first gate, which
+was placed 0.75-m above the ground to ensure it captured
+trunk movement and avoided false signals from limb motion.
+Three trials were separated by 6–8 minutes recovery intervals. The ICCs were 0.92, 0.94, and 0.97 over distances of 5,
+10, and 20-m, respectively.
+
+Sets 3 rep
+2
+2
+2
+2
+2
+2
+2
+2
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+
+15
+15
+10
+15
+15
+15
+15
+15
+15
+11
+11
+11
+11
+11
+11
+12
+12
+12
+12
+12
+12
+13
+13
+14
+
+| www.nsca.com
+
+Stork Static Balance Test. The
+Stork test was performed on
+the dominant leg (27). Subjects
+stood with their opposite foot
+resting against the inside of the
+supporting knee and both
+hands on the hips. On the
+“go” signal, they raised the heel
+of their foot from the floor.
+The posture was held as long
+as possible, but the test was terminated when the heel of the
+supporting leg touched the
+ground or the foot moved
+away from the knee cap. The
+ICC was 0.90.
+
+Y-Balance Test. Dynamic balance was assessed for the dominant leg using the lower
+quarter YBT (27). Barefoot
+subjects maintain a single leg
+stance while reaching as far as
+possible with the contralateral
+leg in 3 directions (anterior,
+postero-medial, and posterolateral) set by fixing tape measures to the floor. The 2
+posterior lines extended at an
+angle of 1358 from the anterior
+line. Athletes’ leg lengths were first determined while lying
+supine, measuring from the anterior superior iliac spine to
+the most distal aspect of the medial malleolus. They then
+stood with the tip of their great toe at the center of the grid.
+They were asked to reach in the 3 directions while maintaining a single-limb stance. Trials were repeated if the participant (a) did not touch the required line with the reaching
+foot while maintaining weight bearing on the stance leg, (b)
+lifted the stance foot from the center of the grid, (c) lost
+balance at any point, (d) did not maintain start and return
+positions for one full second, or (e) touched the reaching
+foot to gain support. The maximal reach was measured in
+each direction. The composite score (CS) was calculated as:
+CS = ([maximum anterior reach distance + maximum
+postero-medial reach distance + maximum postero-lateral
+reach distance]/[leg length 3 3] 3 100) (27). Three test
+trials were conducted in each direction, with 2-minute rest
+intervals. Test–retest reliability for the different reach directions ranged between 0.90 and 0.95.
+Modified Illinois Change of Direction Test. This test was
+administered as outlined by Hachana et al. (19). Four
+markers defined a 5 m2 area. Three central markers were
+placed 2.5 m apart. Participants started from a prone position, with the chin touching the starting line. They
+VOLUME 34 | NUMBER 7 | JULY 2020 |
+
+1969
+
+Copyright © 2018 National Strength and Conditioning Association. Unauthorized reproduction of this article is prohibited.
+
+Combined Training in Female Basketball Players
+
+TABLE 3. Balance training program.
+Balance drill
+Downloaded from http://journals.lww.com/nsca-jscr by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCyw
+CX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdgGj2MwlZLeI= on 10/20/2024
+
+Sets 3 reps
+
+Rest interval (s)
+
+8 3 20
+6 3 20
+10 3 30
+
+30
+30
+10
+
+Swiss-ball kneeling hold balancing
+Two-handed chest pass balance exercise
+Single-leg balance
+
+can be classified as small (0.00 ,
+d , 0.49), medium (0.50 , d ,
+0.79), and large (d , 0.80). Test–
+retest reliability was assessed
+using ICCs (12). The alpha level
+of significance was set at p #
+0.05.
+
+RESULTS
+
+accelerated for 5-m, turned around, ran back to the starting
+line, and swerved in and out of 3 markers, completing 5-m
+sprints to finish the MICODT course. They were instructed
+to run around and not to cut over the markers; if they failed
+to follow these instructions, the trial was restarted after a 3minute recovery period. The ICC was 0.94.
+Details of Training Program. All subjects avoided any training
+other than that associated with the basketball team throughout the study. Every Tuesday and Thursday for 8 weeks,
+experimental subjects replaced a part of their regular training
+routine with the combined training program. A standardized
+8–15-minute warm-up was completed before every training
+session; this included low intensity running, coordination
+exercises, dynamic movements (lunges and skips), sprints,
+and dynamic stretching of the lower-limb muscles (26,27).
+Combined training drills lasted around 45 minutes (30 minutes for balance exercises; 15 minutes for plyometric). Sessions comprised 3 balance exercises, followed by 3
+plyometric exercises. The number of repetitions, sets, and
+the complexity of the exercises were increased progressively
+over the 8 weeks to limit stress musculotendinous stress
+(Tables 2 and 3). Balance training was based on previous
+recommendations for intensity and volume (5). In the plyometric program, subjects were instructed to jump as high as
+possible in the vertical jumps and as far as possible in the
+horizontal drills with a minimal ground contact time. The
+total number of ground contacts per week increased progressively from 80 to 120 over the 8 weeks of training.
+Respective rest intervals of 90-second and 30-second rest
+were allowed between each plyometric and balance exercise
+sets (27).
+Statistical Analyses
+
+Statistical analyses were carried out using the SPSS 20 program
+for Windows (SPSS, Inc., Chicago, IL, USA). Normality of all
+variables was tested using the Kolmogorov–Smirnov procedure. Means and SDs were calculated, using standard statistical methods. Training related effects were assessed by 2-way
+mixed analyses of variance (group 3 time) with repeated measures on time. When group 3 time interactions reached statistical significance, post hoc paired t-tests identified significant
+comparisons. Effect sizes (ESs) were determined by converting
+partial eta-squared to Cohen’s d. According to Cohen (12), ESs
+
+1970
+
+the
+
+During the intervention period,
+4 control subjects dropped out
+of the trial because they left the training center for personal
+reasons. Baseline and postintervention values for the remaining experimental and control subjects are summarized in
+(Table 4).
+Vertical-Jump Tests
+
+There were no significant main effects of time for SJ (p =
+0.36, d = 0.018) or CMJ (p = 0.58, d = 0.006), and no significant group x time interactions for SJ (p = 0.19, d = 0.035) or
+CMJ (p = 0.14, d = 0.044). However, DJ height showed
+a significant main effect of time (p = 0.02, d = 0.09) and
+a significant group 3 time interaction (p , 0.05, d = 0.11).
+Post hoc analysis showed a significant increase in DJ height
+from pretest to posttest only in E (D 15.2%, p , 0.001, d =
+2.1), but no significant main effect of time (p = 0.519 and d =
+0.19) or group 3 time interaction (p = 0.591 and d = 0.16) in
+the measure of DJ power.
+Running Speed
+
+No significant effects were found for any sprint interval (p .
+0.05; d = 0.068, 0.063, and 0.064 for 5, 10, and 20-m, respectively), and no significant group 3 time interactions (p =
+0.87, 0.32, 0.75; d = 0.001, 0.02, and 0.002, for 5, 10, and
+20-m, respectively).
+Stork Balance Test
+
+A significant effect of time and a significant group 3 time
+interaction were observed for the SBT (p = 0.002, d = 0.96; p
+= 0.01, d = 0.77). Post hoc analysis revealed a significant
+increase in SBT performance in E (D 127.17%, d = 2.10,
+and p , 0.001).
+Y-Balance Test
+
+The YBT showed a significant main effect of time (p = 0.013,
+d = 0.123) and a tendency toward a significant group x time
+interaction (p = 0.087, d = 0.06). Post hoc analysis showed
+a significant increase of YBT performance in E (D 9.7%, d =
+3.92, and p , 0.001).
+Change of Direction Tests
+
+A significant main effect of time and a significant group 3
+time interaction were established for the MICODT (p =
+0.012, d = 0.124; p = 0.041, d = 0.084). Post hoc analysis
+showed a significant increase in MICODT performance in E
+(D 6.68%, p , 0.001, d = 2.91).
+
+TM
+
+Journal of Strength and Conditioning Research
+
+Copyright © 2018 National Strength and Conditioning Association. Unauthorized reproduction of this article is prohibited.
+
+the
+
+TM
+
+Journal of Strength and Conditioning Research
+
+| www.nsca.com
+
+3.9
+3.8
+2.9
+4.0
+0.08
+0.14
+0.25
+9.6
+9.7
+0.6
+20.4
+26.8
+24.7
+26.5
+0.95
+1.82
+3.39
+17.3
+104.3
+11.3
+SJ (cm)
+CMJ (cm)
+DJ (cm)
+DJ (W$kg21)
+5-m sprint (s)
+10-m sprint (s)
+20-m sprint (s)
+SBT (s)
+YBT (s)
+MICODT (s)
+
+*E = experimental group; C = control group; ANOVA = analysis of variance; M = mean; D% = % improvement; DJ = Drop-jump; CMJ = Countermovement jump; SJ = Squat jump;
+SBT = Stork balance test; YBT = Y-balance test; MICODT = modified Illinois change of direction test; d = Cohen’s d (effect size).
+
+(0.035)
+(0.044)
+(0.115)
+(0.16)
+(0.001)
+(0.02)
+(0.002)
+(0.77)
+(0.06)
+(0.084)
+0.19
+0.144
+0.016
+0.591
+0.87
+0.32
+0.75
+0.01
+0.087
+0.041
+(0.018)
+(0.006)
+(0.096)
+(0.19)
+(0.068)
+(0.063)
+(0.064)
+(0.96)
+(0.123)
+(0.124)
+0.36
+0.583
+0.028
+0.519
+0.067
+0.078
+0.077
+0.002
+0.013
+0.012
+(0.035)
+(0.169)
+(0.105)
+(0.8)
+(0.164)
+(0.101)
+(0.051)
+(0.40)
+(0.059)
+(0.205)
+0.19
+0.003
+0.022
+0.008
+0.004
+0.025
+0.115
+0.162
+0.089
+0.001
+21.81
+23.52
+20.75
+0.52
+23.28
+21.40
+22.37
+11.01
+1.68
+20.71
+1.9
+3.1
+2.8
+3.2
+0.06
+0.1
+0.16
+14.7
+4.2
+0.6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+20.0
+24.4
+24.6
+24.0
+0.97
+1.83
+3.38
+24.2
+106.0
+11.5
+2.5
+2.9
+1.9
+3.0
+0.08
+0.11
+0.16
+14.9
+4.0
+0.6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+20.4
+25.2
+24.8
+23.9
+1.01
+1.86
+3.46
+21.8
+104.3
+11.5
+10.3
+7.3
+15.2
+5.2
+24.14
+25.03
+23.17
+127.2
+9.7
+26.7
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+
+22.5
+28.8
+28.4
+27.8
+0.91
+1.72
+3.27
+39.2
+114.4
+10.6
+
+M 6 SD
+M 6 SD
+
+3.5
+3.3
+3.0
+5.0
+0.05
+0.09
+0.16
+13.3
+10.4
+0.4
+
+Time
+M 6 SD
+M 6 SD
+
+Post
+Pre
+
+D%
+
+Pre
+
+Post
+
+D%
+
+Group
+
+p (Cohen’s d)
+
+ANOVA
+C (n = 10)
+E (n = 16)
+
+TABLE 4. Effect of 8-week combined balance-plyometric training on proxies of physical fitness in female basketball players.*
+
+Downloaded from http://journals.lww.com/nsca-jscr by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCyw
+CX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdgGj2MwlZLeI= on 10/20/2024
+
+Group 3 time
+
+DISCUSSION
+This study aimed to examine the effects on the physical
+fitness of female adolescent basketball players of replacing
+a part of standard basketball training by an 8-week
+combined balance + plyometric training. The main findings were of greater improvements in E than in C with
+respect to DJ, balance, and MICODT performance. However, the combined program did not achieve significantly
+greater gains in SJ, CMJ, or running speed.
+There were no significant improvements in measures
+of SJ and CMJ. These results are in line with Zemkova
+and Hamar (33), who found no significant improvements
+in SJ or CMJ after 6 weeks of combined agility and balance training in male basketball players (age = 20.9 6 2.4
+years). However, Latorre Roman et al. (24) observed a significant improvement in jumping ability (CMJ: [D 1.4%,
+d = 1.3]; SJ: [D 1.6%, d = 0.6]; DJ20: [D 1.2%, d = 0.88];
+DJ40: [D 1.7%, d = 0.68]; and SLJ: [D 5.2%, d = 0.16])
+after 10 weeks of contrast training in prepuberal basketball players. Asadi et al. (1) also reported a significant
+increase in jumping ability in young basketball players
+(vertical jump: [D 14.1%, d = 2.8]; and broad jump: [D
+4.8%, d = 2.4]) after 8 weeks of plyometric training. Further, Ramirez-Campillo et al. (29) showed a significant
+improvement in jumping ability (CMJ: [D 4.4%, ES =
+0.23]; SJ: [D 5.1%, ES = 0.27]) after 6 weeks of plyometric
+training in female soccer players. These divergent results
+may reflect differences in the initial fitness level of study
+participants. Another factor may be the high number of
+jumps made during training sessions, relative to the requirements of the sport; during a basketball game, the
+percentage of jumps with the ball is 44.1 6 5.9% and
+15.8 6 1.3% without the ball (13); this limits the potential
+for any significant improvement in E relative to C. Nevertheless, the present study showed a significant improvement in DJ height and power (p = 0.016; p = 0.006,
+respectively), extending the previous findings of Chelly
+et al. (11) who had observed a significant enhancement
+in DJ height and power in addition to significant changes
+in SJ and CMJ performance of young male track athletes
+after 10 weeks of plyometric training. Zemkova and Hamar (33) also showed a reduction of ground contact time
+during the DJ (p # 0.05; from 0.294 6 0.051 seconds to
+0.261 6 0.047 seconds), and an improvement in the ability to differentiate the force of muscle contraction during
+repeated jumps after a training program for basketball
+players.
+The present findings indicated no change in sprint
+times after 8 weeks of combined balance and plyometric
+training. This is in accordance with Thomas et al. (32),
+who saw no significant improvements of running speed in
+postadolescent semiprofessional soccer players (aged =
+17.3 6 0.4 years) after 6 weeks of either depth-jump or
+CMJ training. Likewise, Hammami et al. (20) observed no
+VOLUME 34 | NUMBER 7 | JULY 2020 |
+
+1971
+
+Copyright © 2018 National Strength and Conditioning Association. Unauthorized reproduction of this article is prohibited.
+
+Combined Training in Female Basketball Players
+
+Downloaded from http://journals.lww.com/nsca-jscr by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCyw
+CX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdgGj2MwlZLeI= on 10/20/2024
+
+significant improvements in the running speed of junior male
+soccer players (aged = 15.7 6 0.2 years) after 8 weeks of
+plyometric training. In contrast, a recent study (24) saw
+a small but significant improvement in 25-m sprint times
+of prepubertal basketball players (mean age, 8.7 6 0.9 years)
+after 10 weeks of contrast training (D 0.3%, d = 0.86). Likewise, previous investigation (9) reported a significant
+improvement in 10-m sprint times of 12–15 years male adolescents (10 m: D 5%, d = 20.86; 30 m: D 2.8%, d = 20.55)
+after 8 weeks of a combined balance and plyometric training
+program. Asadi et al. (1) also showed a significant improvement in 60-m sprint performance of male basketball players
+after 8 weeks of plyometric training (D 16%, d = 21.6).
+These discrepant findings probably reflect differences in
+methodology (male vs. female athletes, adolescent vs. much
+younger players; elite or professional players vs. regional
+level players; the format of the plyometric exercises, the
+frequency, duration, and progression of training; and its timing relative to the playing season). The optimal approach to
+enhancing sprint performance seems to incorporate greater
+horizontal acceleration (skipping, jumping with horizontal
+displacement) (31). An enhanced sprint performance is most
+likely caused by increases in neuromuscular activation of the
+trained muscles, including increases in the firing frequencies
+of active motor units and changes in their recruitment patterns (30).
+Balance training studies have documented enhanced
+athletic performance (4,17,22), contributing to the prevention of athletic injuries and postural stabilization (6). The
+present findings showed a significant improvement (p ,
+0.001, d = 2.1) in static balance after 8 weeks of the combined training. Boccolini et al. (5) also found a significant
+increase in the sustained bi-podalic and mono-podalic positions (p , 0.01) of young male basketball players after 12
+weeks of balance training. Likewise, Negra et al. (27) detected a significant improvement in performance of the stable stork (D 121%, p , 0.01, d = 1.3) and the unstable SBTs
+(D 149%, p , 0.01, d = 1.83) of prepubertal male soccer
+players after 8 weeks of unstable plyometric training. Others
+(9) reported a large increase in the Stork balance performance of adolescent male children (age = 13.3 6 0.8 years)
+after 8 weeks of combined plyometric + balance training (D
+87.8%, d = 1.62). The same study detected a smaller increase
+(D 59.6%, d = 0.72) in the Stork balance score after 8 weeks
+of plyometric training.
+The present investigation showed a tendency toward
+significant interaction effects for the dynamic YBT (p =
+0.087, d = 0.06). In accord with the concept of training
+specificity (4), one would expect that a program that
+included balance activities would enhance balance scores
+relative to a program without such exercises. Others have
+shown enhanced dynamic balance, Zemkova and Hamar
+et al. (33) after agility-balance training, and Granacher
+et al. (18) a significant main effect of time for the star excursion balance score in subelite soccer players after 8 weeks of
+
+1972
+
+the
+
+plyometric training on stable and unstable surfaces (D 2.8%,
+p , 0.050, 0.46 # F # 1.36). Likewise, Negra et al. (27)
+observed improvements in the dynamic balance of prepubertal male soccer players (stable Y-balance test: p . 0.05,
+d = 0.39, unstable Y-balance test: p . 0.05, d = 0.08), after
+plyometric training conducted on stable and unstable surfaces, and Granacher et al. (18) and Johnson et al. (21) both
+underlined that plyometric training can be safe and effective
+for youth.
+The current study demonstrated a significant reduction of
+MICODT time after 8 weeks of the combined training
+program. This is consistent with Latorre Roman et al. (24)
+who noted enhanced change of direction performance in prepubertal male basketball players aged 8.72 6 0.97 years (D
+1.6%, d = 0.8) after 10 weeks of biweekly contrast training
+(isometric + plyometric) without external load. Likewise, Asadi et al. (1) found gains of agility (T-test [D 8.3%, d = 2.2] and
+Illinois change of direction test [D 5.8%, d = 1.4]) after 8 weeks
+of plyometric training program in young basketball players.
+Further, 8 weeks of combined plyometric + balance training
+yielded greater improvements in shuttle run times than plyometric training alone in 12–15 year old male adolescents (D
+8%, d = 0.52) (9). Moreover, Ramiez-Campillo et al. (29)
+demonstrated increased change of direction speed performance (D 2.8%, ES = 0.46) after 6 week of plyometric training
+program in female soccer players, and Zemkova and Hamar
+(33) showed a significant speeding of simple reaction time in
+an agility test (D = 5.8%) when a combined agility-balance
+training program on wobble boards was compared with agility training on a stable surface.
+To the best of our knowledge, the present study is the first
+to have investigated the effect of combined balance and
+plyometric on proxies of physical fitness in female adolescent basketball players. Our findings imply that female
+basketball players benefit from an in-season combined
+training program. Notably larger performance improvements were found in the experimental group compared with
+the control group in terms of SBT, agility, DJ performance,
+and the YBT performance.
+Nevertheless, some methodological limitations warrant
+mention. Firstly, the number of participants was limited (n =
+16 for E and n = 10 for C, respectively). Secondly, neuromuscular changes were not quantified, and ground reaction
+forces were not measured during jump and sprint performances. Biomechanical and electrophysiological testing methods should be added to future studies to obtain in-depth
+knowledge regarding details of the adaptive processes after
+combined training.
+
+PRACTICAL APPLICATIONS
+The present study shows the feasibility of incorporating
+combined balance-plyometric training into a regular basketball training regimen for female U17 basketball players. A
+combined training program improves DJ height, dynamic
+balance, and agility. On the other hand, such training is
+
+TM
+
+Journal of Strength and Conditioning Research
+
+Copyright © 2018 National Strength and Conditioning Association. Unauthorized reproduction of this article is prohibited.
+
+the
+
+TM
+
+Journal of Strength and Conditioning Research
+
+| www.nsca.com
+
+Downloaded from http://journals.lww.com/nsca-jscr by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCyw
+CX1AWnYQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC1y0abggQZXdgGj2MwlZLeI= on 10/20/2024
+
+insufficient to improve SJ or CMJ height, or running speed.
+Therefore, the present findings should help coaches and
+exercise scientists in their quest to optimize daily training
+routines and to enhance the performance of tasks critical to
+the success of female adolescent basketball players.
+
+16. Granacher, U, Gollhofer, A, and Kriemler, S. Effects of balance
+training on postural sway, leg extensor strength, and jumping height
+in adolescents. Res Q Exerc Sport 81: 245–251, 2010.
+
+ACKNOWLEDGMENTS
+
+18. Granacher, U, Prieske, O, Majewski, M, Busch, D, and Muehlbauer,
+T. The role of instability with plyometric training in sub-elite
+adolescent soccer players. Int J Sports Med 36: 386–394, 2015.
+
+The authors thank the “Ministry of Higher Education and
+Scientific Research, Tunis, Tunisia” for financial support.
+
+REFERENCES
+1. Asadi, A, Ramirez-Campillo, R, Meylan, C, Nakamura, FY, CanasJamett, R, and Izquierdo, M. Effects of volume-based overload
+plyometric training on maximal-intensity exercise adaptations in
+young basketball players. J Sports Med Phys Fitness 57: 1557–1563,
+2017.
+2. Bedoya, AA, Miltenberger, MR, and Lopez, RM. Plyometric
+training effects on athletic performance in youth soccer athletes: A
+systematic review. J Strength Cond Res 29: 2351–2360, 2015.
+3. Behm, DG, Faigenbaum, AD, Falk, B, and Klentrou, P. Canadian
+Society for Exercise Physiology position paper: Resistance training
+in children and adolescents. Appl Physiol Nutr Metab 33: 547–561,
+2008.
+4. Behm, DG, Muehlbauer, T, Kibele, A, and Granacher, U. Effects of
+strength training using unstable surfaces on strength, power and
+balance performance across the lifespan: A systematic review and
+meta-analysis. Sports Med 45: 1645–1669, 2015.
+5. Boccolini, G, Brazzit, A, Bonfanti, L, and Alberti, G. Using balance
+training to improve the performance of youth basketball players.
+Sport Sci Health 9: 37–42, 2013.
+6. Borghuis, J, Hof, AL, and Lemmink, KA. The importance of
+sensory-motor control in providing core stability: Implications for
+measurement and training. Sports Med 38: 893–916, 2008.
+7. Bosco, C, Luhtanen, P, and Komi, PV. A simple method for
+measurement of mechanical power in jumping. Eur J Appl Physiol
+Occup Physiol 50: 273–282, 1983.
+8. Bruhn, S, Kullmann, N, and Gollhofer, A. Combinatory effects of
+high-intensity-strength training and sensorimotor training on
+muscle strength. Int J Sports Med 27: 401–406, 2006.
+9. Chaouachi, A, Othman, AB, Hammami, R, Drinkwater, EJ, and
+Behm, DG. The combination of plyometric and balance training
+improves sprint and shuttle run performances more often than
+plyometric-only training with children. J Strength Cond Res 28: 401–
+412, 2014.
+10. Chelly, MS, Hermassi, S, Aouadi, R, and Shephard, RJ. Effects of 8week in-season plyometric training on upper and lower limb
+performance of elite adolescent handball players. J Strength Cond Res
+28: 1401–1410, 2014.
+11. Chelly, MS, Hermassi, S, and Shephard, RJ. Effects of in-Season
+short-term plyometric training Program on sprint and jump
+performance of young male track athletes. J Strength Cond Res 29:
+2128–2136, 2015.
+12. Cohen, J. Statistical Power Analysis for the Behavioural Sciences.
+Hillsdale, NJ: Erlbaum Associates, 1988.
+13. Conte, D, Favero, TG, Lupo, C, Francioni, FM, Capranica, L, and
+Tessitore, A. Time-motion analysis of Italian elite women’s
+basketball games: Individual and team analyses. J Strength Cond Res
+29: 144–150, 2015.
+14. Faigenbaum, AD, McFarland, JE, Keiper, FB, Tevlin, W, Ratamess,
+NA, Kang, J, and Hoffman, JR. Effects of a short-term plyometric
+and resistance training program on fitness performance in boys age
+12 to 15 years. J Sports Sci Med 6: 519–525, 2007.
+15. Gandevia, SC. Spinal and supraspinal factors in human muscle
+fatigue. Physiol Rev 81: 1725–1789, 2001.
+
+17. Granacher, U, Muehlbauer, T, Maestrini, L, Zahner, L, and
+Gollhofer, A. Can balance training promote balance and strength in
+prepubertal children? J Strength Cond Res 25: 1759–1766, 2011.
+
+19. Hachana, Y, Chaabene, H, Ben Rajeb, G, Khlifa, R, Aouadi, R,
+Chamari, K, and Gabbett, TJ. Validity and reliability of new agility
+test among elite and subelite under 14-soccer players. PLoS One 9:
+e95773, 2014.
+20. Hammami, R, Granacher, U, Makhlouf, I, Behm, DG, and
+Chaouachi, A. Sequencing effects of balance and plyometric training
+on physical performance in youth soccer athletes. J Strength Cond
+Res 30: 3278–3289, 2016.
+21. Johnson, BA, Salzberg, CL, and Stevenson, DA. A systematic
+review: Plyometric training programs for young children. J Strength
+Cond Res 25: 2623–2633, 2011.
+22. Kean, CO, Behm, DG, and Young, WB. Fixed foot balance training
+increases rectus femoris activation during landing and jump height
+in recreationally active women. J Sports Sci Med 5: 138–148, 2006.
+23. Komi, PV and Bosco, C. Utilization of stored elastic energy in leg
+extensor muscles by men and women. Med Sci Sports 10: 261–265,
+1978.
+24. Latorre Roman, PA, Villar Macias, FJ, and Garcia Pinillos, F. Effects
+of a contrast training programme on jumping, sprinting and agility
+performance of prepubertal basketball players. J Sports Sci 21: 1–7,
+2017.
+25. Meylan, C and Malatesta, D. Effects of in-season plyometric training
+within soccer practice on explosive actions of young players. J
+Strength Cond Res 23: 2605–2613, 2009.
+26. Negra, Y, Chaabene, H, Hammami, M, Hachana, Y, and Granacher,
+U. Effects of high-velocity resistance training on athletic
+performance in prepuberal male soccer athletes. J Strength Cond Res
+30: 3290–3297, 2016.
+27. Negra, Y, Chaabene, H, Sammoud, S, Bouguezzi, R, Abbes, MA,
+Hachana, Y, and Granacher, U. Effects of plyometric training on
+physical fitness in prepuberal soccer athletes. Int J Sports Med 38:
+370–377, 2017.
+28. Payne, VG and Isaacs, LD. Human Motor Development. A Lifespan
+Approach. New York City, NY: McGraw Hill Publishers, 2005. pp.
+78–80.
+29. Ramirez-Campillo, R, Gonzalez-Jurado, JA, Martinez, C, Nakamura,
+FY, Penailillo, L, Meylan, CM, Caniuqueo, A, Canas-Jamet, R,
+Moran, J, Alonso-Martinez, AM, and Izquierdo, M. Effects of
+plyometric training and creatine supplementation on maximalintensity exercise and endurance in female soccer players. J Sci Med
+Sport 19: 682–687, 2016.
+30. Ramirez-Campillo, R, Henriquez-Olguin, C, Burgos, C, Andrade,
+DC, Zapata, D, Martinez, C, Alvarez, C, Baez, EI, Castro-Sepulveda,
+M, Penailillo, L, and Izquierdo, M. Effect of progressive volumebased overload during plyometric training on explosive and
+endurance performance in young soccer players. J Strength Cond Res
+29: 1884–1893, 2015.
+31. Saez de Villarreal, E, Requena, B, and Cronin, JB. The effects of
+plyometric training on sprint performance: A meta-analysis. J
+Strength Cond Res 26: 575–584, 2012.
+32. Thomas, K, French, D, and Hayes, PR. The effect of two plyometric
+training techniques on muscular power and agility in youth soccer
+players. J Strength Cond Res 23: 332–335, 2009.
+33. Zemkova, E and Hamar, D. The effect of 6-week combined agilitybalance training on neuromuscular performance in basketball
+players. J Sports Med Phys Fitness 50: 262–267, 2010.
+VOLUME 34 | NUMBER 7 | JULY 2020 |
+
+1973
+
+Copyright © 2018 National Strength and Conditioning Association. Unauthorized reproduction of this article is prohibited.
+
+

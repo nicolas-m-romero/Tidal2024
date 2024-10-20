@@ -1,0 +1,1435 @@
+Rev Andal Med Deporte.. 2024; 17(1-2)
+
+Revista Andaluza de
+
+Medicina del Deporte
+https://www.juntadeandalucia.es/deporte/ramd
+Original
+
+Fencing Training with Reaction Time Lights
+Msc Rafael Barañano-Alcaide1,*, Dr Manuel Sillero-Quintana2, Dr Ricardo Bernardez Vilaboa3, Jimena
+Barañano-Perez4, Msc Rut Gonzalez-Jiménez5
+1 PhD student for Complutense University of Madrid, Spain.
+
+2 Titular professor of Universidad Politécnica de Madrid (UPM), Faculty of Physical Activity and Sport Sciences (INEF), Sports Department, Madrid, Spain.
+
+3 Titular professor of optometry department of the University Complutense of Madrid, Spain.
+4 Student of I.E.S Luis de Gongora of Córdoba, Spain.
+
+5 PhD student for Complutense University of Madrid, Spain.
+
+ABSTRACT
+
+Objective: evaluate different reaction times in fencing training with reaction time lights
+Method: This manuscript proposes four specific exercises for evaluating the simple reaction time (SRT), the elective reaction time (ERT), the
+go/no-go response time (G/NG) and the decision decision-making after lunge (DML), march (DMM) and braking (DMB) in fencers. The
+sample consisted of 48 fencers (22 males and 17 females; age: 21 ± 13 years) from several fencing clubs in the region of Andalusia, competing
+at amateur (10 athletes), regional (17 athletes), national (7 athletes), and international (5 athletes) in the three official fencing weapons: Epee
+(E), Saber (S), and Foil (F). The exercises were developed for the Queling Sport lighting system, connected by Bluetooth with the ReactionX
+android application, which controlled the activation of the lights and recorded the reaction time and the correction of the execution for each
+trial.
+Results: The results by gender did not show significant differences. Considering the results by weapon, the foil fencers were fastest than saber
+fencers, in all the exercises, but they were only significantly faster in the DML and DMM exercises. The performance in all the exercises was
+directly related with the competition level of the fencer, but only significantly better in foil fencers than in sable fencers when the exercise
+required decision-making processes.
+Conclusions: We propose a reference scale to evaluate the perceptive ability of the fencers that could be applied in talent detection processes
+and for evaluating the specific perceptive ability of the fencers.
+
+Entrenamiento de esgrima con luces de tiempo de reacción
+RESUMEN
+
+Objetivo: evaluar diferentes tiempos de reacción en el entrenamiento de esgrima con luces de tiempo de reacción.
+Método: Este manuscrito propone cuatro ejercicios específicos para evaluar el tiempo de reacción simple (SRT), el tiempo de reacción electivo
+(ERT), el tiempo de respuesta ir/no ir (G/NG) y la toma de decisiones en ejercicios básicos de esgrima como el fondo (DML), la marcha (DMM)
+y romper (DMB). La muestra estuvo formada por 48 tiradores (22 hombres y 17 mujeres; edad: 21 ± 13 años) de varios clubes de esgrima
+de la región de Andalucía, que competían en las categorías amateur (10 deportistas), autonómica (17 deportistas), nacional (7 deportistas), e
+internacional (5 atletas) en las tres armas oficiales de esgrima: espada (E), sable (S) y florete (F). Los ejercicios fueron desarrollados para el
+sistema de iluminación Queling Sport, conectado por Bluetooth con la aplicación android ReactionX, que controlaba la activación de las luces y
+registraba el tiempo de reacción y la corrección de la ejecución para cada prueba.
+Resultados: Los resultados por género no mostraron diferencias significativas. Considerando los resultados por arma, los esgrimistas con florete
+fueron más rápidos que los esgrimistas con sable en todos los ejercicios, pero sólo fueron significativamente más rápidos en los ejercicios
+DML y DMM. El rendimiento en todos los ejercicios estuvo directamente relacionado con el nivel de competición del tirador, pero sólo
+significativamente mejor en los tiradores de florete que en los de sable cuando el ejercicio requirió procesos de toma de decisiones.
+Conclusiones: Proponemos una escala de referencia para evaluar la capacidad perceptiva de los tiradores que podría ser aplicada en procesos de
+detección de talentos y para evaluar la capacidad perceptiva específica de los tiradores.
+
+* Corresponding author: rafabara@ucm.es (Msc Rafael Barañano-Alcaide)
+
+https://doi.org/10.33155/ramd.v17i1-2.1157
+ISSN-e: 2172-5063/ © Consejería de Turismo, Cultura y Deporte de la Junta de Andalucía. Esta obra está bajo una Licencia Creative Commons
+Atribución-NoComercial-SinDerivar 4.0 Internacional.
+
+Msc Rafael Barañano-Alcaide et al. / Rev Andal Med Deporte.. 2024; 17(1-2)
+
+63
+
+Treinamento de esgrima com luzes de tempo de reação
+RESUMO
+
+Objetivo: avaliar diferentes tempos de reação no treinamento de esgrima com tempos de reação.
+Método: Este manuscrito propõe quatro exercícios específicos para avaliar o tempo de reação simples (SRT), o tempo de reação eletivo (ERT),
+o tempo de resposta ir/não ir (G/NG) e a tomada de decisões em exercícios básicos de esgrima como el fundo (DML), la marcha (DMM) e
+romper (DMB). A mostra foi formada por 48 tiradores (22 homens e 17 mulheres; idade: 21 ± 13 anos) de vários clubes de esgrima da região da
+Andaluzia, que competiram nas categorias amador (10 desportistas), autonómico (17 desportistas), nacional (7 desportistas), e internacionais
+(5 atletas) nas três armas oficiais de esgrima: espada (E), zibelina (S) e florete (F). Os comandos foram desenvolvidos para o sistema de
+iluminação Queling Sport, conectado por Bluetooth ao aplicativo Android ReactionX, que controlava a ativação das luzes e registrava o tempo
+de reação e a correção da execução para cada teste.
+Resultados: Os resultados por género não mostram diferenças significativas. Considerando os resultados por arma, os esgrimistas com florete
+foram mais rápidos do que os esgrimistas com sable em todos os exercícios, mas só foram significativamente mais rápidos nos exercícios DML
+e DMM. O desempenho em todos os exercícios está diretamente relacionado ao nível de competição do tirador, mas só é significativamente
+melhor nos tiradores de florete do que nos de zibelina quando o exercício exige processos de tomada de decisão.
+Conclusões: Propomos uma escala de referência para avaliar a capacidade perceptiva dos tiradores que poderia ser aplicada em processos de
+detecção de talentos e para avaliar a capacidade perceptiva específica dos tiradores.
+
+Introduction
+Fencing is one of the oldest sports, as it was created in the 16th
+century1. The traditional rules were gradually transformed to create
+modern fencing in the late 19th century, becoming one of the first
+Olympic sports. The International Fencing Federation (Fédération
+Internationale d'Escrime, FIE) prescribes very strict standards2 for
+the organization of fencing competition.
+Fencing practice essentially involves touching the opponent in
+the fastest and most precise manner while avoiding being touched
+in return. So that, precision and speed of the movements and ability
+to react to the actions of the opponent are crucial for improving
+the performance in this sport, both for the amateur athlete and the
+high-performance athlete3.
+Sports vision involves a comprehensive visual analysis,
+including a complete assessment of the athlete's visual skills, not
+only visual acuity but also other skills relevant to the sport. After
+the initial evaluation, sports optometrists can assist fencers by
+prescribing optical compensation, whether glasses or contact lenses,
+to reach the visual skill up to the maximum levels. Additionally,
+they can provide fencers with vision training exercises and other
+techniques for improving their visual skills and enhance their
+performance on the track4.
+This visual training involves the use of many techniques
+and exercises specifically designed to improve visual skills as handeye coordination, visual reaction time, and dynamic visual acuity5.
+Currently, several digital devices are used for training the visual skills
+on athletes, including virtual reality goggles6, stroboscopic eyewear7,
+and devices with lights8.
+Fencing is very fast and visually demanding sport that requires
+quick reflexes, excellent hand-eye coordination, and the ability to
+anticipate and react to an opponent's movements9. Therefore, not
+only a good vision is essential for success in fencing, but also a good
+use and application of the visual skills on the sport practice.
+In recent studies, reaction time light systems having been used
+for evaluating and training the visual skills of athletes. They consist
+of a several LED illuminated devices controlled by a software that
+have been installed in a tablet or personal computer and allows the
+athlete to be shown many visual stimuli in a random manner10,11.
+These devices are used as targets for the athlete, who must activate
+or deactivate them according to the program's requirements. These
+systems are designed to collect performance data related to visual,
+cognitive, and dynamic reactions. They are primarily used as a
+measurement instrument, but they can also serve as a training tool
+
+to improve performance, primarily reaction time, movement time,
+and other sensorimotor-cognitive abilities. They are portable and easy
+to set up and use systems; characteristics that makes them a very
+useful tool for both training and testing purposes12 in individual and
+collective sports.
+In this manuscript, we aim to showcase the possibilities of
+applying digital devices in a programmed visual training, in order to
+assist coaches to improve the sport performance. The main objective
+of this study is to demonstrate that working the reaction time
+with lighting systems allow coaches and athletes to know, measure,
+and improve their reaction times. The secondary objectives include
+designing exercises that athletes can transfer to real combat and
+measuring reaction times as a starting point in a training program to
+enhance shooters' performance.
+Materials and Methods
+Sample
+The sample consisted of 48 fencers (22 males and 17 females;
+age: 21 ± 13 years) from several fencing clubs in the region of
+Andalusia, competing at amateur (10 athletes), regional (17 athletes),
+national (7 athletes), and international (5 athletes) levels in the three
+official fencing weapons: Epee (E), Saber (S), and Foil (F). The study
+was conducted with the voluntary participation of all athletes after
+signing an informed consent. The sample included 22 (45% of the
+sample) fencers younger than 18 years, in those cases, the parental
+consent was requested.
+All the participants completed a previous anamnesis including
+questions about health status and basic visual evaluation including,
+among others, visual acuity and ocular motility. Subjects who
+reported having health problems in the last week, had monocular
+(right or left) visual acuity lower than 0.7, binocular visual acuity
+lower than 0.8, and altered ocular motility were excluded from the
+sample.
+Materials
+To carry out the data collection, we deployed two sets of four
+Queling Sport lights (Queling China). The 8 lighting devices were
+synchronized by Bluetooth version 5.0 with the ReactionX application
+(Queling, China), designed for Android devices. The diameter of the
+lighting devices is 9 cm and they were attached with Velcro to vertical
+
+64
+
+Msc Rafael Barañano-Alcaide et al. /Rev Andal Med Deporte.. 2024; 17(1-2)
+
+panel of 1.6 x 1.0 meters with an image of a fencer (Figure 1). The
+lighting devices have a maximum operational range of 35 to 40 meters
+and a battery life of 3 hours. It is also worth noting the responsiveness
+of the devices to diverse stimuli, including vibrational cues, tactile
+interactions, close-range proximity (8 to 15 cm), or distal proximity
+(30-40 cm). We selected the “tactile interaction” mode for this testing,
+so that the device was activated only when any part of its surface was
+touched.
+
+Given the athlete's foreknowledge of the upcoming light,
+anticipatory responses occasionally resulted. Responses faster than
+100 ms were considered as anticipations and they were discarded.
+Additionally, responses longer than 1000 ms were considered as
+blockages of the fencers and they were also discarded.
+The average number of trials (lights exhibited) in the minute
+of testing was 33 ± 10, and the total number of discarded trials for
+anticipation or blockage for all tested subjects was 33 (2.08% of the
+trials).
+Exercise 2 for Elective Reaction Time (ERT):
+
+Figure 1. Arrangement of the lights as a target in all exercises. Positioned as
+two lateral rights on the arm and left on the chest, one on the waist, and one
+on the mask.
+
+For carrying out the test in all the conditions, plastic weapons of
+the same length as those used in actual combat were employed. These
+weapons featured different grips, allowing athletes to choose the one
+closer to their own combat weapon.
+In addition, it was used a tablet running on the Android
+operating system with the ReactionX application installed to control
+and synchronize activation of the light systems and recording the
+reaction times of the fencers in all the evaluated tasks.
+Procedures
+In collaboration with coaches, four exercises were designed
+and conducted to systematically train reaction times and decisionmaking, simulating the controlled scenarios and actions that fencers
+face during a bout. (See figure 1).
+All measurements were taken during a fencing training session.
+The duration of all the tested conditions (exercise 1 to 4) was around
+10 minutes. All the exercises were explained and practiced for 3
+minutes first with the hand, and later with the plastic weapon.
+For all the exercises, the data provided by the system included
+the results for all trials (times and correctness), the fastest, the
+slowest, and the average of all trials. The quantity and color of the
+lights for each trial were also indicated.
+To test reaction abilities, four exercises were conducted, with
+different levels of uncertainty:
+Exercise 1 for Simple Reaction Time (SRT):
+The ReactionX application was configured on the device in
+"Order" mode, with lights positioned according to Figure 1. Only
+one light, following a specific sequence known to the athlete, was
+illuminated in a single color (green) and the fencer had to switch it
+off with a contact of the weapon. The interval between the extinguish
+of the light and the activation of the next light was randomized with
+times between 0.5 and 1.5 seconds.
+The fencer was positioned at a distance allowing them to reach
+the lights with their weapon (typically around 80-90 cm, depending
+on the athlete's height) and he/she started the test in a fencing guard
+position with the weapon pointed towards the lights and the target
+was to switch off the green lights as soon as possible when they
+appear.
+
+The ReactionX application was set to "Standard" mode, and
+the reaction time lights were arranged as per the previous exercise
+(Figure 1). Here, only one light out of the four illuminated randomly
+in a single color, while all other configurations of the app were the
+same that the preceding exercise. Athletes were requested to identify,
+locate, and react for touching only the illuminated light as fast as
+possible. Elective Reaction Time (ERT), was defined as the time
+an individual takes to make a decision and respond to the visual
+stimulus which, in this case, had four possible options.
+Responses faster than 100 ms were considered as anticipations
+and they were discarded. Additionally, responses longer than 1000
+ms were considered as blockages of the fencers and they were also
+discarded.
+The average of trials (lights exhibited) in the minute of testing
+were 27.69 ± 3.31 and the total number of discarded trials for
+anticipation of blockage for all the tested subjects were 22 (1.61%
+of the trials).
+Exercise 3 Go/Non-Go Exercise (G/NG):
+One of the main decisions a fencer must make is whether to
+enter in striking distance, to increase the possibility of touching
+during a bout. To assess this decision-making skill, the Reaction X
+application was set in "True-False" mode. In each trial a single green
+light (or none) was lightened with a 0.5-second delay between the
+extinguishing of the previous trial. The rest of the lights (or the four)
+were illuminated in red or yellow. In each trial, the lights remained
+illuminated for a maximum of 2 seconds.
+The fencer was asked to extinguish only the green lights and
+disregarding lights of other colors. The sequence of the lights was
+always randomized by the system. The fencer positioned themselves
+at the same distance as in previous exercises, commencing from the
+fencing guard position. In this exercise, we measured time included
+apart from the elective reaction time, the go/non-go response time.
+The fencer had to react to the colors of the lights to execute a touch
+or to stay in the guard position. The application provided acoustic
+feedback on incorrectly extinguished lights, as well as lights that were
+missed.
+Responses faster than 100 ms were considered as anticipations
+and they were discarded. Additionally, responses longer than 1000
+ms were considered as blockages of the fencers and they were also
+dicharded.
+The average of trials (lights exhibited) in the minute of testing
+were 17.27 ± 3.61 and the total number of discarded trials for
+anticipation of blockage for all the tested subjects were 3 (0.24% of
+the trials).
+Exercise 4 Decision-Making Exercise (DM)
+This is an evolution of the previous exercise where the fencer
+had to perform a specific type of exercise based on prior instructions,
+depending on the color of the light observed. The Reaction X
+application was configured on the device with the "Combined" mode.
+Only one lamp out of the four would light up randomly with one
+of the three predetermined colors (i.e. blue, red and green), each
+associated with a specific movement.
+
+Msc Rafael Barañano-Alcaide et al. / Rev Andal Med Deporte.. 2024; 17(1-2)
+
+65
+
+Table 1. Results of the four considered test by sex (times in ms).
+All (n=48) Males (n=25) Females (n=23) K-W / t
+
+P
+
+SRT1*
+
+388 ± 146
+
+429 ± 164
+
+360 ± 121
+
+0.843
+
+0.358
+
+ERT2*
+
+543 ± 115
+
+541 ± 146
+
+546 ± 68
+
+0.396
+
+0.529
+
+Cohen d
+
+G/NG3*
+
+570 ± 79
+
+556 ± 85
+
+576 ± 73
+
+0.038
+
+0.845
+
+DML4
+
+1083 ± 185
+
+1104 ± 159
+
+1016 ± 211
+
+0.841
+
+0.405
+
+DMM4
+
+1325 ± 234
+
+1331 ± 220
+
+1275 ± 251
+
+0.827
+
+0.412
+
+0.291
+
+DMB4
+
+1627 ± 268
+
+1612 ± 256
+
+1675 ± 281
+
+-0.809 0.423
+
+-0.234
+
+DM complete 1336 ± 319
+
+1338 ± 291
+
+1323 ± 348
+
+0.241
+
+0.040
+
+0.810
+
+0.243
+
+General results
+Table
+1 summarizes the
+mean values for each exercise for
+the entire sample. We note that the
+simple
+reaction time (SRT1) was
+(388 ± 146 ms), and the elective reaction
+time
+
+Note In exercises marked with “*” Kruskal-Wallis test (K-W) analysis is reported, in other cases Student’s T test (t) was applied.
+When the lamp illuminated with green light, the subject had
+to perform a lunge to touch the lights as quickly as possible (DML).
+If the illuminated light was red, the subject executed a marching
+movement to touch (DMM), and when the illuminated light was blue,
+they had to perform a breaking movement before executing a march
+or lunge to touch the activated device (DMB).
+With the reaction time lights located in the same position as
+the others exercise (Figure 1), the fencers stood in the guard position
+at a distance from the lights that allowed them to touch the lights
+by making a typical fencing displacement with the weapon (usually
+about 100-120 cm from the target). In each module of the exercise (i.e.
+DML, DMM and DMB), the times taken to turn off the lights for each
+module were displayed.
+Responses faster than 100 ms were considered as anticipations
+and they were discarded. Additionally, responses longer than 2500
+ms were considered as blockages of the fencers and they were also
+discarded.
+The average of trials (lights exhibited) in the minute of testing
+were 9.85 ± 4.24 and the total number of discarded trials for
+anticipation of blockage for all the tested subjects were 45 (3.17%
+of the trials).
+It must be noted that, both fencers and coaches, were more
+interested in the fourth exercise as it closely resembled real combat.
+Statistical Analysis
+For the descriptive statistics, the average of all the attempts of
+each exercise was obtained, after discarding the anticipated responses
+and blockings.
+The normality of all the considered variables was tested by the
+Shapiro-Wilk test. The normality was assumed only for the results of
+the DM4 exercises, but not the ERT, SRT and G/NG exercises. Given
+the limited sample size, in the results section of the manuscript both
+parametric and non-parametric test have been shown in the tables,
+according to the sample distribution. For all the statistical test the
+level of significance was set at α = 0.05)
+Kruskal-Wallis test were done for searching differences on the
+response times in the ERT, SRT and G/NG exercises by weapon, level
+of the fencer and gender, applying standard post hoc test for defining
+significant differences among groups.
+ANOVA for independent samples were done for searching
+differences on the response times by weapon and level of the fencer,
+applying Tukey post hoc test for defining significant differences
+among groups. Additionally, the η² was determined to define the
+effect size, considering values <0.01 as small effect, values >0.01 and
+<0.14 as medium effect and values >0.14 as high effect size.
+Finally, Student’s t test for independent samples was run for
+evaluating differences by gender in the results of the fourth exercise
+(DM4), and Cohen d was indicated to express the effect size of the
+differences by gender <0.2 as small effect, values >0.2 and <0.8 as
+medium effect and values >0.8 as high effect size.
+Results
+
+(ERT2) was (543 ± 115 ms). The mean value for the go/no-go exercise
+time (570 ± 79 ms) is quite similar to the elective reaction time. In the
+decision-making exercises, the fastest movement was the lunge
+(DML4) (1083± 185 ms), followed by the marching movement
+(DMM4) (1325 ± 234 ms), and the slowest was the breaking (DMB4)
+(16271 ± 268 ms).
+Results by sex
+The table 1 also displays the results separated by gender (males
+and females). As can be observed the Kruskal-Wallis test or the
+Student’s T test (depending in the character of the sample) do not
+show significant differences between genders in all the exercises)
+(p>0.05), and the results are quite similar without a clear trend on
+the differences by gender.
+Results by weapon
+Table 2 shows the averaged values by the fencer’s weapon. The
+ANOVA analysis pointed to significant differences only in the
+decision-making exercises, in the DML4 (F=4.741; p<0.05) and DMM4
+(F=6.196; p<0.05), but not in the DMB4 (F=1.073; p=0.350). When the
+average of the three decision-making exercises were considered
+(DM4), the results showed also significant differences by fencers
+weapon (F=4.688; p<0.05). In all the cases, the Tukey post-hoc
+analysis indicated that the significant differences were between Sabre
+and Foil groups (p<0.05), with higher decision-making values in the
+Sabre group and lower values in the Foil group. In all the cases, the
+Eppe group had intermediate results without significant differences
+among the other two groups.
+Results by level of the fencer
+In Table 3 is can be seen the average results by the level of the
+fencer. The general trend of the results indicates the worst
+performance (longer times) in amateur fencers, followed by regional
+and national level fencers, with the best performance (shorter times)
+seen in international level fencers. However, the one-way ANOVA or
+Kruskal-Wallis analysis only exhibits significant differences (p<0.05)
+for the ERT2 (K=8,649; p<0.05) and the DMM4 (F=4.539; p<0.05)
+exercises, and for average of the three decision-making exercises
+(DM4) (F=4.688; p<0.05). In all the cases, the Tukey post-hoc analysis
+indicated significant differences were between the amateur and
+international level fencers (p<0.05). Additionally, for the decisionmaking exercises (DMM4 and DM4) they were also found significant
+differences between amateur and national level fencers (p<0.05).
+Proposal of reference values
+With all the registered data, we have created a proposal of
+evaluation scale of the different exercises considered in the study
+(Table 4), which can be used for estimating the score of any fencer on
+
+66
+
+Msc Rafael Barañano-Alcaide et al. /Rev Andal Med Deporte.. 2024; 17(1-2)
+
+Table 2. Results of the four considered test by weapon (times in ms).
+Epee (a) (n=17) Sabre (b) (n=18) Foil (c) (n=13) K-W / F
+
+P
+
+η2
+
+SRT1*
+
+397 ± 113
+
+473 ± 178
+
+366 ± 115
+
+3.358
+
+ERT2*
+
+561 ± 141
+
+581 ± 117
+
+544 ± 68
+
+0.942
+
+0.625
+
+G/NG3*
+
+564 ± 66
+
+602 ± 99
+
+568 ± 59
+
+1.198
+
+0.549
+
+DML4
+
+1110 ± 186
+
+1192 ± 188c
+
+999 ± 121b
+
+4.741
+
+0.014 0.174
+
+1274 ± 215
+
+1432 ± 211c
+
+1166 ± 210b
+
+6.196
+
+0.004 0.216
+
+DMM4
+
+0.187
+
+DMB4
+
+1611 ± 282
+
+1714 ± 308
+
+1584 ± 165
+
+1.073
+
+0.350 0.046
+
+DM4
+
+1332 ± 309
+
+1446 ± 320c
+
+1250 ± 299b
+
+4.688
+
+0.011 0.062
+
+Note In exercises marked with “*” KruskalWallis test analysis (K-W) is reported, in other cases one way ANOVA (F) was applied.a, b, or c
+Significant differences between groups from the Tukey post-hoc test analysis is indicated with the letter of the group in superscript
+Table 3. Results of the four considered test by level of the fencer (times in ms).
+X
+
+Amateur (a) (n=12) Regional (b) (n=19) National (c) (n=10) International (d) (n=7) K-W / F
+
+P
+
+SRT1*
+
+480 ± 194
+
+435 ± 134
+
+369± 101
+
+329 ± 79
+
+5,347
+
+0,148
+
+ERT2*
+
+620 ± 127d
+
+572 ± 128
+
+543 ± 479
+
+479 ± 71a
+
+8,649
+
+0,034
+
+η2
+
+G/NG3*
+
+620 ± 96
+
+577 ± 72
+
+580 ± 63
+
+547± 89
+
+2,471
+
+0,481
+
+DML4
+
+1178 ± 240
+
+1125 ± 160
+
+1058 ± 190
+
+1033 ± 100
+
+1,277
+
+0,294 0,080
+
+DMM4
+
+1486 ± 156 c,d
+
+1287 ± 188
+
+1180 ± 291a
+
+1215 ± 226a
+
+4,539
+
+0,007 0,236
+
+DMB4
+
+1763 ± 389
+
+1666 ± 205
+
+1595 ± 161
+
+1439 ± 191
+
+2,655
+
+0,060 0,153
+
+DM
+
+1476 ± 363 c,d
+
+1360 ± 292
+
+1277 ± 317a
+
+1229 ± 241a
+
+4,688
+
+0,011 0,062
+
+Note In exercises marked with “*” Kruskal-Wallis test analysis (K-W) is reported, in other cases one way ANOVA (F) was applied.a,b,c or d
+Significant differences between groups from the Tukey post-hoc test analysis are indicated with the letter of the group in superscript.
+Table 4. Proposed reference scale in points (0 to 10) for assessing the level of the fencers in the different exercises considered in the study.
+Points
+
+SRT1
+
+ERT2
+
+G/NG3
+
+DML4
+
+DMM4
+
+DMB4
+
+#Trials Time #Trials Time #Trials Time #Trials Time #Trials Time #Trials Time
+
+0
+
+15
+
+781
+
+16
+
+1012
+
+10
+
+762
+
+4
+
+1623
+
+3
+
+1684
+
+3
+
+2480
+
+1
+
+21
+
+634
+
+24
+
+671
+
+11
+
+680
+
+7
+
+1340
+
+6
+
+1606
+
+5
+
+1967
+
+2
+
+28
+
+508
+
+25
+
+634
+
+13
+
+656
+
+8
+
+1297
+
+7
+
+1535
+
+6
+
+1763
+
+3
+
+30
+
+459
+
+26
+
+591
+
+14
+
+610
+
+9
+
+1250
+
+9
+
+1505
+
+7
+
+1718
+
+4
+
+30
+
+426
+
+27
+
+567
+
+15
+
+590
+
+10
+
+1141
+
+9
+
+1358
+
+9
+
+1651
+
+5
+
+32
+
+388
+
+28
+
+543
+
+16
+
+570
+
+11
+
+1090
+
+10
+
+1326
+
+10
+
+1627
+
+6
+
+36
+
+352
+
+28
+
+525
+
+18
+
+548
+
+12
+
+1048
+
+11
+
+1272
+
+11
+
+1573
+
+7
+
+37
+
+324
+
+29
+
+502
+
+20
+
+524
+
+12
+
+992
+
+11
+
+1151
+
+11
+
+1534
+
+8
+
+41
+
+297
+
+30
+
+479
+
+23
+
+508
+
+13
+
+933
+
+13
+
+1065
+
+12
+
+1468
+
+9
+
+43
+
+264
+
+31
+
+457
+
+25
+
+484
+
+13
+
+906
+
+13
+
+1004
+
+14
+
+1351
+
+10
+
+49
+
+197
+
+33
+
+407
+
+28
+
+468
+
+16
+
+809
+
+15
+
+779
+
+14
+
+997
+
+Note Time = Values expressed in ms; #Trials = average number of trials presented in one minute.
+Table 5. Scores in points (0 to 10) for the fencers by level of competition, considering the reference score proposed in Table 4.
+Points Time Points Time Points Time Points Time Points Time Points Time
+Amateur
+
+2.6
+
+480
+
+2.3
+
+620
+
+2.8
+
+620
+
+3.7
+
+1178
+
+3.1
+
+1486
+
+2.0
+
+1763
+
+Regional
+
+3.7
+
+435
+
+3.8
+
+572
+
+4.7
+
+577
+
+4.3
+
+1125
+
+5.7
+
+1287
+
+3.8
+
+1666
+
+National
+
+5.5
+
+369
+
+5.0
+
+543
+
+4.5
+
+580
+
+5.8
+
+1058
+
+6.8
+
+1180
+
+5.6
+
+1595
+
+International
+
+6.8
+
+329
+
+8.0
+
+479
+
+6.1
+
+547
+
+6.3
+
+1033
+
+6.5
+
+1215
+
+8.3
+
+1439
+
+Note Time = Values expressed in ms; #Trials = average number of trials presented in one minute.
+each exercise. For better understanding and interpretation of the
+evaluation scale, we have applied it to obtain the points of the average
+values on each exercise for the four competition levels of fencers
+(shown in Table 3).
+Discussion
+Reaction time lights are employed to enhance visual skills
+across various sports. The analysis of reaction time and visual
+anticipation should be integral to the design and implementation of
+a visual training program aimed at improving athletes' visual skills
+to enhance their sports performance13. They have demonstrated their
+
+validity in specific training sessions for fencers of varying levels to
+enhance the physical performance of fencers2,14,15.
+Based on this premise and with the assistance of coaches, we
+formulated specific exercises for evaluating the simple and elective
+reaction time and decision-making in fencers. We will discuss the
+obtained results, first in general and, later, according the gender, the
+weapon and the level of the fencer and we will propose a draft of a
+reference scale to establish the level of the fencers on those visual
+skills.
+
+Msc Rafael Barañano-Alcaide et al. / Rev Andal Med Deporte.. 2024; 17(1-2)
+General results
+The general results indicated that the reaction and decisionmaking times are directly related to the difficulty of the task. The
+fastest times corresponds to the SRT1 (388 ± 146 ms) because it was
+used a single light and there is a lack of cognitive processing in the
+task. The fencer just touched the light when it was switched on.
+The second exercise in term of cognitive complexity was the
+ERT2 (543± 115 ms), in which the fencers had four lights and they had
+to touch only the light that it was switch on.
+If we consider the SRT2 and ERT2 results, we can observe
+the differences of the fencers’ reaction times between planned and
+unplanned actions; when the fencers knew which light would be
+illuminate (SRT1), the times were shorter than when they were
+unaware (ERT1), these results are slightly different in absolute values
+but similar with the findings from other researchers with other sport
+and protocols10,16.
+The results for third exercise G/NG3 were quite similar to the
+ERT (570 ± 79 ms), similar to those found by other authors17 0.523
+± 0.074 ms. At this point, it must be considered that, as it was
+mentioned in the data collection protocol, the number of mistakes
+or blockages in the ERT2 exercise was higher (22 discarded; 1,61% of
+the whole) than in the G/NG3 (3 discarded; 0.24% of the whole). That
+point is very important to interpreter the results because in the ERT2
+exercise, the fencers started the movement when the four lights were
+activated, and the action could be optimized during the movement of
+the weapon. However, in the G/NG3 the action could not be corrected
+once the movement was started, and it could not be modified the
+trajectory of the weapon; so that, the decision-making had to be
+completely and perfectly done before starting the action. Tasks such
+as Go/No-Go, addressing choice and decision speed during exercise,
+and they can identify defects in visuomotor control and balance that
+may persist after recovery18.
+The most difficult tasks from a cognitive point of view were
+those included in exercise 4 (DML4, DMM4, DMB, and DM4 as
+the average of the three tasks). Considering all the decision-making
+exercises, we obtained results closely related to the technical aspects
+of the movements required of the fencer, even when significant
+differences between the exercises were not found. (p>0.05). The
+fastest movement was the lunge (DML4) (1083± 185 ms), which is
+the fastest attack in fencing, followed by the marching movement
+(DMM4) (1325 ± 234 ms), and the slowest results were for the
+breaking action (DMB4) (16271 ± 268 ms), because this movement
+requires a previous step backwards before starting the attack action.
+These times were higher than those obtained by other authors19
+(1083± 185 ms vs. 601 ± 82ms); these differences may be due not only
+to the different methodology of the studies, but also to the different
+level of the fencers, as they had only had elite fencer of aiming
+weapons: foil and epee, and in our sample we had also non-elite
+level athletes including saber fencers. The saber fencers normally
+touch with the edge of the weapon and they start from a different
+guard position; these conditions were different to the requested in the
+exercises. Other authors who measured accuracy and touch times in
+fencing with a protocol similar to ours obtained closer exercise times
+1336 ± 319 ms vs. 1680 ± 250 ms20,21 (1336 ± 319 ms vs. 1194 ± 86 ms)
+Results by sex
+The results separated by gender do not show significant
+differences between males and females in any of the exercises.
+(p>0.05), being the results quite similar in most of the exercises
+without a clear trend on the differences by gender. Although other
+authors also found no significant differences in attack speed between
+gender with a sample of 9 males and 13 female young fencers
+13.4±0.85 years old (men 3.6 ± 0.90 m/s and women 2.90 ± 0.72 m/s)4.
+
+67
+
+Other studies on fencing did show differences in the attack times of
+men compared to those carried out by women22 with a sample of 13
+men aged 25.9 ± 2.8 years and 13 women aged 25.8 ± 3.1 years foil
+fencer finalists from the FIE competitions.
+Results by weapon
+When we analyze the data by weapon, the average values of the
+foil fencers were the fastest, in all the exercises, being the differences
+statistically faster than the sabre fencers in the decision-making
+exercises DML4 (Foil= 999 ± 121 ms vs Sabre= 1192 ± 188 ms) (F=4.741;
+p<0.05) and DMM4 (Foil= 1166 ± 210 ms vs Sabre= 1432 ± 211 ms)
+(F=6.196; p<0.05), but not in the DMB4 (F=1.073; p=0.350). When
+the average of the three decision-making exercises were considered
+(DM4), the results showed also significant differences by fencers’
+weapon (F=4.688; p<0.05), with higher decision-making values in the
+sabre group and lower values in the foil group (Foil= 1250 ± 299
+ms vs Sabre= 1446 ± 320 ms). In all the cases, the Eppe group had
+intermediate results without significant differences among the other
+two groups.
+These results were expected because, although the Sabre fight
+is faster, its touch requires less accuracy and the usual touch is with
+the edge of the weapon, which is less accurate and not the requested
+technique in the exercises. Besides, the sabre fencers start from a
+different guard position, and they were not used the guard position
+requested on the exercises. These times were higher than those
+obtained (1110 ± 186 ms vs. 601 ± 82ms )19 for sword fencer, and (999±
+121 ms and 1194 ± 86 ms)21 for foil fencers, because these authors
+only had elite foil and epee fencers and in our sample were included
+fencers of different practice levels including amateur fencers.
+Results by level of the fencer
+When the averages obtained in the four exercises were
+separated by the level of competition of the athletes, The general
+trend of the results indicates the worst performance (higher times)
+in amateur fencers, followed by regional and national level fencers,
+with the best performance (lower times) seen in international
+level fencers, and the best results (lower times) were for the
+international level fencers, like other authors found for different
+sports (Van de Water et al., 2017). This is logical because the
+faster and more accurate is an athlete, the better can qualify in
+the championships; however, Kruskal-Wallis analysis only exhibited
+significant differences (p<0.05) for the ERT2 between the amateur
+fencer group and the international fencer group, (International= 479
+± 71 ms vs Amateur= 620 ± 127 ms) (K=8.649; p<0.05).
+When analyzed one way ANOVA, significant differences were
+shown in the DMM4 exercises between the amateur fencer group
+(1486 ± 156 ms) compared to the national (1180 ± 291 ms) and
+international (1215 ± 226 ms) fencer groups (F=4.539; p<0.05), and
+for average of the three decision-making exercises (DM4) with lower
+times for the amateur group 1476 ± 363 ms) compared with the
+International (1229 ± 241ms) and National (1277 ± 317 ms) groups
+(F=4.688; p<0.05). In all the cases, the Tukey post-hoc analysis
+indicated significant differences were between the amateur, and
+national, international level fencers (p<0.05).
+Application of the reference values
+After evaluating the fencers on any of the exercises considered
+in this manuscript, their results can be scored with the proposed
+reference scale (Table 4). The example shown in the Table 5 allows
+see in a glance that the level of performance is directly related with
+the competition level of the fencer. This reference scale could also be
+applied in processes of talent detection as an easy way to evaluate the
+
+68
+
+Msc Rafael Barañano-Alcaide et al. /Rev Andal Med Deporte.. 2024; 17(1-2)
+
+specific perceptive ability of the fencer, or to check the effect of the
+perceptive trainings, just comparing the scores before and after the
+intervention program.
+
+6
+
+Conclusions
+This manuscript proposes four specific exercises for evaluating
+the simple and elective reaction time and decision-making in fencers.
+The general results indicate that the reaction and decision-making
+times are directly related to the difficulty of the task. As other
+previous studies, we confirm that the fastest times corresponds to
+the SRT exercise followed by, at the same level by the ERT and G/NG3
+exercise; however, the number of blockage and mistakes and the
+technique of the required action must be considered in these cases.
+The most difficult tasks from the cognitive point of view were
+the decision-making exercises (DML, DMM and DMB) in which the
+results are close related to technique of the movements requested to
+the fencer. The fastest movement was the lunge (DML), followed by
+the march (DMM) and the slowest was the breaking action (DMB).
+The results separated by gender did not show significant
+differences between males and females in all the exercises.
+Considering the results by weapon, the foil fencers were faster than
+the saber fencers in all exercises, but they were only significantly
+faster in the DML and DMM exercises. In all the cases, the Eppe group
+had intermediate results without significant differences among the
+other two groups. Finally, when results were analyzed by the level
+of competition, performance in the all exercises was directly related
+with the competition level of the fencer.
+We have edited a reference scale to evaluate the perceptive
+ability of the fencers that could be applied in processes of talent
+detection and for evaluating the specific perceptive ability of the
+fencers.
+
+7
+8
+9
+
+10
+
+11
+
+12
+13
+
+Acknowledgments
+We thank all the fencing clubs of Andalusia that have
+participated voluntarily for their collaboration, sala de esgrima
+princesa de armas (Sevilla), Sala de esgrima (Bahia de cadiz Chiclana,
+Cadiz), Sala de esgrima de Huelva (Huelva), Sala de esgrima Almedina
+de Córdoba (Córdoba), and especially to the essential help to the
+fencing master D Emilio Quintela, for his collaboration and ideas for
+the development of the exercises.
+
+References
+1
+2
+3
+4
+
+5
+
+Murgu AI. Fencing. Phys Med Rehabil Clin N Am. 2006; 17(3),
+725-736. https://doi.org/10.1016/j.pmr.2006.05.008
+FIE. Rules. Available from: https://fie.org/fie/documents/
+rules.
+Roi GS, Bianchedi D. The science of fencing: implications for
+performance and injury prevention. Sports Med. 2008; 38,
+465-481. https://doi.org/10.2165/00007256-200838060-00003.
+Tsolakis C, Tsekouras Y, Daviotis T. Koulouvaris P.
+Papaggelopoulos P. Neuromuscular Screening to predict young
+fencers’ performance. J Biol Exer. 2018: 14. Available from
+https://doi.org/10.4127/jbe.2018.0134.
+https://www.researchgate.net/publication/
+325017779_Neuromuscular_Screening_to_predict_young_fencer
+s'_performance
+Khathutshelo PM. A review of assessment and skill training
+methods used in sports vision. Afr. J. Phys. Health Edu. Recreat.
+Dance. 2014; 20 (1): 204 - 213. https://www.researchgate.net/
+publication/
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+273103846_A_Review_of_Assessment_and_Skill_Training_Metho
+ds_used_in_Sports_vision
+Jung-Ho K, Ho-Jun S, Seung-Hyun L, Soonchul K VR/AR Headmounted Display System-based Measurement and Evaluation
+of Dynamic Visual Acuity. J. Eye Mov. Res. 2019; 12(8)
+https://doi.org/10.16910/JEMR.12.8.1
+Smith TQ, Mitroff SR. Stroboscopic Training Enhances
+Anticipatory Timing. Int. J Exerc. Sci. 2012; Oct 15;5(4):344-353.
+PMID: 27182391; PMC4738880
+Katanić B, Ilić P, Stojmenović A, Vitasović M. The application
+of Fitlight trainer system in sports. Fizička kultura. 20724; (2),
+115-126. https://doi.org/10.5937/fizkul74-27189
+Hagemann N, Schorer J, Cañal-Bruland R, Lotz S, Strauss B.
+Visual perception in fencing: do the eye movements of fencers
+represent their information pickup?. Attent. percep. & psycho.,
+2010;72(8), 2204–2214. https://doi.org/10.3758/bf03196695
+Mackala K, Vodicar J, Zvan M, Kriza J, Stodolka J, Rauter
+S, Coh M. Evaluation of the Pre-Planned and Non-Planed
+Agility Performance: Comparison between Individual and
+Team Sports. Int J Environ Res Public Health. 2020; 17(3), 975.
+https://doi.org/10.3390/ijerph17030975.
+Shelly Z, Stewart E, Fonville T, Chander H, Strawderman L,
+May D, Bichey C. Helmet prototype response time assessment
+using NCAA Division 1 collegiate football athletes. Int. J.
+Kinesiol. Sports Sci. 2019; 7(4), 53-65. https://doi.org/10.7575/
+aiac.ijkss.v.7n.4p.53
+Örs BS, Cantas F, Gungor EO, Simsek D. Assessment and
+comparison of visual skills among athletes. Int J Perf Anal Spor.
+2020; 1 https://doi.org/10.17155/omuspd.522342
+Kuan Y, Zuhairi N, Manan F, Knight V, Omar R. Visual reaction
+time and visual anticipation time between athletes and nonathletes.
+J.
+Public
+Health
+Med.
+2018,
+135-141.
+https://www.researchgate.net/publication/
+324441797_Visual_reaction_time_and_visual_anticipation_time_
+between_athletes_and_non-athletes.
+Vargas PC, Jiménez JM. Reducing Training Volume during
+Tapering Improves Performance in Taekwondo Athletes. J. Phys.
+Educ. Sport. 2018; 18 (4), 2221 - 2229. https://doi.org/10.7752/
+jpes.2018.04334
+Liu, Y., See, L., Chang, S., Lee, J., Shieh, L., Ning, Y., Lim,
+A.Y., & Chen, W. (2019). Simple and choice response time
+among elite and novice karate athletes and nonathletes. 2019.
+https://api.semanticscholar.org/CorpusID:201044382
+Rauter S, Coh M, Vodicar J, Zvan M, Krizaj J, Simenko
+J, Mackala K. . Analysis of reactive agility and change-ofdirection speed between soccer players and physical education
+students. Hum. Mov., (2018) 19 (2), 68-74. https://doi.org/
+10.5114/hm.2018.74061
+Gutiérrez-Dávila M, Zingsem C, Gutiérrez-Cruz C, Giles
+FJ, Rojas FJ. Effect of uncertainty during the lunge
+in fencing. J Sports Sci Med. 2014; Jan 20;13(1): 66-72.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3918569/
+Mitchell KM, Cinelli ME. Balance control in youth hockey
+players with and without a history of concussions during
+a lower limb reaching task. Clin Biomech. 2019: 67, 142-147.
+https://doi.org/10.1016/j.clinbiomech.2019.05.006
+Gutiérrez-Davila M, Rojas FJ., Gutiérrez-Cruz C, García C,
+Navarro E. Time required to initiate a defensive reaction to
+direct and feint attacks in fencing. J. Appl. Biomech.. 2016;
+32(6), 548-552. https://doi.org/10.1123/jab.2015-0333
+Witkowski M, Bojkowski Ł, Karpowicz K, Konieczny M,
+Bronikowski M, Tomczak M. Effectiveness and Durability of
+Transfer Training in Fencing. Int J Environ Res Public Health
+2020; 17(3), 849. http://dx.doi.org/10.3390/ijerph17030849
+
+Msc Rafael Barañano-Alcaide et al. / Rev Andal Med Deporte.. 2024; 17(1-2)
+21
+
+22
+
+Gutiérrez-Cruz C, Rojas FJ, Gutiérrez-Davila M. . Effect
+of defense response time during lunge in foil
+fencing. J. Sports Sci. 2016; 34(7),651–657. https://doi.org/
+10.1080/02640414.2015.1068434.
+Kontochristopoulos N. Tsolakis C. Offensive and defensive
+efficacy among male and female elite foil fencers. J Hum
+Sport Exer. 2020, 15(2): 294-302. https://doi.org/10.14198/
+jhse.2020.152.05
+
+69
+
+

@@ -1,0 +1,651 @@
+Discobolul – Physical Education, Sport and Kinetotherapy Journal, Volume 60, Issue 4, 465-474
+
+EFFECTIVE TRAINING INTERVENTIONS FOR THE
+DEVELOPMENT OF SPEED IN FENCING: A SYSTEMATIC REVIEW
+Petra MAGYAR1*, Mihaela ORAVIȚAN1
+1
+
+West University of Timișoara, Faculty of Physical Education and Sport, Timișoara, Romania
+*Corresponding author: petra.magyar94@e-uvt.ro
+
+https://doi.org/10.35189/dpeskj.2021.60.4.9
+
+Abstract. Fencing is a sport in which speed, agility, explosive power and anaerobic endurance are essential
+for performance; reaction speed and the accuracy of the hit are also indispensable for achieving an optimal
+technique. This study aimed to analyse the scientific literature in order to find the most effective training
+methods for the development of speed in fencing. Google Scholar, PubMed and Web of Science databases were
+accessed with the purpose of finding original research studies focused on developing different forms of speed in
+fencing for any technical element of this sport, which were written in English, Romanian or Hungarian and
+were accessible in full text. Finally, 16 articles were included in the study. The types of training that led to
+improved fencing speed were: eccentric and plyometric training, strength training, core strength training, speed
+training, agility training, instability resistance training, fitness training, circuit training, ballistic and dynamic
+stretch training (during warm-up), functional training, bilateral transfer training, SAQ (speed, agility,
+quickness) training. These types of training were applied to foil, sabre and épée fencers of both genders, from
+various age groups and with different levels of training over periods between 1 and 12 months. To date, the
+exclusive superiority of one method has not been explicitly proven. In conclusion, it can be argued that several
+types of training can develop different forms of fencing speed, especially reaction and execution speed, which
+helps to achieve better performance in this sport.
+Keywords: fencing, speed, reaction speed, execution speed.
+
+Introduction
+Fencing is an opened-skill sport in which the fight takes place between two duelling
+athletes who use one of the three weapons: épée, foil or sabre (Chtara et al., 2020). In épée
+and foil, a touch is performed by thrusting, while in sabre, this is done with the edge of the
+blade (Aquili et al., 2013). In fencing, a thrust or cutting edge is called a touch line. Although
+the technical and tactical requirements are very different for these three weapons, it is
+however necessary for all fencers using all weapons “to lunge, change direction, and recover
+to en garde as soon as possible” (Turner et al., 2017, p. 1666).
+Fencing involves a series of explosive attacks followed by low-intensity movements,
+predominantly entailing anaerobic metabolism (Wylde et al., 2013).
+During competitions, fencers must maintain defensive and offensive movements and
+therefore it is very important for their motor skills to be highly developed. Specific
+movements, for instance stepping back and forward or jumping, which are used “to make a
+touché to the opponent are directly proportional to the athlete’s agility and muscle strength.
+In general, these performance parameters may vary depending on the body size and structure
+of the fencers, but they can compete with equal success” (Turna, 2020, p. 127)
+Sorel et al. (2019) highlight the importance of high levels of coordination, explosive
+power, speed and accuracy for fencing effectiveness. These are associated with “perceptual
+
+465
+
+Discobolul – Physical Education, Sport and Kinetotherapy Journal, Volume 60, Issue 4, 465-474
+
+and psychomotor skills (i.e., the ability to quickly and appropriately respond to an opponent’s
+actions)” (Turner et al., 2014, p. 3001).
+Due to the training process and characteristic movements during an assault, fencing can be
+considered a sport in which reaction time plays a significant role in achieving sports
+performance (Czajkowski, 2005). Speed is classically defined as the shortest time needed by
+an object to move along a fixed distance. In fencing, speed is defined as an athlete’s ability to
+perform and complete a movement in the shortest possible time, and reaction speed is one of
+its decisive components. Quick reaction, which is closely related to the processing of visual
+or tactile stimuli, muscle coordination during the movement, technical and tactical skills or
+optimal mental state, greatly influences the overall fencing performance (Balkó et al., 2016).
+To be successful in attack, the fencer needs to react as fast as possible to the opponent’s
+actions (Milic, Janicijevic et al., 2020). Roi and Bianchedi (2008) suggest that, after
+identifying relevant information from the opponent, it is important for the fencer to react
+quickly, which requires “good coordination to achieve both speed and accuracy” (p. 474).
+The lunge is the most commonly used form of fencing attack and its speed “is considered
+critical to success” (Guan et al., 2018, p. 201). In order to lunge, the fencer advances from the
+en-garde position, exerts force with the rear foot, accelerating forward with a thrust of the
+weapon arm and a step with the front foot (Stewart & Kopetka, 2005). “This acceleration
+phase ends when the rear foot stops to push against the floor” (Gutierrez-Davila et al., 2013,
+p. 364). Because fencers are constantly under time pressure, they are forced to reduce their
+decision-making time and sensorimotor response time (Milic, Nedeljkovic et al., 2020).
+Among all the forms of speed encountered in fencing (reaction, execution, repetition,
+movement, uniform or non-uniform speed), it can be said that reaction speed and execution
+speed are preponderantly the subject of published research. In the literature, there is a wide
+range of studies on reaction speed in fencing but none confirms that a certain type of training
+programme is the most effective (Torun et al., 2012).
+This study aimed to analyse the scientific literature in order to find the most effective
+training interventions for the development of speed in fencing athletes.
+Methodology
+A systematic search of the literature was performed in Google Scholar, PubMed and Web
+of Science databases. The PRISMA (Preferred Reporting Items for Systematic reviews and
+Meta-Analyses) methodology was respected by establishing some inclusion and exclusion
+criteria for the identified scientific materials (Page et al., 2021). The search was not limited to
+a certain period of time; the initial search revealed articles published between 1968 and 2021.
+The following keyword associations were used to search for information: “fencing”, “fencing
+speed”, “reaction speed in fencing” or “reaction velocity in fencing”, “fencing speed
+development”, “training”; connectors such as “and” or “or” were also used.
+This study included articles that focused on the development of fencing speed (for any
+technical element), which were written in English, Romanian or Hungarian and were
+accessible in full text. After the initial search, duplicates were removed, and the remaining
+articles were evaluated in detail. Systematic reviews, meta-analyses and single-participant
+articles were excluded, as well as those that were not explicitly related to our study.
+466
+
+Discobolul – Physical Education, Sport and Kinetotherapy Journal, Volume 60, Issue 4, 465-474
+
+Results
+The preliminary search led to the identification of 79 articles, of which 16 articles with
+original studies were considered eligible and included in the final analysis that made concrete
+references to the methods approached to increase fencing speed (Figure 1).
+
+Figure 1. Flowchart for the selection of records
+The scientific material taken into account highlights that so far the following training
+methods have been used to increase fencing speed: eccentric and plyometric training, strength
+training, core strength training, speed training, agility training, instability resistance training,
+fitness training, circuit training, ballistic and dynamic stretch training (during warm-up),
+functional training, bilateral transfer training, SAQ (speed, agility, quickness) training. Some
+research was carried out with innovative training and evaluation methods, thus identifying
+conditions and factors that favourably influenced speed.
+Table 1 presents the main information that supports the effectiveness of certain
+interventions made in the training programmes to increase fencing speed.
+The main characteristics of the studies included in the review are shown in Table 1.
+
+467
+
+Discobolul – Physical Education, Sport and Kinetotherapy Journal, Volume 60, Issue 4, 465-474
+
+Table 1. Main characteristics of the studies included in the review
+Source
+Balkó et
+al., 2017
+
+Di Cagnio
+et al., 2020
+
+Elfateh,
+2016
+
+Guan et
+al., 2018
+
+Hamza,
+2013
+
+Mohamed
+& Larion,
+2018
+Murugesan
+& Jothi,
+2019
+Patial et
+al., 2019
+
+Redondo
+et al., 2014
+
+Participants
+n =19 fencers (épée)
+12 M, 16 ± 1.1 yr.
+7 F, 16.4 ± 0.9 yr.
+SG (n = 14)
+CG (n = 5)
+n = 54 fencers (foil) (M)
+IG (n = 26), 17.3 ± 1.9 yr.
+PG (n = 28), 17.6 ± 2.7 yr.
+
+Methods
+SG: reaction time training
+CG: traditional training
+Duration: 9 weeks
+
+Results
+Better choice reaction time
+(CRT) in SG compared to CG
+(p = 0.116) and baseline (p =
+0.013)
+
+IG: accentuated eccentric
+training with a rotary inertial
+device
+PG: plyometric training
+Duration: 6 weeks
+
+n = 30 fencers (F)
+17.8 ± 1.9 yr.
+SG (n = 15)
+CG (n = 15)
+n = 19 fencers (épée) (M)
+18 yr.
+Elite fencers (n = 7)
+Intermediate-level fencers
+(n = 12)
+n = 18 fencers
+13.2 ± 1.9 yr.
+SG1 (n = 6)
+SG2 (n = 6)
+CG (n = 6)
+
+SG: instability resistance
+training (BOSU ball)
+CG: traditional training
+Duration: 10 weeks
+Lunge speed and biomechanics
+were measured
+
+Shorter time advance - advance
+lunge without weapon in IG (p
+< 0.001)
+Longer distance advance advance lunge without weapon
+in SG (p = 0.00005)
+Better execution speed in IG
+Better static and dynamic
+balance, lunge and footwork in
+SG (p < 0.05)
+Results showed that the HPV
+(horizontal peak velocity) of
+elite fencers was significantly
+higher than in intermediatelevel fencers (p < 0.001)
+
+m = 20 fencers (épée)
+20.12 ± 1.23 yr.
+SG (n = 10)
+CG (n = 10)
+n = 20 fencers
+SG (n = 10)
+CG (n = 10)
+n = 60 fencers (épée) (M)
+16 ± 2 yr.
+SG (n = 30)
+CG (n = 30)
+n = 12 fencers (M)
+SG (n = 6), 24 ± 7.2 yr.
+CG (n = 6), 22.3 ± 8.1 yr.
+
+Sajit et al.,
+2009
+
+n = 16 fencers (épée) (F)
+SG (n = 8)
+CG (n = 8)
+
+Sorel et
+al., 2019
+
+n = 11 fencers
+22 ± 3 yr.
+
+SG1: core strength training
+with a sling (Swiss ball and
+bodyweight exercises)
+SG2: core strength training
+with no sling
+CG: traditional training
+Duration: 10 weeks
+SG: SAQ training
+CG: traditional training
+Duration: 10 weeks
+SG: circuit training (3/week)
+CG: regular physical training
+Duration: 8 weeks
+SG: Yoga training
+CG: traditional training
+Duration: 8 weeks
+SG: maximal strength training
+and explosive power training
+(2/week)
+CG: standard physical
+conditioning programme
+Duration: 12 weeks
+SG: a repetitive training method
+for maximum intensity
+CG: traditional training
+Duration: 6 weeks
+Lunge accuracy and response
+time were measured with an
+innovative simulator
+performing lunges in fixed,
+moving and uncertain
+conditions
+
+468
+
+Core strength training (SG1 and
+SG2) increased static and
+dynamic strength, core strength
+and lunge speed (p < 0.05)
+Only for lunge performance
+speed, SG1 increased more than
+SG2 (p < 0.05)
+SAQ training improved
+coordination, agility, movement
+speed, back strength and
+performance level (p < 0.05)
+Better speed and speed
+endurance in SG (p < 0.05)
+SG significantly improved
+fencers’ speed (p < 0.05)
+
+Maximal strength and explosive
+power were better in SG (p <
+0.05)
+
+Better rapid ability of the
+weapon arm (p = 0.021) and
+attack accuracy (p = 0.011) in
+SG
+Accuracy and success
+decreased significantly while
+moving and in uncertain
+conditions and were negatively
+correlated with reaction speed
+(p < 0.05)
+
+Discobolul – Physical Education, Sport and Kinetotherapy Journal, Volume 60, Issue 4, 465-474
+
+Table 1 (continued). Main characteristics of the studies included in the review
+Source
+Torun et
+al., 2012
+
+Tsolakis et
+al., 2010
+
+Turna,
+2020
+
+Witkowski
+et al., 2020
+
+Yas et al.,
+2020
+
+Participants
+n = 45 fencers
+(17 F, 28 M)
+11.04 ± 0.93 yr.
+BFG (n = 15)
+STG (n = 15)
+CG (n = 15)
+n = 20 fencers
+21.7 ± 3.4 yr.
+(10 M, 10 F)
+
+Methods
+BFG: basic fencing training
+STG: speed training
+CG: traditional training
+Duration: 8 weeks
+
+Results
+BFG had better intragroup upper-limb
+reaction time (p = 0.002)
+STG had better intragroup reaction
+time for both the upper (p = 0.011)
+and lower limbs (p = 0.022)
+
+Two different warm-up
+methods (either static or
+ballistic stretching) for the
+quadriceps, hamstring and
+gastrocnemius muscles
+
+N = 48 fencers
+(24 M, 24 F)
+SG (n = 24) (12M)
+CG (n = -24) (12M)
+n = 32 fencers (foil)
+(16 F, 16 M)
+SG (n = 16)
+CG (n = 16)
+n = 14 fencers
+SG (n = 7)
+CG (n = 7)
+
+SG: agility training
+CG: traditional training
+Duration: 6 weeks
+
+Time on the Sit-and-Reach test (prepost) (p = 0.001) and Shuttle test (p =
+0.036) for both types
+In male fencers: greater squat jump,
+reactive strength index, power of
+lunge and on the Shuttle test (p <
+0.001)
+Better agility, simple reaction time and
+multiple reaction time in SG post-test
+(p < 0.05)
+
+SG: transfer training
+CG: traditional training
+Duration: 6 weeks
+
+Increased accuracy of the hits and
+movement speed with the dominant
+arm in SG (post-test) (p < 0.05)
+
+SG: use of an innovative
+SG had better reaction speed in postmethod to develop the speed of test (p < 0.05)
+the kinetic response to the skill
+of stabbing with a shish
+weapon
+CG: traditional training
+Duration: 8 weeks
+
+Legend: n = number of participants; M = male; F = female; CG = control group; SG = study group; IG - inertial group; PG - plyometric
+group; yr.= years
+
+Discussion
+Motor reaction, speed, explosive power and movement accuracy play an important role in
+determining fencing success (Singer, 1968; Tuner et al., 2013). Reaction time is essential
+“because a faster reaction can reduce the total movement time” (Turna, 2020, p. 128). It is
+unanimously accepted that experienced fencers are faster and better than novice fencers in
+terms of information processing. Elite fencers show better sequential coordination of the
+upper and lower limb movements, with more coherent patterns of muscle activation
+compared to beginner fencers (Chen et al., 2017). Guilhem et al. (2014) state that
+neuromuscular coordination in elite fencers produces higher magnitudes of forward linear
+velocity of the body centre of mass and weapon, which is why training should focus on
+explosive power. In addition, constant efforts have been made to find new solutions to
+increase speed and agility in all categories of fencing.
+Most studies investigating methods of increasing speed in fencing compared the effects of
+traditional training with its various changes or by alternating it with other types of training.
+Most of the interventions were made over a period of 6-12 weeks and commonly used fencers
+who performed traditional training as control groups. None of them explicitly referred to a
+particular weapon but to fencing in general.
+
+469
+
+Discobolul – Physical Education, Sport and Kinetotherapy Journal, Volume 60, Issue 4, 465-474
+
+Following the analysis undertaken, we have observed that there is very little research
+comparing the concrete effects of different types of training for the development of speed in
+fencing and there are no systematic reviews or meta-analyses studying this information.
+Of all the interventions made in the fencing training programmes, some were effective for
+increasing speed. Thus:
+● Eccentric and plyometric training produced a significant improvement in fencingspecific speed movements; these types of workouts increased the lunge length but the
+time needed to perform them remained the same (di Cagnio et al., 2020). This was
+obviously also due to increased speed; this training modality, as a variation of training
+means, could be recommended for young fencers. According to Turner et al. (2013),
+plyometrics and Olympic-style lifts are one of the most effective forms of ballistic
+training, which can be adapted to different branches of sport and induce full
+acceleration through the entire movement.
+● Within 12 weeks, strength training based on maximal and explosive exercises
+determined a significant increase in reaction speed, correlated with increased maximal
+and explosive power (Redondo et al., 2014); strength training is recommended to be
+used because it is a basic component of sports training and can lead to performance.
+Guilhem et al. (2014) and Guan et al. (2018) demonstrate that knee biomechanics is
+crucial for lunge performance and assert the importance of strength and explosive
+power training, especially for knee and hip extensors. A low en-garde position and a
+full extension of the rear knee joint during the lunge are suggested to improve the
+horizontal peak velocity of the centre of gravity and therefore the fencer’s speed.
+● Core strength training induced an increased lunge performance speed (Hamza, 2013).
+● The training intervention of yoga practices had statistically significant effects on the
+selected physical fitness components: speed, coordination, balance, grip strength,
+agility and flexibility. Yoga practices play a vital role in improving the speed,
+coordination, balance, grip strength, agility and flexibility of fencing athletes (Patial et
+al., 2019).
+● Specific and non-specific exercises were used in speed training, and reaction speed was
+assessed for both the lower and upper limbs. The results showed that, compared to
+traditional training where an increase in reaction speed was obtained only for the upper
+limbs, speed training significantly increased reaction speed for all limbs (Torun et al.,
+2012).
+● Within 6 weeks, agility training led to significant improvements in simple and multiple
+reaction time. “In addition to traditional fencing training, agility training can provide
+performance advantages to the athletes.” (Turna, 2020, p. 133)
+● In the study by Witkowski et al. (2020), bilateral transfer training applied for 6 weeks
+led to a significant increase in accuracy and speed for the dexterous hand thrust;
+however, the effect was in the short term because, 4 weeks after the programme, there
+was no statistically significant difference between the dexterous and non-dexterous
+hand. Research on motor coordination shows that both hemispheres of the brain are
+involved in controlling the action of each upper limb, so a transfer (interhemispheric)
+training programme can effectively improve the accuracy of fencing actions, at least in
+the early stages of training (Witkowski et al., 2017).
+470
+
+Discobolul – Physical Education, Sport and Kinetotherapy Journal, Volume 60, Issue 4, 465-474
+
+● SAQ training, based on exercises for the development of speed, agility and quickness,
+improved strength, coordination, agility and speed in all its forms (Mohamed & Larion,
+2018); this type of training can be used individually, therefore there are training
+methods for each of its components.
+● Instability resistance training, consisting of exercises performed with the Bosu ball,
+improved static and dynamic balance but also the performance level of basic fencing
+elements, including speed (Elfateh, 2016).
+● Circuit training led to a significant increase in lunge speed (Murugesan & Jothi, 2019).
+In addition to these findings, a preliminary study conducted on one female fencer who
+benefited from a functional training system with modified exercise for fencing (with kettle
+bells and rope) produced a better movement quality during single-leg movements and also
+improved dynamic leap and balance (Agosti & Autuori, 2020). However, more reliable
+results in this area require more research.
+The results of the study by Tsolakis et al. (2010) deny the hypothesis that static or ballistic
+stretching in the later stages of general warm-up leads to increased specific performance in
+fencing. However, they recommend any type of stretching with a maximum duration of 60
+seconds for each muscle, followed by a rest period of at least 5 minutes before any other
+activity, without fear of affecting the speed and power of fencing athletes.
+The use of modern testing methods has led to highlighting the correlations between speed
+and specific biomechanical parameters; these aspects justify both the use of such methods in
+the training of athletes and the indirect influence of speed by modifying certain
+biomechanical aspects of fencing-specific movements. Sorel et al. (2019) used an innovative
+simulator for performing lunges in fixed, moving and uncertain conditions; they assessed
+lunge accuracy, response time, execution time and maximum sword velocity, demonstrating
+that accuracy and success decreased significantly in moving and uncertain conditions
+compared to fixed ones and were negatively correlated with the reaction speed of fencers.
+The above authors concluded that training with a simulator in uncertain and moving
+conditions could induce better accuracy, reaction time and response time, therefore better
+speed. Such stimulators can adapt the athlete’s attack to the opponent’s movement and
+increase reaction speed and execution speed. Another innovative method to develop the speed
+of the kinetic response to the skill of stabbing with a shish weapon was used by Yas et al.
+(2020) on beginner fencers and showed that using a device to implement exercises led to
+better results than the specific training without such devices.
+The limitations of the aforementioned articles are related to: 1. the low number of studies
+that have investigated the effects of the same training method on fencing speed, therefore the
+impossibility of performing a meta-analysis; 2. the fact that most studies in which the control
+group has done traditional fencing training do not describe this type of training, knowing that
+it can be quite different; 3. the relatively small number of participants in most of the selected
+studies - although specific to this sport, it can affect the reliability of the results.
+
+471
+
+Discobolul – Physical Education, Sport and Kinetotherapy Journal, Volume 60, Issue 4, 465-474
+
+Conclusion
+An essential element that contributes to fencing performance is speed optimisation. To this
+end, besides traditional training methods, various interventions have been made over time in
+the training programmes of fencing athletes; of these, both those dedicated to increasing
+speed and those for developing muscle strength, agility, instability resistance, bilateral
+transfer or circuit training have proven to be effective. Adding static or ballistic stretching
+elements in the warm-up sequence or using training simulators has also induced an increase
+in speed.
+Given that speed is determined by a multitude of sensory, psychological, neurological,
+articular and muscular factors, it is impossible to find a single element responsible for
+increasing speed. We can conclude that complementary interventions towards as many
+determinants of speed as possible could bring the desired results.
+References
+Agosti, V., & Autuori, M. (2020). Fencing Functional Training System (FFTS): A new
+pedagogical-educational training project. Sport Science, 13(Suppl 1), 118-122.
+Aquili, A., Tancredi, V., Triossi, T., De Sanctis, D., Padua, E., D’Arcangelo, G., &
+Melchiorri, G. (2013). Performance analysis in saber. The Journal of Strength &
+Conditioning Research, 27(3), 624-630. https://doi.org/10.1519/JSC.0b013e318257803f
+Balkó, Š., Rous, M., Balkó, I., Hnízdil, J., & Borysiuk, Z. (2017). Influence of a 9-week
+training intervention on the reaction time of fencers aged 15 to 18 years. Physical Activity
+Review, 5, 146-154.
+Balkó, Š., Zbigniev, B., & Simonek, J. (2016). The influence of different performance level
+of fencers on simple and choice reaction time. Revista Brasileira de Cineantropometria e
+Desempenho Humano, 18(4), 391-400. https://doi.org/10.5007/1980-0037.2016v18n4p391
+Chen, T. L.-W., Wong, D. W.-C., Wang, Y., Ren, S., Yan, F., & Zhang, M. (2017).
+Biomechanics of fencing sport: A scoping review. PloS ONE, 12(2): e0171578.
+https://doi.org/10.1371/journal.pone.0171578
+Chtara, H., Negra, Y., Chaabene, H., Chtara, M., Cronin, J., & Chaouachi, A. (2020).Validity
+and reliability of a new test of change of direction in fencing athletes. International
+Journal of Environmental Research and Public Health, 17(12): 4545..
+https://doi.org/10.3390/ijerph17124545
+Czajkowski, Z. (2005). Understanding fencing: The unity and practise. SKA Swordplay
+Books.
+Di Cagnio, A., Iuliano, E., Buonsenso, A., Giombini, A., Di Martino, G., Parisi, A.,
+Calcagno, G., & Fiorilli, G. (2020). Effects of accentuated eccentric training vs plyometric
+training on performance of young elite fencers. Journal of Sports Science &
+Medicine, 19(4), 703-713.
+Elfateh, A. (2016). Effects of ten weeks of instability resistance training (BOSU ball) on
+muscular balance and the learning level of fencing basics. Ovidius University Annals,
+Series Physical Education & Sport/Science, Movement & Health, 16(2, Supplement), 273279.
+Guan, Y., Guo, L., Wu, N., Zhang, L., & Warburton, D. (2018). Biomechanical insights into
+the determinants of speed in the fencing lunge. European Journal of Sport Science, 18(2),
+201-208. https://doi.org/10.1080/17461391.2017.1414886
+
+472
+
+Discobolul – Physical Education, Sport and Kinetotherapy Journal, Volume 60, Issue 4, 465-474
+
+Guilhem, G., Giroux, C., Couturier, A., Chollet, D., & Rabita, G. (2014). Mechanical and
+muscular coordination patterns during a high-level fencing assault. Medicine & Science in
+Sports & Exercise, 46(2), 341-350. https://doi.org/10.1249/MSS.0b013e3182a6401b
+Gutierrez-Davila, M., Rojas, F. J., Antonio, R., & Navarro, E. (2013). Response timing in the
+lunge and target change in elite versus medium-level fencers. European Journal of Sport
+Science, 13(4), 364-371. https://doi.org/10.1080/17461391.2011.635704
+Hamza, A. (2013). The effects of core strength training (with and without suspension) on
+ipid peroxidation and lunge speed for young fencers. Ovidius University Annals, Series
+Physical Education & Sport/Science, Movement & Health, 13(2, Supplement), 129-136.
+Milic, M., Janicijevic, D., Nedeljkovic, A., Cuk, I., Mudric, M., & García-Ramos, A. (2020).
+Optimal instructions to maximize attack efficiency in beginners and experienced
+fencers. Motor Control, 25(2), 153-166. https://doi.org/10.1123/mc.2020-0065
+Milic, M., Nedeljkovic, A., Cuk, I., Mudric, M., & García-Ramos, A. (2020). Comparison of
+reaction time between beginners and experienced fencers during quasi-realistic fencing
+situations. European Journal of Sport Science, 20(7), 896-905.
+https://doi.org/10.1080/17461391.2019.1671498
+Mohamed, S. A., & Larion, A. (2018). Effect of SAQ training on certain physical variables
+and performance level for sabre fencers. Ovidius University Annals, Series Physical
+Education & Sport/Science, Movement & Health, 18(1), 46-51.
+Murugesan, T., & Jothi, K. (2019). Effects of circuit training on speed related parameters
+among fencers. International Journal of Physiology, Nutrition and Physical Education,
+4(1), 378-379.
+Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D.,
+Shamseer, L., Tetzlaff, J. M., Akl, E. A., Brennan, S. E., Chou, R., Glanville, J.,
+Grimshaw, J. M., Hróbjartsson, A., Lalu, M. M., Tianjing Li, T., Loder, E. W., MayoWilson, E., McDonald, S., ... Moher, D. (2021). The PRISMA 2020 statement: An
+updated guideline for reporting systematic reviews. British Medical Journal, 372: 71.
+https://doi.org/10.1136/bmj.n71
+Patial, D. S., Bansode, N. N., & Purohit, S. G. (2019). Effects of yoga on the physical fitness
+components of the adolescent fencers. International Journal of Yogic, Human Movement
+and Sports Sciences, 4(1), 171-173.
+Redondo, J. C., Alonso, C. J., Sedano, S., & de Benito, A. M. (2014). Effects of a 12-week
+strength training program on experimented fencers’ movement time. The Journal of
+Strength & Conditioning Research, 28(12), 3375-3384.
+https://doi.org/10.1519/JSC.0000000000000581
+Roi, G. S., & Bianchedi, D. (2008). The science of fencing: Implications for performance and
+injury prevention. Sports Medicine, 38, 465-481.
+https://doi.org/10.2165/00007256-200838060-00003
+Sajit, H. M., Sajit, H. A., Abbas, A. K., & Shuaila, H. A. W. A. (2009). The effect of special
+exercises according to the phosphate energy system in developing the rapid ability to the
+weapon arm and the accuracy of the épée attack for girl players. Journal of Global
+Pharma Technology, 10(8), 461-468.
+Singer, R. N. (1968). Speed and accuracy of movement as related to fencing success.
+Research Quarterly. American Association for Health, Physical Education and
+Recreation, 39(4), 1080-1083. https://doi.org/10.1080/10671188.1968.10613465
+Sorel, A., Plantard, P., Bideau, N., & Pontonnier, C. (2019). Studying fencing lunge accuracy
+and response time in uncertain conditions with an innovative simulator. PLoS ONE, 14(7):
+e0218959. https://doi.org/10.1371/journal.pone.0218959
+Stewart, S. L., & Kopetka, B. (2005). The kinematic determinants of speed in the fencing
+lunge. Journal of Sports Sciences, 23(2): 105.
+
+473
+
+Discobolul – Physical Education, Sport and Kinetotherapy Journal, Volume 60, Issue 4, 465-474
+
+Torun, V., Ince, G., & Durgun, B. (2012). The effects of basic fencing studies and velocity
+training on reaction time in the 9-12-year-old beginners of fencing. Sport Science, 5(1),
+59-66.
+Tsolakis, C., Douvis, A., Tsigganos, G., Zacharogiannis, E., & Smirniotou, A. (2010). Acute
+effects of stretching on flexibility, power and sport specific performance in fencers.
+Journal of Human Kinetics, 26, 105-114. https://doi.org/10.2478/v10078-010-0054-x
+Turna, B. (2020). The effect of agility training on reaction time in fencers. Journal of
+Education and Learning, 9(1), 127-135. https://doi.org/10.5539/jel.v9n1p127
+Turner, A., James, N., Dimitriou, L., Greenhalgh, A., Moody, J., Fulcher, D., Mias, E., &
+Kilduff, L. (2014). Determinants of Olympic fencing performance and implications for
+strength and conditioning training. The Journal of Strength & Conditioning
+Research, 28(10), 3001-3011. http://dx.doi.org/10.1519/JSC.0000000000000478
+Turner, A., Miller, S., Stewart, P., Cree, J., Ingram, R., Dimitriou, L., Moody, J., & Kilduff,
+L. (2013). Strength and conditioning for fencing. Strength & Conditioning Journal, 35(1),
+1-9. https://doi.org/10.1519/SSC.0b013e31826e7283
+Turner, A. N., Bishop, C. J., Cree, J. A., Edwards, M. L., Chavda, S., Read, P. J., & Kirby, D.
+M. J. (2017). Do fencers require a weapon-specific approach to strength and conditioning
+training? Journal of Strength and Conditioning Research, 31(6), 1662-1668.
+https://doi.org/10.1519/JSC.0000000000001637
+Witkowski, M., Bojkowski, Ł., Karpowicz, K., Konieczny, M., Bronikowski, M., &
+Tomczak, M. (2020). Effectiveness and durability of transfer training in
+fencing. International Journal of Environmental Research and Public Health, 17(3): 849.
+https://doi.org/10.3390/ijerph17030849
+Witkowski, M., Bronikowski, M., Nowik, A., Tomczak, M., Strugarek, J., & Króliczak, G.
+(2017). Evaluation of the effectiveness of a transfer (interhemispheric) training program in
+the early stages of fencing training. The Journal of Sports Medicine and Physical
+Fitness, 58(9), 1368-1374. https://doi.org/10.23736/s0022-4707.17.07556-9
+Wylde, J. M., Tan, F. H., & O’Donoghue, G. P. (2013). A time-motion analysis of elite
+women’s foil fencing. International Journal of Performance Analysis in Sport, 13(2), 365376. https://doi.org/10.1080/24748668.2013.11868654
+Yas, H. A., Hafez, S. N., & Noman, F. Y. (2020). The effect of special exercises using an
+innovative method to develop the speed of the kinetic response with the skill of stabbing
+for the beginners of the specialized school in the Shish Corps for fencing. Journal of
+Cellular Automata, 15(9), 23-34.
+
+474
+
+
