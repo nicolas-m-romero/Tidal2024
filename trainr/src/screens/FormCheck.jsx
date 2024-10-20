@@ -74,11 +74,11 @@ function FormCheck() {
                     <InputFile onFileSelect={handleFileSelect}/>
                     <ActivitySelect />
                 </div>
-                <div className="flex flex-col my-5 gap-5 ">
+                <div className="flex flex-col my-5 gap-5 items-center">
                     {!showVideo && (<Button title="Upload Video" onClick={handleButtonClick} />)}
                     {showVideo && (    
                         <video
-                            className="w-full rounded-lg shadow-lg"
+                            className="w-1/4 rounded-lg shadow-lg"
                             controls
                             autoPlay={false}
                         >
