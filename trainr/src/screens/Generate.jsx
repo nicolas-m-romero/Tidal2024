@@ -17,6 +17,29 @@ function Generate() {
     const [workoutDescription, setWorkoutDescription] = useState('');
     const [popupVisible, setPopupVisible] = useState(false); // State for the popup message
 
+    // State for research papers
+    // State for research papers
+    const [researchPapers, setResearchPapers] = useState([
+        '"Developing the speed of fencers"',
+        '"Effective training interventions of speed in fencing"',
+        '"Effects of 8-week basketball workout"',
+        '"Effects of combined balance and plyometric"',
+        '"Effects of Running-Specific Strength Training"',
+        '"Fencing Training with Reaction Time Lights"',
+        '"Resistance Exercise for Improving Running Economy"',
+        '"The Training and Development of Sprint Performance"',
+        '"Training load and demands in basketball"'
+    ]);
+    const [newPaper, setNewPaper] = useState(''); // State for the new research paper input
+
+    // Function to add a new research paper
+    const handleAddPaper = () => {
+        if (newPaper.trim() !== '') {
+            setResearchPapers([...researchPapers, newPaper]);
+            setNewPaper(''); // Clear input field
+        }
+    };
+
     const loadWorkouts = () => {
         const storedWorkouts = JSON.parse(localStorage.getItem('workouts')) || [];
         return storedWorkouts;
@@ -80,6 +103,24 @@ function Generate() {
                     onChange={(e) => setWorkoutDescription(e.target.value)}
                     />
                     <Button title="Generate Workout" onClick={handleGenerateWorkout} className />
+                </div>
+                {/* Research Paper Section */}
+                <div className="py-5 mt-10"> {/* Added margin-top to move the section lower */}
+                    <h3 className="text-lg font-bold mb-2">Research Papers</h3>
+                    <Input 
+                        label="New Research Paper" 
+                        placeholder="Enter paper title..." 
+                        value={newPaper} 
+                        onChange={(e) => setNewPaper(e.target.value)} // Update new paper state
+                    />
+                    <div className="mt-4"> {/* Added margin to separate the button from the input */}
+                        <Button title="Add Paper" onClick={handleAddPaper} />
+                    </div>
+                    <ul className="list-disc pl-5 mt-4">
+                        {researchPapers.map((paper, index) => (
+                            <li key={index}>{paper}</li> // Display list of research papers
+                        ))}
+                    </ul>
                 </div>
             </div>
             <Footer />

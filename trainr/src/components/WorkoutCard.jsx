@@ -4,7 +4,6 @@ const WorkoutCard = ({ workout, onClick }) => {
     // Parse the Response JSON string into a JavaScript object
     const workoutDetails = JSON.parse(workout.Response);
     const sources = workout.Sources;
-
     return (
         <div
             className="bg-primary100 text-bg100 p-4 rounded-lg w-128 h-64 flex flex-col justify-between items-start font-sans 
@@ -27,6 +26,15 @@ const WorkoutCard = ({ workout, onClick }) => {
                 ) : (
                     <p>No exercises available.</p>
                 )}
+                {/* Display sources at the bottom */}
+              <div className="mt-2 text-sm text-gray-600"> {/* Optional: Style the sources */}
+                  <h4 className="font-semibold">Sources:</h4>
+                  <ul className="list-disc pl-5">
+                      {sources.map((source, index) => (
+                          <li key={index}>{source}</li>
+                      ))}
+                  </ul>
+              </div>
             </div>
         </div>
     );
