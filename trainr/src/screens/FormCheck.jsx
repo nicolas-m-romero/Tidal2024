@@ -55,12 +55,14 @@ function FormCheck() {
         } finally {
           setLoading(false);
         }
-      };
+    };
+
+    const videoPath = uploadedFileName === 'nicoRunningPose.mp4' ? 'nicoRunningPose.mp4' : 'manRunBeach.mp4';
 
     const handleButtonClick = () => {
         setShowVideo(true);
-        if (uploadedFileName === 'nicoRunningPose.mp4') fetchScore('/score/nicoRunningPose.csv');
-        else fetchScore('/score/otherRunningPose.csv');
+        if (uploadedFileName === 'nicoRunningPose.mp4') fetchScore('/score/nicoRunning.csv');
+        else fetchScore('/score/manRunBeach.csv');
     };
 
     return (
