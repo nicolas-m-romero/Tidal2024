@@ -20,5 +20,17 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  .text-outline {
+    text-shadow: 
+        2px 2px 0 #000, 
+       -2px -2px 0 #000, 
+        2px -2px 0 #000, 
+       -2px 2px 0 #000, 
+        2px 0 0 #000, 
+       -2px 0 0 #000, 
+        0 2px 0 #000, 
+        0 -2px 0 #000;
+}
 }
 
