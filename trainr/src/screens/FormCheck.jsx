@@ -10,7 +10,8 @@ import Button from '../components/Button'
 
 function FormCheck() {
     const [showVideo, setShowVideo] = useState(false);
-    const [score, setScore] = useState(75);
+    {/* Hard coding this for demo purposes, but the score function works and gives a proper value using the calculation */}
+    const [score, setScore] = useState(78);
     const [error, setError] = useState(null);
     const [uploadedFileName, setUploadedFileName] = useState('');
 
