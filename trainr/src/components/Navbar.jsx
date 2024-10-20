@@ -4,7 +4,7 @@ import { ReactComponent as Logo } from '../assets/react.svg';
 
 const Navbar = () => {
     return (
-        <nav className="flex justify-between items-center py-4 px-6">
+        <nav className="font-h1 flex justify-between items-center py-4 px-6">
         {/* Left Side (Logo) */}
         {/* <div className="flex items-center">
             <Logo />

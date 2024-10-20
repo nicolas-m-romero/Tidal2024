@@ -18,6 +18,11 @@ export default {
         bg200: "#F1F1F1",
         bg300: "#C8C8C8"
       },
+      fontFamily: {
+        body: ['Inter', 'sans-serif'],
+        h1: ['Bree Serif', 'serif'],
+        h2: ['Fugaz One', 'cursive']
+      }
     },
   },
   plugins: [],
