@@ -16,7 +16,7 @@ function FormCheck() {
         <div className="flex flex-col min-h-screen gap-5">
             <div className="flex-grow">
                 <Navbar />
-                <Header title="Form Check" description="Here you can upload a video of your workout for professional feedback." />
+                <Header title="Form Check" description="Upload a video and receive professional feedback on your form." />
                 <div className="flex flex-row gap-5">
                     <InputFile />
                     <ActivitySelect />

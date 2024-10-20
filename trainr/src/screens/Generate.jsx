@@ -38,16 +38,16 @@ function Generate() {
             <div className="flex-grow">
                 <Navbar />
                 <Header title="Workout Generation" description="Enter your desired workout below; the more detailed the better." />
-                <div className="flex flex-row gap-5 py-5">
+                <div className="flex flex-row gap-5">
                     <Input label="Workout Title" placeholder="Workout Title e.g. (Sprints)" />
                     <IntensitySelect />
                     <DurationSelect />
                 </div>
-                <div className="flex flex-col gap-5">
+                <div className="flex flex-col gap-5 py-5">
                     <Textarea label="Workout Description" placeholder="Workout details here e.g. Basketball, fencing, rock climbing" 
                     onChange={(e) => setWorkoutDescription(e.target.value)}
                     />
-                    <Button title="Generate Workout" onClick={handleGenerateWorkout}  />
+                    <Button title="Generate Workout" onClick={handleGenerateWorkout} className />
                 </div>
             </div>
             <Footer />
