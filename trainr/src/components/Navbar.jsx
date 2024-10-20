@@ -10,14 +10,16 @@ const Navbar = () => {
         <nav className="font-h1 flex justify-between items-center py-4 px-6">
         {/* Left Side (Logo) */}
         <div className="flex items-center">
-            <img src={Logo} />
+            <a onClick={() => navigate('/')}>
+                <img src={Logo} />
+            </a>
         </div>
     
         {/* Right Side (Buttons) */}
         <div className="flex space-x-6">
             <Button title="Generate" onClick={() => navigate('/generate')}></Button>
             <Button title="Dashboard" onClick={() => navigate('/dashboard')}></Button>
-            <Button title="Form Check" onClick={() => navigate('/')}></Button>
+            <Button title="Form Check" onClick={() => navigate('/formcheck')}></Button>
         </div>
     </nav>
     )
