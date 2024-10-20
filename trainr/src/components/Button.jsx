@@ -6,8 +6,9 @@ const Button = ({title, onClick}) => {
                         border 
                         border-transparent 
                         px-4 py-2 text-base font-medium 
-                        bg-[#1a1a1a] cursor-pointer transition-colors duration-200
-                        hover:border-[#646cff] focus:outline focus:outline-4 focus:outline-webkit-focus-ring-color"
+                        text-primary100
+                        bg-bg100 cursor-pointer transition-colors duration-200
+                        hover:border-primary100 focus:outline focus:outline-4 focus:outline-webkit-focus-ring-color"
                 onClick={onClick}>
             {title}
         </button>
