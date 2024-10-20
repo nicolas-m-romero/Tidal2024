@@ -1,34 +1,23 @@
-import React from 'react'
-
-import '../App.css'
-import Navbar from '../components/Navbar'
-import Footer from '../components/Footer'
-import Header from '../components/Header'
-import WorkoutCard from '../components/WorkoutCard'
-import { useState, useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
+import '../App.css';
+import Navbar from '../components/Navbar';
+import Footer from '../components/Footer';
+import Header from '../components/Header';
+import WorkoutCard from '../components/WorkoutCard'; // Import WorkoutCard
+import Modal from '../components/Modal'; // Import Modal
 
 function Dashboard() {
-    const [workouts, setWorkouts] = useState([]); // Initialize workouts state
+    const [workouts, setWorkouts] = useState([]);
+    const [selectedWorkout, setSelectedWorkout] = useState(null);
+    const [isModalOpen, setIsModalOpen] = useState(false);
 
-    // Load workouts from localStorage
     const loadWorkouts = () => {
         const storedWorkouts = JSON.parse(localStorage.getItem('workouts')) || [];
         return storedWorkouts;
     };
+
     useEffect(() => {
         setWorkouts(loadWorkouts());
-        
-        // Listen for changes in localStorage
-        const handleStorageChange = () => {
-            setWorkouts(loadWorkouts());
-        };
-
-        window.addEventListener('storage', handleStorageChange);
-
-        // Clean up the event listener
-        return () => {
-            window.removeEventListener('storage', handleStorageChange);
-        };
     }, []);
 
     const handleClearWorkouts = () => {
@@ -36,24 +25,39 @@ function Dashboard() {
         setWorkouts([]); // Clear the workouts state
         alert('Workouts cleared from local storage!'); // Optional: Alert the user
     };
+
+    const handleCardClick = (workout) => {
+        setSelectedWorkout(workout);
+        setIsModalOpen(true); // Open the modal
+    };
+
+    const closeModal = () => {
+        setIsModalOpen(false); // Close the modal
+        setSelectedWorkout(null); // Reset selected workout
+    };
+
     return (
         <div className="flex flex-col min-h-screen">
             <div className="flex-grow">
                 <Navbar />
                 <Header title="Dashboard" description="Welcome to your dashboard. Here you can view your saved workouts." />
+                
                 <button onClick={handleClearWorkouts} className="bg-red-500 text-white p-2 rounded mb-4">
-                    Clear 
+                    Clear Workouts
                 </button>
-                <div className="flex flex-wrap gap-5 p-5">
-                    {/* Render workouts in reverse order */}
-                    {workouts.slice().reverse().map((workout, index) => ( // Use slice to avoid mutating the original array
-                        <WorkoutCard key={index} workout={workout} />
+
+                <div className="flex flex-wrap gap-5 p-5 justify-center"> {/* Center the cards */}
+                    {workouts.slice().reverse().map((workout, index) => (
+                        <div className="w-64" key={index}> {/* Fixed width for cards */}
+                            <WorkoutCard workout={workout} onClick={() => handleCardClick(workout)} />
+                        </div>
                     ))}
                 </div>
             </div>
             <Footer />
+            <Modal isOpen={isModalOpen} onClose={closeModal} workout={selectedWorkout} /> {/* Render the modal */}
         </div>
-    )
+    );
 }
 
-export default Dashboard
+export default Dashboard;

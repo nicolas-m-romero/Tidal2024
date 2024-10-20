@@ -35,7 +35,7 @@ Use the following context for reference:
 
 Can you generate a workout plan for 7 days using this context: {question}.
 
-It should be in JSON format with the name of the day (day1, day2, day3, etc...) as the keys and the workout plan as the values. The values should be a list of exercies with their sets, reps, rest, and weights (exercise : exercise_name, sets : number_of_sets, reps : number_of_reps, rest : time_to_rest, weight : weight_amount)."
+It should be in JSON format with the name of the day (Day 1, Day 2, Day 3, etc...) as the keys and the workout plan as the values. The values should be a list of exercies with their sets, reps, rest, and weights (exercise : exercise_name, sets : number_of_sets, reps : number_of_reps, rest : time_to_rest, weight : weight_amount)."
 Only return the JSON with all keys and values as strings.
 """
 
