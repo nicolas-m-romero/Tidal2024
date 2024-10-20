@@ -117,7 +117,6 @@ def retrieve():
 
 @app.route("/cv/<path:video_path>", methods=["GET"])
 def cv(video_path):
-    print("HELLO")
     model = YOLO("yolov8n-pose.pt")
     cap = cv2.VideoCapture(video_path)
 
