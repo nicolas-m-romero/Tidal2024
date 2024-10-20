@@ -8,6 +8,8 @@
   font-weight: 400;
   margin: 0 auto;
 
+  /* display: flex; */
+
   max-width: 80ch;
 
   color-scheme: light dark;
