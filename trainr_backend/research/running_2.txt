@@ -1,0 +1,2414 @@
+Haugen et al. Sports Medicine - Open
+(2019) 5:44
+https://doi.org/10.1186/s40798-019-0221-0
+
+REVIEW ARTICLE
+
+Open Access
+
+The Training and Development of Elite
+Sprint Performance: an Integration of
+Scientific and Best Practice Literature
+Thomas Haugen1* , Stephen Seiler2, Øyvind Sandbakk3 and Espen Tønnessen1
+
+Abstract
+Despite a voluminous body of research devoted to sprint training, our understanding of the training process
+leading to a world-class sprint performance is limited. The objective of this review is to integrate scientific and best
+practice literature regarding the training and development of elite sprint performance. Sprint performance is heavily
+dependent upon genetic traits, and the annual within-athlete performance differences are lower than the typical
+variation, the smallest worthwhile change, and the influence of external conditions such as wind, monitoring
+methodologies, etc. Still, key underlying determinants (e.g., power, technique, and sprint-specific endurance) are
+trainable. In this review, we describe how well-known training principles (progression, specificity, variation/
+periodization, and individualization) and varying training methods (e.g., sprinting/running, technical training,
+strength/power, plyometric training) are used in a sprint training context. Indeed, there is a considerable gap
+between science and best practice in how training principles and methods are applied. While the vast majority of
+sprint-related studies are performed on young team sport athletes and focus on brief sprints with maximal intensity
+and short recoveries, elite sprinters perform sprinting/running over a broad range of distances and with varying
+intensity and recovery periods. Within best practice, there is a stronger link between choice of training component
+(i.e., modality, duration, intensity, recovery, session rate) and the intended purpose of the training session compared
+with the “one-size-fits-all” approach in scientific literature. This review provides a point of departure for scientists
+and practitioners regarding the training and development of elite sprint performance and can serve as a position
+statement for outlining state-of-the-art sprint training recommendations and for generation of new hypotheses to
+be tested in future research.
+Keywords: Sprint conditioning, Training guidelines, Training volume, Acceleration, Maximal velocity
+ We provide a point of departure for discussion
+
+Key Points
+ There are considerable gaps between science and
+
+best practice in how training principles and training
+methods should be applied for elite sprint
+performance
+ This review serves as a position statement for
+outlining state-of-the-art sprint training
+recommendations
+
+* Correspondence: thomas.haugen@kristiania.no
+1
+Faculty of Health Sciences, Kristiania University College, PB 1190 Sentrum,
+0107 Oslo, Norway
+Full list of author information is available at the end of the article
+
+between scientists and practitioners regarding the
+training and development of sprint performance
+
+Background
+The crowning of the 100-m sprint champion remains a
+hallmark of each Olympic Games, and the winners are
+“the world’s fastest humans.” The dramatic world record
+progression since the first modern Olympics has been
+driven by advancing training methodology and deliberate
+practice, combined with key improvements in running
+surfaces and footwear. Because sprint running is a core
+capacity that underlies performance in many sports,
+there is a voluminous body of scientific literature devoted to sprint training. The vast majority of sprint-
+
+© The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made.
+
+Haugen et al. Sports Medicine - Open
+
+(2019) 5:44
+
+related training interventions have reported positive effects on sprinting capabilities [1–4], leading to the assumption that sprinting performance is easily improved
+with a variety of methods. In contrast, observations of
+elite athletes over time show a very different reality, one
+where most annual within-athlete performance differences are lower than typical variation, the smallest
+worthwhile change, and the influence of external conditions (wind, temperature, altitude, timing methods/procedures, etc.) [5, 6]. Plausible explanations for this
+mismatch between published science and observed practice are (1) publication bias in favor of positive findings
+and (2) subject training status bias, with most experimental data coming from studies of untrained or moderately trained performers.
+In contrast to the many descriptive studies of worldclass endurance athletes (e.g., [7–9]), no studies of
+world-class sprinters to date have described the varying
+training components (modality, duration, intensity, resting periods, session rate, etc.) across the annual cycle. It
+is fair to say that positive developments in sprint training
+methods employed by world-class athletes have not been
+driven by sports scientists. Publicly available “recipe
+books” and training guides based upon the practical experience and intuition of world-leading sprint coaches,
+and also governing body documents from acknowledged
+athletics federations, have become important and popular sources of best practice training information and
+framework development for the international sprint
+community [10–18]. We believe combining data sources
+from available research evidence and results-proven
+practice provides a valid point of departure for outlining
+state-of-the-art sprint training recommendations and for
+generation of new hypotheses to be tested in future research. The objective of this review is therefore to integrate scientific and best practice literature regarding the
+training and development of elite sprint performance.
+Although the present review is anchored in athletics and
+competitive 100-m sprinting, most of the content is also
+relevant for other sports where linear sprints frequently
+occur.
+
+Sprint Performance Determinants
+The 100-m sprint has traditionally been categorized into
+three main phases: acceleration, maximal velocity, and
+deceleration [19, 20]. The acceleration phase can in turn
+be segregated into initial (start block and reaction), middle, and final subsections [21]. Reaction time in worldclass sprinters is typically 0.17–0.18 ± 0.03 s [22]. The
+shape of the velocity curve is consistent across performance level, but the duration and quality of each phase
+vary from athlete to athlete. Overall, maximal velocity is
+highly correlated with 100-m sprint performance, and
+the best sprinters accelerate over a longer distance than
+
+Page 2 of 16
+
+their lower performing counterparts [23, 24]. Table 1
+displays an overview of observed split times as a function
+of 100-m sprint performance level [25–32] and can be
+used to identify individual strengths and weaknesses
+across the varying phases.
+Power, technique, and sprint-specific endurance are
+considered key underlying determinants of 100-m sprint
+performance [3, 11–16, 24, 33, 34]. A very strong relationship exists between maximal horizontal power output and sprint performance; the shorter the sprint
+distance is, the higher the association with maximal
+horizontal power output [35]. Power output demand in
+sprinting increases exponentially with velocity [35, 36].
+Slawinski et al. [23] reported that step averaged maximal
+horizontal power output in male and female world-class
+sprinters was 30.3 ± 2.5 and 24.5 ± 4.2 W kg− 1, respectively, typically reached after ~ 1 s of sprinting. The highest individual values for men and women were 36.1 and
+29.3 W kg− 1 respectively, representing current upper
+limits in humans [37].
+Although the basic principles of sprinting are relatively
+simple and governed by the laws of motion, the way an
+athlete solves the mechanical constraints and utilizes the
+degrees of freedom within these constraints is far more
+complex [24]. A review of research literature shows that
+the following kinematic variables have received the most
+attention [38–47]:
+ Spatiotemporal variables (e.g., step length, step rate,
+
+contact time, flight/aerial time)
+ Segment configuration at touchdown and lift-off
+ Lower-limb segment velocities immediately prior to
+
+touchdown or during ground contact
+ Front- and back-side mechanics
+
+Indeed, sprint mechanical variables are entangled, and
+no single variable is associated with better performance
+[24]. Because kinetics and kinematics are entwined, athletes cannot apply sprinting mechanics that they are not
+adequately predisposed to. For more information regarding the sprint running technique, we refer to previously
+published biomechanical analyses (e.g., [20, 24, 33, 34,
+38–51]).
+Sprint-specific endurance refers to the deceleration
+phase of the sprint. The velocity decline is typically accompanied by a reduction in step rate [24]. Sprintrelated fatigue is attributed to disturbances in the central
+nervous system and peripheral factors within the skeletal
+muscles [52–55]. Available research indicates that leg
+stiffness, which influences elastic energy storage, is particularly crucial for sprint-specific endurance [56–61].
+Sprint-specific endurance is also determined by instantaneous energy delivery [24]. Estimated from accumulated oxygen deficit measures, the relative anaerobic
+
+Haugen et al. Sports Medicine - Open
+
+(2019) 5:44
+
+Page 3 of 16
+
+Table 1 Split times (mean ± SD) across 100-m sprint performance level
+n
+
+30 m (s)
+
+60 m (s)
+
+80 m (s)
+
+30–60 m (s)
+
+60–80 m (s)
+
+80–100 m (s)
+
+60–100 m (s)
+
+1
+
+3.78
+
+6.31
+
+7.92
+
+2.53
+
+1.61
+
+1.66
+
+3.27
+
+100 m men
+9.58a
+9.71–9.80
+
+5
+
+3.82 ± 0.01
+
+6.37 ± 0.03
+
+8.05 ± 0.03
+
+2.55 ± 0.02
+
+1.68 ± 0.03
+
+1.72 ± 0.03
+
+3.40 ± 0.05
+
+9.81–9.90
+
+7
+
+3.83 ± 0.04
+
+6.42 ± 0.04
+
+8.12 ± 0.02
+
+2.60 ± 0.02
+
+1.70 ± 0.03
+
+1.75 ± 0.02
+
+3.45 ± 0.05
+
+9.91–10.00
+
+12
+
+3.85 ± 0.04
+
+6.46 ± 0.04
+
+8.18 ± 0.04
+
+2.61 ± 0.02
+
+1.73 ± 0.01
+
+1.77 ± 0.02
+
+3.50 ± 0.03
+
+10.01–10.10
+
+21
+
+3.89 ± 0.04
+
+6.51 ± 0.03
+
+8.26 ± 0.03
+
+2.62 ± 0.03
+
+1.74 ± 0.01
+
+1.79 ± 0.02
+
+3.54 ± 0.04
+
+10.11–10.20
+
+24
+
+3.95 ± 0.04
+
+6.60 ± 0.05
+
+8.36 ± 0.05
+
+2.64 ± 0.03
+
+1.75 ± 0.01
+
+1.81 ± 0.04
+
+3.57 ± 0.03
+
+10.61–10.70
+
+4
+
+4.07 ± 0.02
+
+6.89 ± 0.03
+
+8.76 ± 0.03
+
+2.82 ± 0.01
+
+1.87 ± 0.02
+
+1.90 ± 0.05
+
+3.78 ± 0.06
+
+10.71–10.80
+
+12
+
+4.10 ± 0.03
+
+6.94 ± 0.04
+
+8.83 ± 0.03
+
+2.84 ± 0.01
+
+1.88 ± 0.02
+
+1.93 ± 0.03
+
+3.82 ± 0.04
+
+10.81–10.90
+
+5
+
+4.17 ± 0.06
+
+6.99 ± 0.04
+
+8.89 ± 0.03
+
+2.85 ± 0.02
+
+1.90 ± 0.01
+
+1.95 ± 0.03
+
+3.86 ± 0.04
+
+10.91–11.00
+
+6
+
+4.17 ± 0.07
+
+7.05 ± 0.04
+
+8.97 ± 0.03
+
+2.87 ± 0.04
+
+1.92 ± 0.02
+
+1.99 ± 0.03
+
+3.92 ± 0.04
+
+11.01–11.10
+
+6
+
+4.18 ± 0.05
+
+7.09 ± 0.03
+
+9.03 ± 0.02
+
+2.89 ± 0.04
+
+1.94 ± 0.02
+
+2.01 ± 0.02
+
+3.95 ± 0.03
+
+11.11–11.20
+
+9
+
+4.20 ± 0.05
+
+7.15 ± 0.05
+
+9.13 ± 0.04
+
+2.95 ± 0.02
+
+1.98 ± 0.02
+
+2.04 ± 0.04
+
+4.02 ± 0.05
+
+100 m women
+
+The calculations are based on biomechanical reports from international championships [23–30]
+a
+Usain Bolt’s world record race from 2009
+
+energy system contribution (from stored adenosine triphosphate, stored phosphocreatine, and anaerobic glycolysis) is about 80% for 100-m sprint [62].
+Sprint performance is heavily dependent upon genetic
+traits. Charlie Francis, an acknowledged sprint coach,
+stated that “sprinters are born, not made” [14]. However,
+which genetic profiles make the greatest contribution
+has been the subject for much debate [63, 64], as genetic
+predispositions include not only anthropometric characteristics and muscle fiber-type proportions, but also the
+capacity to adapt to training [65, 66]. In general, elite
+performance appears polygenetic, with the contribution
+of numerous genetic variants being additive.
+
+Sprint Performance Development
+Sprint performance capacity evolves and devolves
+throughout life via growth, maturation, training, and
+aging [5, 67–69]. Age of peak performance in worldclass sprinters is typically 25–26 years [5, 70, 71]. However, the concept of training age needs to be considered
+when assessing age of peak performance. Athletes who
+start with specialized training at a young age may also
+tend to reach their peak performance at an earlier age
+than their counterparts who specialize somewhat later.
+Haugen et al. [5] reported that for world top 100
+sprinters in their early 20s, mean annual improvements
+were in the range of only 0.1–0.2%. The very best athletes generally display greater improvement in the years
+just preceding age of peak performance compared with
+their lower performing counterparts [5, 72, 73]. For example, Haugen et al. [72] reported that the world’s alltime best male and female sprinters improved by an
+average of 8% from 18 years of age, while the
+
+corresponding improvement for Norwegian nationallevel competitive sprinters was 1.3–1.4%. The potential
+use of doping among some of the investigated athletes
+may have affected these results, but trainability variations across performance level may also be explained by
+other factors (e.g., training status, responsiveness to
+training, coaching quality, nutrition, etc.). Nevertheless,
+it becomes very challenging to enhance or even maintain
+sprint performance beyond the age of 30 [5, 70], most
+likely due to neural and/or hormonal factors and an agerelated decrease in type II fiber distribution and/or
+cross-sectional area [74–76].
+Identification and development of sprint talent are
+confounded by the observed variation in physical maturation rate and timing. Elite junior athletics is characterized by a combination of marked relative-age effects and
+high attrition rates. Many young athletes may be discouraged from continuing to senior level before realizing
+their full potential [77, 78]. Boccia et al. [79] observed
+that, within a group of talented young performers, athletic performance in the early teens is not a good predictor of senior performance in long and high jump. It is
+reasonable to assume that this is also true for sprinting.
+Taken all findings together, sprinters who perform at a
+high junior level without excessive specialization are at
+the optimal point of departure for senior success. Excessive specialization and inappropriate training progression
+increase the odds of nonfunctional overreaching, overtraining, and performance stagnation [80, 81]. A widely
+held view is that elite performance requires ~ 10 years or
+10,000 h of deliberate practice to acquire the necessary
+skills and experience to perform at an international level
+[82, 83]. Although the deliberate practice framework has
+
+Haugen et al. Sports Medicine - Open
+
+(2019) 5:44
+
+gained popularity in sport science and in popular literature, its applicability to sprint running is very limited.
+The publicly available biography of Usain Bolt [84] exemplifies that extremely talented athletes can reach an
+international level within only 5–6 years of deliberate
+practice. Indeed, there is considerable variation among
+athletes and numerous routes to expertise under optimal
+conditions. As a foundation for long-term training strategy, coaches rely on well-established training principles
+to design programs and make educated decisions.
+
+Page 4 of 16
+
+sessions with spike shoes on a rubberized track surface.
+Because such training is demanding for the central nervous system, empirical evidence suggests that intensive
+sprinting sessions require at least 48 h of recovery.
+Hence, sprinting on consecutive days rarely occurs
+among leading practitioners [10–18]. In contrast, recovery sessions or low-intensive intervals are typically
+performed with cushioned running shoes/trainers on
+grass or artificial turf. There is a long tradition for
+low-intensive interval training on grass in Jamaican
+sprinting [10].
+
+Training Principles
+Progressive Overload
+
+Specificity
+
+Long-term performance development is only achieved
+when athletes are exposed to a systematic increase in
+training load over time, while adequate recovery is ensured [85]. Indeed, the capacity to perform and absorb
+large training loads is seen as both an adaptation over
+time and a talent in itself. Training load in sprint running is determined by a series of components such as
+training modality (e.g., sprinting/running, strength training, plyometric training), duration, intensity, resting periods, session rate, running surface, and footwear [10–
+16]. These components will be treated more in detail in
+a sprint-specific setting later in this review.
+The principle of progressive overload is envisioned to
+reduce the risk of injury and overtraining while stimulating long-term training adaptations. Excessive and rapid
+increases in training loads are likely responsible for a
+large proportion of soft-tissue injuries [86, 87]. In
+sprinters, the training phase immediately following the
+off-season and the transition phase between the preparation period and competitive season are particularly vulnerable periods for injury. Haugen et al. [88] observed
+that two-thirds of all hamstring injuries in competitive
+sprinters occurred in the transition period between specific preparation and competition season. This period is
+ideally characterized by large reductions in training volume, increases in training intensity/sprint speed, and
+positive “bumps” in individual sprint performance development. Therefore, during the initial weeks of a sprint
+training program, there should be a gradual
+familiarization, both in terms of intensity and duration/
+repetitions. Moreover, it is crucial that sprinters gradually mobilize their maximal sprinting capacity as the
+competitive season approaches. When the difference between training speed and competition speed is too large,
+injury risk appears to increase, but aggregated data on
+this relationship in competitive sprinters are lacking.
+Running surface and footwear are crucial and specific
+modifiers of training load for sprinting. It is generally assumed that the harder the surface is, the higher the
+neuromuscular load for the lower limbs [10, 11, 13–15].
+Most elite sprinters perform high-intensive sprinting
+
+Training adaptations are specific to the stimulus applied,
+encompassing movement patterns and force-velocity
+characteristics such as muscle actions and muscle
+groups used, speed of movement, range of motion, training load, and energy systems involved [89]. Based on
+these considerations, it is not surprising that sprint running and high-velocity movements are paramount for
+sprint performance enhancement [4, 90]. According to
+Charlie Francis, the main stimulus is the number of
+sprinting meters at high intensity [13, 14]. However,
+there are also variations within specific conditions. For
+example, sprint running can be performed under
+assisted or resisted conditions. Other “less specific”
+training forms such as strength, power, and plyometric
+training are commonly performed to target the underlying components of sprint performance [10–18]. Although these training forms do not duplicate the holistic
+sprint running movement, they provide targeted stimuli
+of important components that limit sprint performance.
+The varying training methods for sprint performance enhancements are treated more in detail later in this
+review.
+Variation and Periodization
+
+The principle of variation builds on the notion that systematic variation in specific training variables is most effective for long-term adaptations [90–92]. According to
+the American College of Sports Medicine (ACSM), advanced athletes should perform training with higher
+relative loading in a periodized fashion. The higher the
+performance level, the more systematic variation is recommended [90]. The most commonly investigated training theory involving planned training variation is
+periodization, an often misused term that today refers to
+any form of training plan, regardless of structure [92].
+Matveyev was the first to write a book about training
+periodization in the 1960s [93]. A key feature for the
+traditional periodization model was early emphasis on
+high training volume with low intensity, followed by a
+gradual transition to higher training intensity and reduced volume as the competition periods approached.
+
+Haugen et al. Sports Medicine - Open
+
+(2019) 5:44
+
+Several leading sprint coaches are skeptical of the classic
+periodization model because (1) the initial high-volume/
+low-intensity training leads to inappropriate adaptations,
+(2) the high-intensity training closer to the competition
+season encompasses insufficient volume, and (3) the
+steep intensification of training at the end of the preparation period leads to an unnecessary increase in injury
+risk [11, 13, 14]. It should be noted, however, that many
+sprint coaches apply a form of traditional periodization,
+although with fewer fluctuations in intensity and volume
+than Matveyev’s original model.
+Block training periodization was introduced by Verkhoshansky [94] in the 1980s and has been widely used
+by prominent coaches. The term “block training” has
+generally been understood to consist of training cycles
+of highly concentrated specialized workloads. The usefulness of block training has also been questioned by acknowledged sprint coaches, as the model prohibits
+developed skills to be maintained throughout the varying
+meso-cycles [11]. Publicly available information indicates
+that alternative periodization models are used within
+elite sprinting communities [10–16]. Choice of
+periodization model seems to depend on sprint distance
+(100 m vs. 400 m), daily situation (high school/college/
+university level, professionals vs. semi-professionals or
+amateurs), and tradition. Some coaches classify the
+training year into one preparation phase and one competition period. Double periodization (i.e., two peaking
+phases) is more common, consisting of a preparation
+phase, an indoor season, a new preparation phase, and
+finally an outdoor competition season. Some of the very
+best athletes also split the outdoor season into early and
+late peaks in order to prepare for national trials and
+international championships. Classification of training
+into “heavy” and “easy” weeks within the preparation periods is another important aspect within periodization.
+Leading practitioners typically use a 2:1 or 3:1
+periodization, that is, 2 or 3 weeks with relatively high
+training load are followed by an easier training week for
+recovery purposes [10, 11, 13, 14].
+The “long-to-short” periodization model is typically
+applied by long-sprint specialists [11]. This approach focuses on long distances in the early preparation period
+and progresses to short distances throughout the training year [11, 15, 16]. An even more popular
+periodization model for sprinters was introduced by
+Charlie Francis in the 1980s, termed “short to long” [13,
+14]. Here, training periods are mainly differentiated by
+the relative emphasis on each phase of a sprint: acceleration, maximum velocity, and deceleration. The initial
+meso-cycles focus on short sprints and power training,
+culminating with the indoor season where 60 m is the
+main event. Maximal velocity is prioritized after the indoor season, while sprint-specific endurance becomes
+
+Page 5 of 16
+
+more prioritized when approaching the outdoor season.
+According to the model, it is easier to improve maximal
+velocity and then extend the duration that velocity can
+be maintained. The short-to-long periodization model
+ensures that developed skills are not lost. Maintaining
+key elements while adjusting the demand of a given skill
+is a vital principle. This short-to-long approach has been
+used by numerous leading practitioners in the last decades [10, 11, 13–16].
+Another key feature within the short-to-long
+periodization model is the polarized training concept.
+More specifically, sprinting intensity should be either ≥
+95% or < 70% of maximal velocity to enhance performance or facilitate recovery, respectively [11, 13, 14]. It is
+assumed that mid-range intensities (~ 70–95%) are not
+beneficial either for performance or recovery and should
+be avoided. Dan Pfaff, the coach of Donovan Bailey
+(former 100-m world record holder and Olympic Champion), has for many years practiced a concurrent, polarized, and short-to-long model of thinking within the
+micro-cycle build approaching a competition season [11,
+17]. Three-day training blocks are utilized: short accelerations are performed on Monday, maximal velocity
+sprinting on Wednesday, and sprint-specific endurance
+on Friday. We note that the polarized training
+organization performed in certain sprinting communities
+bears great resemblance with training intensity distribution in elite endurance athletes, which is typically organized after a polarized pattern (e.g., [7, 95, 96]). In sprint
+running, the polarized approach might resemble required training quality when training at the highest velocities, and at the same time sufficient volume of
+sprinting. Training in between these “zones/velocities”
+might be “a black hole”, where neither the quality nor
+the quantity for further development is achieved. Overall, the physiological mechanisms underlying the polarized training concept are far from understood, and
+future studies should pay more attention to this topic.
+In conclusion, elite coaches plan the training of their
+athletes with significant detail. However, the underlying
+mechanisms for the superiority of specific periodization
+models in sprint running remain unclear, and there is no
+direct evidence enabling us to compare outcomes across
+the various periodization methodologies [92].
+Individualization
+
+Individualization is a general training principle and refers to the idea that training must be prescribed according to individual performance capacity and
+predispositions such as anthropometric factors, training
+status/age, sex, recovery/injury status, and force-velocity
+profiles [10, 13, 14, 90, 97]. For example, the kinematics
+of sprinting varies according to performance level and
+anthropometric factors. This includes spatiotemporal
+
+Haugen et al. Sports Medicine - Open
+
+(2019) 5:44
+
+variables, start block positioning, trunk angle during the
+early acceleration phase, and lower limb joint angles [20,
+38, 40, 51]. Hence, coaches cannot implement sprinting
+mechanics that their athletes are not predisposed to by
+nature and prepared for through training. For example,
+a mediocre athlete will likely sprint slower when trying
+to adapt the step length of a world-class sprinter as the
+ground reaction forces typically become more vertically
+oriented.
+Total training volume generally increases with training
+age, but as athletes approach their maximum potential
+at the end of their career, training volume may decrease
+to accommodate increased need for recovery time between high-intensity sessions [15, 16]. This coincides
+well with age-related changes in anabolic hormone concentration that play a crucial role in the body’s metabolic, tissue repair, and anabolic capabilities in response
+to training. For example, testosterone is positive for
+sprint performance [98]. From the third decade, circulating testosterone levels decline gradually each year [74,
+99]. There are also sex differences in endocrine response
+to training, as several strength training studies have revealed significant elevations in the recovery of testosterone and free testosterone in men through 30 min into
+recovery, while no or limited acute elevations have been
+observed in women [100]. Within this context, it is interesting to note that Stephen Francis, an acknowledged Jamaican sprint coach, has argued that women should
+perform training sessions with 20% less volume than men
+[10]. A counter argument would be that women are able
+to absorb higher training volumes, because their maximal
+velocity is ~ 10% lower than men (corresponding to substantially lower peak force and power loads on the neuromuscular apparatus). The scientific training literature
+provides very limited information regarding potential sex
+differentiation of training prescription, and future studies
+should devote more attention to this topic.
+Training history appears to modulate recovery processes, but this interplay is not well appreciated in the
+research literature. In the American College of Sports
+Medicine position stand, the recommendations for rest
+period length and training frequency for power training
+are like those for novice, intermediate, and advanced
+athletes [90]. In contrast, the guidelines outlined by the
+UK Athletics state that duration, number of repetitions,
+and recovery time in sprint-specific training sessions
+should be adjusted according to training status and performance level [15, 16]. For example, an underlying assumption in high-performance environments is that
+each sprint performed by an elite athlete is more demanding on the entire neuromuscular system than for
+their lower performing counterparts, and hence, more
+recovery time between each sprint is needed [15, 16].
+Future research should aim to verify this claim.
+
+Page 6 of 16
+
+It has recently been suggested that individualized
+sprint training should be based on force-velocity (Fv)
+profiles [97, 101, 102]. A possible avenue for such an approach is individual test comparison with group mean
+values, where athletes with velocity deficits should be
+prescribed more maximal velocity sprinting, while athletes with horizontal force deficits should prioritize more
+horizontal strength work [97]. Although reference values
+have been outlined for athletes across sprint performance levels [23, 35, 38], it remains unclear if such an approach is effective [103]. The logic of this approach
+builds on an assumed direct relationship between acceleration and peak velocity measurements for the runner
+and the underlying contractile characteristics of the
+muscle groups involved. However, the fascicle shortening velocities of active muscles do not necessarily change
+with increasing running velocity [104–106]. The relationship between changes in running velocity and
+muscle fascicle shortening velocity appears to be complicated by an increased contribution from elastic properties with increasing running velocity [104–106]. Running
+velocity is not a proxy for muscle contraction velocity,
+and for this reason, Helland et al. [107] have questioned
+the use of Fv profiling in this context. More research is
+required regarding how training should be evaluated and
+modified based on force-velocity assessments.
+
+Training Methods
+Sprint Training
+
+The vast majority of scientific studies investigating sprint
+training methods are performed on young team sport
+athletes where brief sprints with short recoveries are the
+norm [1–4]. Therefore, sprint training recommendations
+from the research literature have limited relevance to
+competitive sprinting, where elite 100-m athletes perform sprint-specific training over various distances.
+Practitioners classify sprint running either according to
+phase of interest or primary energy system used [11–16].
+For the latter, sprint duration shorter than 6–7 s is considered alactic, while longer sprints are considered lactic
+[11–16]. In the following paragraphs, we present best
+practice guidelines for specific sprint training according
+to phase of interest. Total volume within these sessions
+is typically guided by the intensity and visual inspection
+of technique. That is, the session should be ended when
+drop-off in performance and/or technical deterioration
+is observed [11, 13–16]. Table 2 summarizes the best
+practice guidelines, while Table 3 shows examples of
+training weeks across varying meso-cycles.
+Acceleration
+
+When acceleration is the primary focus, leading practitioners recommend 10–50-m sprints from blocks,
+crouched or a three-point start position [10, 11, 13–18].
+
+Haugen et al. Sports Medicine - Open
+
+(2019) 5:44
+
+Page 7 of 16
+
+Table 2 Summary of best practice sprint training recommendations
+Training method
+
+Distance (m) Intensity (%) Recoveries (min) Total session Initiation
+volume (m)
+
+Acceleration
+
+10–50
+
+> 98
+
+2–7
+
+100–300
+
+Time to
+Footwear and
+next HIS (hours) surface
+
+Block/3-point/crouched 48
+
+Spikes on track
+
+50–150
+
+20–40-m flying start
+
+48–72
+
+Spikes on track
+
+300–900
+
+Standing start
+
+48–72
+
+Spikes on track
+
+a
+
+10–30
+
+> 98
+
+4–15
+
+Sprint-specific endurance 80–150
+
+> 95
+
+8–30
+
+Speed endurance
+
+60–80
+
+90–95
+
+2–4 (8–15)
+
+600–2000
+
+Standing start
+
+48–72
+
+Spikes on track
+
+Resisted sprints
+
+10–30
+
+80–95b
+
+3–6
+
+50–200
+
+3-point/crouched
+
+48
+
+Optional
+
+Assisted sprints
+
+10–30a
+
+≤ 105
+
+5–15
+
+≤ 100a
+
+20–40-m flying start
+
+48
+
+Spikes on track
+
+Tempo
+
+100–300
+
+60–70
+
+1–3
+
+1000–2000
+
+Standing start
+
+24
+
+Trainers on grass
+
+Maximal velocity
+
+a
+
+Intensity is expressed in percent of maximal velocity. Recovery = time between repetitions (sets). HIS = high-intensive session
+a
+Flying start distance excluded
+b
+The perceived effort is maximal, so the velocity decline is caused by resistance loading
+
+Block starts are considered more energetically costly
+than standing starts. The distances used will vary depending on athlete performance level, as better sprinters
+reach higher top speeds and accelerate longer than their
+lower performing counterparts. Full recovery is required
+between each sprint, allowing the athlete to perform
+each repetition without a drop-off in performance. According to the UK Athletics, longer recoveries are required for elite sprinters who are reaching higher absolute
+intensities than for younger developmental athletes [15].
+A typical acceleration session for a young and relatively
+untrained athlete might be runs over 20 m from a
+crouched start with 2-min recovery between each repetition, while an elite sprinter may perform sprints over
+40 m from blocks with 7-min recovery in between [15].
+Maximal Velocity
+
+Flying sprints are typically recommended when the focus
+is to develop maximal velocity [11, 13–16]. The aim is to
+reach the highest velocity possible and continue the
+sprint run for only as long as velocity does not decrease.
+Athletes are able to maintain maximal velocity for only
+around 10–30 m, depending on performance level and
+training status [31, 32]. Flying sprints are often performed from a rolling (jog in) start. Although the rate of
+acceleration is reduced, the athlete may be able to
+achieve a higher maximum velocity or reach the same
+velocity as after maximal acceleration but using less
+
+energy. The run-up distance typically ranges from 20 to
+60 m, depending on the distance an athlete needs to
+reach the highest speeds. Young and relatively untrained
+athletes may use a 20-m build-up for 10-m flying sprints
+with ~ 4-min recovery in between. In contrast, elite
+competitors may use a 40-m build-up for 30-m flying
+sprints. Because their speeds may approach 12 m s− 1,
+the recovery interval may need to be ~ 15 min before
+they can reproduce the performance again [11, 13–16].
+Sprint-Specific Endurance
+
+The aim of sprint-specific endurance training is to improve the ability to maintain sprint velocity for as long as
+possible. Such training is typified by runs lasting 7–15 s at
+95–100% intensity, with full recovery used between repetitions and sets [11, 13–18]. A rule of thumb among practitioners is that 1–2-min recovery is required for every
+second spent on maximal sprinting [15, 16]. The higher
+the performance standard, the longer the recovery periods
+are required. While 2–3 × 100-m sprints with 10-min recovery may be an adequate sprint-specific endurance session for a relatively untrained junior, a well-trained elite
+competitor may perform 4–6 × 150-m sprints with 20–30min recovery between repetitions [15, 16].
+Speed Endurance
+
+While most scientific studies recommend that sprinting
+repetitions should be performed with maximal velocity
+
+Table 3 Training week examples across varying meso-cycles
+Day
+
+Early preparation period
+
+Mid-preparation period
+
+Late preparation period
+
+Mid-season
+
+Mon
+
+Hill sprints
+
+Resisted sprints
+
+Acceleration
+
+Acceleration and maximal velocity
+
+Tue
+
+Hypertrophy strength
+
+Maximal strength
+
+Explosive strength + plyometrics
+
+Plyometrics
+
+Wed
+
+Tempo
+
+Tempo
+
+Tempo
+
+Tempo
+
+Thu
+
+Speed endurance
+
+Speed endurance
+
+Maximal velocity
+
+Sprint-specific endurance
+
+Fri
+
+Hypertrophy strength
+
+Maximal strength
+
+Explosive strength + plyometrics
+
+Plyometrics
+
+Sat
+
+Tempo
+
+Tempo
+
+Tempo
+
+Tempo
+
+Sun
+
+Off
+
+Off
+
+Off
+
+Off
+
+See Table 2 for the session-specific training content
+
+Haugen et al. Sports Medicine - Open
+
+(2019) 5:44
+
+[1–4], acknowledged practitioners have over decades
+prescribed sprint training during the preparation phase
+with sub-maximal intensity. Pioneer sprint coach Carlo
+Vittori (founder of the European School in sprint training and coach of the former 200-m world record holder
+Pietro Mennea) introduced the “speed endurance” concept already in the mid-1970s [12]. This consisted of
+series with repeated sprints over 60–80 m, interspersed
+with approximately 2- and 8-min recovery between
+sprints and series. The intensity began at 90% of maximal sprint velocity in the initial weeks and progressed
+to 95% throughout the preparation period. This was accompanied by a gradual increase in total volume from 6
+to 800 m (e.g., 2 series of 5 × 60 m) and up to 1500–
+2000 m (e.g., 5 series of 5 × 60 m) during the preparation
+phase. However, as the competition season approached,
+the total volume decreased while the intensity gradually
+increased to maximal effort [12]. Vittori’s speed endurance concept has later been adopted by other acknowledged sprint coaches [11, 13–16].
+Available evidence in endurance and strength training
+also demonstrates that high but sub-maximal intensity
+loading effectively stimulates adaptation through the
+interaction between high intensity and larger accumulated work that can be achieved before the onset of fatigue, compared with maximal efforts [90, 108]. While
+most practitioners argue that 92–95% intensity is required [11, 13–16], the lowest effective sprinting intensity for stimulating adaptation is so far not established in
+the research literature. Given the exponential relationship between power and velocity, a reduction from maximal to ~ 95% of maximal velocity represents a
+substantial reduction in force and power load on the
+neuromuscular system. Most coaches tend to link speed
+endurance training to the deceleration phase of the
+sprint. Scientific studies of team sport athletes indicate that sub-maximal sprinting (i.e., ~ 90–95% of
+maximal velocity) is more effective for enhancing
+maximal velocity than for improving the acceleration
+phase [109–111].
+Practitioners typically assess the athletes’ velocity during sprint training sessions for control and intensity
+regulation, and timing gates with 10–30-m intervals are
+typically used for this purpose. The intensity scale in
+Table 4, which is based on the velocity obtained during
+10-, 20-, and 30-m splits (excluding the acceleration
+phase), can assist practitioners during sprint-specific
+training sessions.
+Resisted Sprinting
+
+Resisted sprinting is a commonly used method to overload specific capacities for sprinting acceleration performance, including uphill sprinting, sled sprints, or
+using motorized devices. Although sled sprints have
+
+Page 8 of 16
+
+Table 4 Intensity scale for sprint training expressed as 10-, 20-,
+and 30-m flying splits (s)
+Time interval
+
+100%
+
+99%
+
+98%
+
+97%
+
+95%
+
+93%
+
+90%
+
+70%
+
+30-m flying
+
+2.60
+
+2.63
+
+2.65
+
+2.68
+
+2.74
+
+2.80
+
+2.89
+
+3.71
+
+2.70
+
+2.73
+
+2.76
+
+2.78
+
+2.84
+
+2.90
+
+3.00
+
+3.86
+
+2.80
+
+2.83
+
+2.86
+
+2.89
+
+2.95
+
+3.01
+
+3.11
+
+4.00
+
+2.90
+
+2.93
+
+2.96
+
+2.99
+
+3.05
+
+3.12
+
+3.22
+
+4.14
+
+3.00
+
+3.03
+
+3.06
+
+3.09
+
+3.16
+
+3.23
+
+3.33
+
+4.29
+
+3.10
+
+3.13
+
+3.16
+
+3.20
+
+3.26
+
+3.33
+
+3.44
+
+4.43
+
+3.20
+
+3.23
+
+3.27
+
+3.30
+
+3.37
+
+3.44
+
+3.56
+
+4.57
+
+3.30
+
+3.33
+
+3.37
+
+3.40
+
+3.47
+
+3.55
+
+3.67
+
+4.71
+
+1.73
+
+1.75
+
+1.77
+
+1.79
+
+1.83
+
+1.87
+
+1.93
+
+2.47
+
+1.80
+
+1.82
+
+1.84
+
+1.85
+
+1.89
+
+1.93
+
+2.00
+
+2.57
+
+1.87
+
+1.89
+
+1.91
+
+1.93
+
+1.97
+
+2.01
+
+2.07
+
+2.67
+
+1.93
+
+1.95
+
+1.97
+
+1.99
+
+2.03
+
+2.08
+
+2.15
+
+2.76
+
+2.00
+
+2.02
+
+2.04
+
+2.06
+
+2.11
+
+2.15
+
+2.22
+
+2.86
+
+2.07
+
+2.09
+
+2.11
+
+2.13
+
+2.17
+
+2.22
+
+2.29
+
+2.95
+
+2.13
+
+2.15
+
+2.18
+
+2.20
+
+2.25
+
+2.29
+
+2.37
+
+3.05
+
+2.20
+
+2.22
+
+2.25
+
+2.27
+
+2.31
+
+2.37
+
+2.45
+
+3.14
+
+0.87
+
+0.88
+
+0.88
+
+0.89
+
+0.91
+
+0.93
+
+0.96
+
+1.24
+
+0.90
+
+0.91
+
+0.92
+
+0.93
+
+0.95
+
+0.97
+
+1.00
+
+1.29
+
+0.93
+
+0.94
+
+0.95
+
+0.96
+
+0.98
+
+1.00
+
+1.04
+
+1.33
+
+0.97
+
+0.98
+
+0.99
+
+1.00
+
+1.02
+
+1.04
+
+1.07
+
+1.38
+
+1.00
+
+1.01
+
+1.02
+
+1.03
+
+1.05
+
+1.08
+
+1.11
+
+1.43
+
+1.03
+
+1.04
+
+1.05
+
+1.07
+
+1.09
+
+1.11
+
+1.15
+
+1.48
+
+1.07
+
+1.08
+
+1.09
+
+1.10
+
+1.12
+
+1.15
+
+1.19
+
+1.52
+
+1.10
+
+1.11
+
+1.12
+
+1.13
+
+1.16
+
+1.18
+
+1.22
+
+1.57
+
+20-m flying
+
+10-m flying
+
+All calculations are based on the mean velocity obtained during the
+flying sprints
+
+been most investigated in the research literature [2], uphill sprinting has also been reported as an effective tool
+for sprint performance improvement, at least in team
+sport players [112, 113]. It has been suggested that
+resisted sprint training may be a more effective tool to
+improve horizontal force and power production during
+sprinting compared with, e.g., traditional strength and
+power training performed in the gym [2, 114]. It is hypothesized that better transfer to sprint performance can
+be achieved if the resistance training exercises mimic the
+motor pattern and contraction type of performance
+movement. Resisted sprints are typically categorized
+based on the performance time decrement induced by
+the resistance into light (< 10% velocity decrement),
+moderate (10–15%), heavy (15–30%), and very heavy (>
+30%) loads [2]. A limited number of studies have
+exceeded relatively light resistance loading in fear of
+constraints such as slower running velocity and/or altered running technique [2, 115]. However, acknowledged scientists have recently questioned this approach,
+
+Haugen et al. Sports Medicine - Open
+
+(2019) 5:44
+
+as strength and power exercises with heavy weights
+might be replaced by moderate to very heavy resisted
+sprint loading [114, 116, 117]. According to Cross et al.
+[114], the optimal loading for maximizing power output
+during resisted sprinting is a resistance that reduces the
+maximal velocity by ~ 50%. Morin et al. [117] tested the
+use of very heavy resistance load in soccer players and
+observed a substantial, increased horizontal force production when compared with non-resisted sprinting.
+However, only trivial between-group differences were
+observed for power output and sprint performance. Because peak power output during a maximal sprint is
+reached after very few steps and falls substantially during
+the remaining part of the sprint [23, 38], it is reasonable
+to assume that the entire power output range should be
+targeted during the training process. What is beneficial
+for a small portion of the sprint is not necessarily beneficial for overall performance. Haugen et al. [35] proposed
+that heavy resisted sprinting is likely more appropriate
+for sports where the athletes are required to perform
+brief sprints while moving an external mass (e.g., bobsleigh). Overall, the literature is equivocal regarding the
+potential short-term effects of resisted sprinting when
+compared with sprinting under normal conditions [2, 3].
+Still, specific adaptations are observed for resisted sprint
+training. That is, resisted sprint training improves
+resisted sprint performance more than sprint performance under normal conditions [118]. Whether enhanced
+resisted sprint performance provides potential transfer
+effects to normal sprinting over time remains unknown.
+Resisted sprinting is commonly used in the preparatory training phase among successful sprint groups [10–
+16]. However, the resistance loading varies across groups
+and individuals. While the UK Athletics argues that only
+light loads should be used to ensure proper running mechanics [15, 16], some of the very best Jamaican
+sprinters (e.g., Asafa Powell) have applied heavy resistance loads during sled sprints [10]. However, resisted
+sprinting is not prioritized during the competition season in either of these elite sprinting groups.
+Assisted Sprinting
+
+Assisted sprinting (e.g., downhill running, being pulled
+by an elastic cord or motorized devices) has occasionally
+been used by scientists and practitioners as a tool for
+maximal velocity improvement. Athletes are typically advised to focus on high step rate when approaching their
+maximal velocity during assisted sprints [103, 119, 120].
+That is, supramaximal velocity should be a result of
+higher step rate, shorter ground contact times, and
+higher hip angle velocities. Clark et al. [121] observed
+that towing force magnitude influences the kinematics
+of supramaximal running. Potentially negative training
+effects may arise (e.g., increased foot touchdown
+
+Page 9 of 16
+
+distance relative to center of mass), and towing force
+should be individualized to avoid poorer sprint mechanics. Due to the lack of studies investigating assisted
+sprinting and differences in methodology, it is difficult
+to draw conclusions from the research literature. Practitioners are generally reluctant to use assisted sprinting
+devices due to injury risk [10, 11, 13–16], although tail
+wind sprinting is typically preferred on windy days.
+Some athletes include assisted sprinting as a part of the
+warm-up routines prior to competitions. To the best of
+our knowledge, no studies or practitioners to date have
+applied assisted sprints for energy preservation purposes.
+Athletes may be able to perform higher volumes of submaximal sprinting (e.g., ~ 95% intensity) during assisted
+conditions as each sprint is performed with less perceived effort compared to sprinting under normal conditions. This approach remains to be tested.
+
+Technical Training
+
+Although research literature has emphasized the importance of technique on sprint running performance [20,
+24, 33, 38, 40, 49, 51], very few sprint-related studies are
+devoted to how optimal mechanics can be achieved. The
+concept of competency-based progression is particularly
+emphasized in motor learning literature. That is, athletes
+should not progress to more challenging aspects of
+training until they master the underpinning principles
+[122]. Childhood is clearly the most opportune time for
+fundamental movement skill mastery [123, 124], and acknowledged practitioners have experienced that running
+movements become more challenging to modify when
+approaching senior age [10, 11, 15, 16]. Improving a
+sprinter’s mechanics can be considered a career-long
+pursuit.
+Although sprint training “always” involves technical
+aspects, sprint drills are commonly used by practitioners
+to reinforce the technical work, for proprioception, and
+to isolate specific movement features [10–18]. These include hurdle drills, walking high knees, running high
+knees, skips, and straight leg bounding, with focus on
+posture, high hips, front-foot landing, configuration at
+touchdown and lift-off, etc. Drills are low-speed exercises that are easier to control than high-speed running,
+typically performed as a part of warm-up routine. Motor
+learning research tells us that for positive reinforcement
+of the technique to occur, the biomechanics used in
+practice must closely resemble those used in competition [89, 122]. Hence, sprint drills must target key technical elements, ensuring crossover effects to normal
+sprinting over time. Such exercises must be prescribed
+individually to target the athlete’s limiting factor and
+provide each athlete a feeling of proper sprinting mechanics [11, 15, 16].
+
+Haugen et al. Sports Medicine - Open
+
+(2019) 5:44
+
+Well-developed coaching skills are a necessity for the
+practitioner to effectively interact with athletes of all
+levels [80]. Indeed, coaching communication, feedback,
+and specific verbal instructions play an integral role in
+the skill development of sprinting [10, 11, 13, 14]. Although external focus (i.e., on the desired movement effect) has been highlighted in the research literature for
+enhancing motor performance and skill learning [125–
+127], most novice coaches use verbal cues during practice that promote an internal focus of attention (i.e., on
+body movements) [128]. The very best coaches provide
+allegorical/metaphorical feedback where attention is
+called upon the athlete’s feeling while executing the
+practices [129]. For example, the cue “trim the grass
+with your toes” can be used when the aim is to reduce
+the flight time during the very first steps of the acceleration phase [128]. Here, art and science do seem to
+merge, given the interrelation between word choices
+during instruction, interpreted motor pattern change by
+athlete, and resulting force and power production. According to Glen Mills, the coach of Usain Bolt, focused
+athletes with well-developed proprioceptive senses are
+paramount for coaching to be successful [10].
+Strength and Power Training
+
+Strength and power training has received considerable research attention over the years, and training recommendations for hypertrophy, maximal strength, and power are
+outlined for novice, intermediate, and advanced athletes
+[90, 129]. Ballistic exercises with loading up to ~ 60% of
+one repetition maximum appear to be a highly potent
+loading stimulus for improving maximal power [90, 130,
+131]. However, heavier loading might be necessary to increase the force component of the power equation. Although there is a fundamental relationship between
+strength and power [130, 132, 133], improvements in
+sprinting performance do not necessarily occur immediately after a period of strength training [134]. In fact,
+heavy strength training may induce negative short-term
+effects on sprint performance [135]. As an athlete gets
+heavier, the energy cost of accelerating that mass also increases, as does the aerodynamic drag associated with
+pushing a wider frontal area through the air. “Bigger” is
+not necessarily better for sprinting, likely explaining why
+male and female elite sprinters have a body mass of “only”
+77 ± 7 and 58 ± 5 kg, respectively [136]. Haugen et al. [35]
+observed that volleyball/beach volleyball players were
+among the best sports in terms of horizontal force production during accelerated running, while weight-/powerlifters produced clearly lower values despite no substantial
+group mean differences in body mass. Vertically oriented
+and heavy strength training of the lower limbs does not
+automatically translate to higher horizontal force production during accelerated sprinting [137], but the probability
+
+Page 10 of 16
+
+of positive effects increases when strength and sprint
+training are combined [90, 138, 139].
+Strength and power training is crucial parts of the
+overall training strategy among leading sprint practitioners, and such training is typically performed 2–3
+times per week during the preparation period [10, 11,
+13, 14, 18]. Exercise selection typically varies from general (e.g., squat, snatch, clean and jerk) to more “sprint
+specific” (e.g., split squats, single-leg deadlifts, lunges,
+step-ups, and one-legged squats). Sequencing of sessions
+differs among coaches, but the majority schedule
+strength training the day after sprint-specific training to
+avoid sore muscles when sprinting. Strength and power
+training is typically structured as consecutive 4–6-week
+cycles where emphasis is first put on hypertrophy, then
+maximal strength, and finally explosive strength/power/
+plyometric training [11, 13, 14, 138]. The goal of this
+model is to “transform” maximum strength in weight
+room exercises into functional power on the track.
+These periods of heavy strength training are often combined with high volumes of sprint training at submaximal intensity. The closer to the competition season
+is, the more emphasis on maximal velocity sprinting, explosive strength, and ballistic exercises [11, 13, 14, 18].
+Overall, no major discrepancies in sprint-related
+strength and power training recommendations can be
+observed between science and best practice when comparing these literature sources.
+Plyometric Training
+
+Plyometric exercises are characterized by rapid stretchshortening cycle muscle actions and include a range of
+unilateral and bilateral bounding, hopping, jumping, and
+medicine ball throw variations [140]. Plyometric training
+is normally performed with little or no external resistance and has been shown to significantly improve maximal power output during sport-specific movements
+[130, 141]. As a rule, the more specific a plyometric exercise is to stretch rate and load characteristics of the
+sport movement, the greater the transfer of the training
+effect to performance. Sprinters are encouraged to use
+different types of high-intensive bounding, jumping, and
+skipping exercises to ensure that power production is
+exerted in the horizontal plane [130, 141]. The underlying mechanisms are theorized to elicit specific adaptations in neural drive, rate of neural activation, and
+intermuscular control, which result in an improved rate
+of force development [130].
+The reutilization of stored energy as a strategy for
+sprint performance has recently been questioned by
+Haugen et al. [24], as storage and release of elastic energy take time. Human tendons stretch under load, and
+sprinters should likely minimize the downside of having
+these elastic connectors. Adding to the argument, world-
+
+Haugen et al. Sports Medicine - Open
+
+(2019) 5:44
+
+class performers sprint with considerably higher leg stiffness than their lower performing counterparts [24].
+Based on these considerations, sprinters should focus on
+leg stiffness (e.g., short ground contact time) during
+plyometric exercises. Interestingly, this approach was
+utilized with seeming success by coach Carlo Vittori and
+the Italian School of sprint training already in the 1970s.
+The best athlete, Pietro Mennea, performed horizontal
+jumps and skipping exercises with a weight belt, and
+ground contact time during these exercises never
+exceeded 100 ms [12]. This contact time is very similar
+to those obtained by elite sprinters at maximal velocity
+[24]. Mennea also performed assisted sprints while
+equipped with a weight belt (weight vests serve the same
+purpose). Although these training methods offer strong
+leg stiffness stimulations, they are demanding and probably increase injury risk, particularly for the Achilles tendon. This may explain why most practitioners perform
+more traditional plyometric drills as bilateral obstacle
+(hurdle) jumps, multi jump circuits, medicine ball
+throws, and unilateral bounding exercises [10–18]. Although the highest volumes are accomplished during the
+preparation phase, some plyometric training is performed during the competition season [10, 11, 15, 16].
+
+Recovery Strategies
+The performance capacity of an athlete depends on an
+optimal balance between training and recovery. While
+sleep and nutrition are fundamental for the restoration
+of daily life and the recovery process following physical
+exercise [142–144], several recovery strategies have been
+explored to improve recovery in athletes. Within leading
+sprinting communities, so-called tempo runs (100–
+300 m running with brief recoveries and intensity 60–
+70% of maximal sprint velocity) are commonly used between days of high-intensive training to loosen up stiff
+muscles and improve cardiovascular fitness [10, 11, 13–
+18]. (Note that tempo runs in a sprint training setting
+are different to those in endurance training settings).
+Total volume per training session is typically ~ 2000 m
+during the preparation period and ~ 1000 m during the
+competition period [13–16]. Although the scientific evidence for post-exercise recovery purposes is limited
+[145–148], tempo runs contribute to a total training volume that may increase the athletes’ trainability and durability in the long term.
+A number of passive recovery modalities have also
+been applied by practitioners over the years, including
+massage, stretching, compression garments, cold water
+or contrast water immersion, cryotherapy, hyperbaric
+oxygen therapy, and electromyostimulation [11, 13, 14].
+While there may be some subjective benefits for postexercise recovery, there is currently no convincing evidence to justify the widespread use of such strategies in
+
+Page 11 of 16
+
+competitive athletes [142, 146, 149–162]. Placebo effects
+may be beneficial, and at the individual level, certain recovery modalities may elicit reproducible acceleration of
+recovery processes. Future studies of experimental
+models designed to reflect the circumstances of elite athletes are needed to gain further insights regarding the efficacy of various recovery modalities on sprint
+performance.
+
+Tapering
+Tapering refers to the marked reduction of total training
+load in the final days before an important competition.
+Tapering strategies consist of a short-term balancing act,
+reducing the cumulative effects of fatigue, but maintaining fitness [163, 164]. Because tapering strategies and
+outcomes are heavily dependent on the preceding training load, it is often challenging to separate tapering from
+periodization and training programming in general. According to several authors, a realistic performance goal
+for the final taper should be a competition performance
+improvement of about 2–3%. However, these estimates
+are mainly based on well-trained athletes in endurance(swimming, running, cycling) or strength-related sports
+[163–168]. Based on individual performance variation
+data in elite sprinters [5, 69], it is reasonable to expect
+smaller relative tapering effects for sprinting athletes.
+The general scientific guidelines for a likely effective
+taper in strength- and power-related sports are a 2- to
+3-week period incorporating 40–60% reduction in training volume following a progressive non-linear format,
+while training intensity and frequency are maintained or
+only slightly reduced [169–171]. The strategies employed
+by successful track and field are generally consistent
+with research [172]. The 10-day taper program developed by Charlie Francis has received considerable attention within the sprinting community [13, 14] (Table 5).
+Here, provided that the preceding workout the last 6–8
+weeks has been performed according to plan (no injuries
+or disease), the last extensive and high-intensive sprint
+session is performed 10 days prior to the most important
+competition of the year, then followed by easy sprint
+training sessions (low volume at 95% velocity) 8, 6, 4,
+and 2 days before competition. Stephen Francis argues
+for a slightly different approach, mainly decreasing the
+volume by 30% over the last 10 days before a major
+competition [10]. His most successful athlete, Asafa
+Powell, achieved world record performances in June as
+well as September.
+Given that there are several roads to Rome in terms of
+tapering, it is generally accepted that the training during
+this period should be highly specific. That is, only exercises that directly assist sports performance should remain, while accessory work and assistance exercises
+should be removed from the training prescription [169,
+
+Haugen et al. Sports Medicine - Open
+
+(2019) 5:44
+
+Page 12 of 16
+
+Table 5 Charlie Francis’ 10-day tapering plan
+Days to competition
+
+Training prescription
+
+10 days before
+
+Spikes on track: 4 × 30 m from blocks with full
+recovery. 80-100-120-150-m flying
+sprints with maximal intensity, full recovery
+(i.e., 20–35 min between sprints)
+
+9 days before
+
+Trainers on grass: 10 × 200 m tempo runs
+with 100-m walking in between
+
+8 days before
+
+Spikes on track: 4 × 30 m from blocks and
+1 × 120 m at 95% intensity, full recovery
+
+7 days before
+
+Trainers on grass: 2 × 10 × 100 m tempo runs
+with 100-m walking in between
+
+6 days before
+
+Spikes on track: 4 × 30 m from blocks and
+1 × 150 m at 95% intensity, full recovery
+
+5 days before
+
+No training
+
+4 days before
+
+Spikes on track: 4 × 30 m from blocks and
+1 × 80 m at 95% intensity, full recovery
+
+3 days before
+
+Trainers on grass: 10 × 100 m tempo runs
+with 100-m walking in between
+
+2 days before
+
+Spikes on track: 4 × 30 m from blocks at
+95% intensity, full recovery
+
+1 day before
+
+No training
+
+171, 172]. Moreover, the number of technical inputs
+should be kept to a minimum to prepare the athletes mentally and build confidence. Successful coaches adapt a holistic strategy where physiological, technical, and mental
+aspects are integrated into the tapering process [172]. The
+individualized approach is consistent with discussions of
+coaching, reinforcing that not all athletes are the same,
+nor are circumstances and contexts, and hence, a “onesize-fits-all” approach is rarely appropriate.
+
+Conclusions
+This review has contrasted scientific and best practice
+literature. Although the scientific literature provides
+useful and general information regarding the development of sprint performance and underlying determinants, there is a considerable gap between science
+and best practice in how training principles and
+methods are applied (these gaps are summarized in
+Table 6). Possible explanations for these discrepancies
+may be that scientific studies mainly examine isolated
+variables under standardized conditions, while best
+practice is concerned about external validity and
+apply a more holistic approach. In order to close this
+gap between science and practice, future investigations should observe and assess elite sprinters
+throughout the training year, aiming to establish
+
+Table 6 Summary of the level of agreement between scientific and best practice literature
+Training principle or
+method
+
+Scientific versus best practice literature
+
+Progressive overload
+
+Moderate agreement. Both scientific and best practice literature emphasize the importance of familiarization and gradual
+progression to reduce injury risk and maximize performance. However, the influence of running surface and footwear as
+specific modifiers of sprint training load is more highlighted within best practice.
+
+Specificity
+
+Poor agreement. Both scientific and best practice literature highlight the importance of sprint running and high-velocity
+movements on sprint performance enhancement. However, there is a considerable gap in how the sprint specific training
+components are applied (see, e.g., specific sprint training further down).
+
+Variation/periodization
+
+Poor agreement. Scientific studies mainly focus on traditional and block-training periodization, while alternative models (e.g.,
+“long-to-short” and “short-to-long”) are used within leading sprinting communities.
+
+Individualization
+
+Poor agreement. Most scientific interventions have applied a “one-size-fits-all” approach, but recent studies have suggested
+that training should be prescribed according to individual force-velocity profiles. Best practice focuses more on training pre
+scription according to individual performance capacity, anthropometric factors, training status/age, sex, and recovery/injury
+status.
+
+Specific sprint training
+
+Poor agreement. Most sprint-related studies are performed on young team sport players, consisting of brief and maximal
+sprints with short recoveries. In contrast, elite sprinters perform sprint-specific training with varying distances, intensities and
+recoveries.
+
+Technical training
+
+Poor agreement. Very few scientific studies are devoted to how optimal sprinting mechanics can be achieved. The best
+practitioners apply sprint drills to reinforce the technical work and isolate specific movement features.
+
+Strength and power
+training
+
+Good agreement. There are no major discrepancies in sprint-related strength- and power training recommendations when
+comparing scientific and best practice literature.
+
+Plyometric training
+
+Good agreement. Both scientific and best practice literature encourage sprinters to use different types of high-intensive
+bounding, jumping and skipping exercises for developing leg stiffness and horizontal power production.
+
+Recovery strategies
+
+Poor agreement. Best practice applies several passive and active post-exercise recovery modalities (massage, compression
+garments, cold water immersion, cryotherapy, tempo runs, etc.), although the scientific evidence for these strategies is
+limited.
+
+Tapering
+
+Good agreement. The tapering strategies employed by the best practitioners are generally consistent with research,
+although best practice literature provides more detailed information.
+
+Haugen et al. Sports Medicine - Open
+
+(2019) 5:44
+
+mechanistic connections between training content,
+changes in performance, and underlying mechanical
+and physiological determinants. The conclusions
+drawn in this review may serve as a position statement and provide a point of departure for forthcoming studies regarding sprint training of elite athletic
+contestants.
+Acknowledgements
+The authors want to thank elite sprint coach Håkan Andersson for his
+valuable inputs during the process.
+Authors’ Contributions
+TH, SS, ØS, and ET planned the review. TH retrieved the relevant literature. All
+authors were engaged in drafting and revising the manuscript. All authors
+read and approved the final manuscript.
+Funding
+No sources of funding were used to assist in the preparation of this article.
+Availability of Data and Materials
+Not applicable.
+Ethics Approval and Consent to Participate
+Not applicable.
+Consent for Publication
+Not applicable.
+Competing Interests
+The authors, Thomas Haugen, Stephen Seiler, Øyvind Sandbakk, and Espen
+Tønnessen, declare that they have no competing interests.
+Author details
+1
+Faculty of Health Sciences, Kristiania University College, PB 1190 Sentrum,
+0107 Oslo, Norway. 2Faculty of Health and Sport Sciences, University of
+Agder, PB 422, 4604 Kristiansand, Norway. 3Centre for Elite Sports Research,
+Department of Neuromedicine and Movement Science, Norwegian
+University of Science and Technology, 7491 Trondheim, Norway.
+Received: 22 July 2019 Accepted: 23 October 2019
+
+References
+1. Bishop D, Girard O, Mendez-Villanueva A. Repeated-sprint ability - part II:
+recommendations for training. Sports Med. 2011;41(9):741–56.
+2. Petrakos G, Morin JB, Egan B. Resisted sled sprint training to improve sprint
+performance: a systematic review. Sports Med. 2016;46(3):381–400.
+3. Rumpf MC, Lockie RG, Cronin JB, Jalilvand F. Effect of different sprint
+training methods on sprint performance over various distances: a brief
+review. J Strength Cond Res. 2016;30(6):1767–85.
+4. Haugen T, Tønnessen E, Hisdal J, Seiler S. The role and development of
+sprinting speed in soccer. Int J Sports Physiol Perform. 2014;9(3):432–41.
+5. Haugen T, Solberg PA, Morán-Navarro R, Breitschädel F, Hopkins W, Foster
+C. Peak age and performance progression in world-class track-and-field
+athletes. Int J Sports Physiol Perform. 2018;13(9):1122–9.
+6. Haugen T, Buchheit M. Sprint running performance monitoring:
+methodological and practical considerations. Sports Med. 2016;46(5):641–56.
+7. Tønnessen E, Sylta Ø, Haugen T, Hem E, Svendsen I, Seiler S. The road to
+gold: training and peaking characteristics in the year prior to a gold medal
+endurance performance. PLoS One. 2014;9:e101796.
+8. Tønnessen E, Svendsen I, Rønnestad B, Hisdal J, Haugen T, Seiler S. The
+annual training periodization of 8 world champions in orienteering. Int J
+Sports Physiol Perform. 2015;10(1):29–38.
+9. Solli GS, Tønnessen E, Sandbakk Ø. The training characteristics of the world’s
+most successful female cross-country skier. Front Physiol. 2017;8:1069.
+10. Lee J. Insights to Jamaican sprinting success. Stephen Francis & Glen Mills
+training philosophy. http://riggberger.dinstudio.se/files/Jamaican_Sprint_
+Secrets.pdf. Assessed 15 July 2019.
+
+Page 13 of 16
+
+11. Banta R. The sprinter’s compendium: Vervante; 2017.
+12. Carlo Vittori and training of Pietro Mennea. https://www.runnerprogram.
+com/product/carlo-vittori-training-pietro-mennea/. Assessed 15 July 2019.
+13. Francis C. Structure of training for speed (ebook). https://www.amazon.com/
+Structure-Training-Charlie-Francis-Concepts-ebook/dp/B00BG9F8UG.
+Assessed 15 July 2019.
+14. Francis C. The Charlie Francis training system (ebook). https://www.amazon.
+com/Charlie-Francis-Training-System-ebook/dp/B008ZK0WR8. Assessed 15
+July 2019.
+15. United Kingdom Athletics: classifying sprint training methods (written by
+Khmel M & Lester T). http://ucoach.com/assets/uploads/files/Classifying_
+Sprint_Training_Methods_FINAL.pdf. Assessed 15 July 2019.
+16. United Kingdom Athletics. Sprints and hurdles ADM V1.0. http://ucoach.
+com/assets/uploads/files/SH_UKA_ADM_V1.1_FINAL.pdf. Assessed 15 July
+2019.
+17. Dan Pfaff. Donovan Bailey training program. https://www.runnerprogram.
+com/product/donovan-bailey-training-dan-pfaff/. Assessed 15 July 2019.
+18. Loren Seagrave. Planning and periodization: preparing for Moscow 2013.
+http://ucoach.com/assets/uploads/files/ESHC12_Loren_Seagrave.pdf.
+Assessed 15 July 2019.
+19. Volkov NI, Lapin VI. Analysis of the velocity curve in sprint running. Med Sci
+Sports. 1979;11(4):332–7.
+20. Mero A, Komi PV, Gregor RJ. Biomechanics of sprint running. A Rev Sports
+Med. 1992;13(6):376–92.
+21. Nagahara R, Matsubayashi T, Matsuo A, Zushi K. Kinematics of transition
+during human accelerated sprinting. Biol Open. 2014;3(8):689–99.
+22. Tønnessen E, Haugen T, Shalfawi SA. Reaction time aspects of elite sprinters
+in athletic world championships. J Strength Cond Res. 2013;27(4):885–92.
+23. Slawinski J, Termoz N, Rabita G, Guilhem G, Dorel S, Morin JB, et al. How
+100-m event analyses improve our understanding of world-class men’s and
+women’s sprint performance. Scand J Med Sci Sports. 2017;27(1):45–54.
+24. Haugen T, McGhie D, Ettema G. Sprint running: from fundamental
+mechanics to practice – a review. Eur J Appl Physiol. 2019;119(6):1273–87.
+25. Scientific report on the second IAAF World Championships in athletics,
+Rome 1987. https://www.iaaf.org/about-iaaf/documents/research. Assessed
+15 July 2019.
+26. Bruggemann G, Glad B. Time analysis of the sprint events. Scientific research
+project at the games of the XXXIV Olympiad Seoul 1988, IAAF supplement
+1990.
+27. Ae M, Ito A, Suzuki M. The men’s 100 meters. Scientific research project at
+the III World Championship in athletics, Tokyo 1991. New Stud Athl. 1992;
+7(1):47–52.
+28. Kersting U. Biomechanical analysis of the sprinting events. In: Brüggemann
+G, editor. Biomechanical research project Athens 1997 final report: Meyer &
+Meyer Sport Ldt; 1999.
+29. Ferro A, Riveral A, Pagola I, Ferreruela M, Martin A, Rocandio V. A kinematic
+study of the sprint events at the 1999 World Championships in athletics in
+Sevilla. In: 20th International Symposium on Biomechanics in Sports; 2002.
+30. Biomechanics research project in the IAAF World Championships Daegu
+2011. https://www.jaaf.or.jp/pdf/about/resist/t-f/Daegu2011.pdf. Assessed 15
+July 2019.
+31. Graubner R, Nixdorf E. Biomechanical analysis of the sprint and hurdles
+events at the 2009 IAAF World Championships in athletics. New Stud Athl.
+2011;26:19–53.
+32. Bissas A, Walker J, Tucker C, Paradisis G, Merlino S. Biomechanical report for
+the IAAF World Championships in London, 2017. https://www.iaaf.org/
+about-iaaf/documents/research#collapse2017-iaaf-world-championshipsbiomechanics-st. Assessed 15 July 2019.
+33. Morin JB, Edouard P, Samozino P. Technical ability of force application as a
+determinant factor of sprint performance. Med Sci Sports Exerc. 2011;43(9):1680–8.
+34. Morin JB, Bourdin M, Edouard P, Peyrot N, Samozino P, Lacour JR.
+Mechanical determinants of 100-m sprint running performance. Eur J Appl
+Physiol. 2012;112(11):3921–30.
+35. Haugen T, Breitschädel F, Seiler S. Sprint mechanical variables in elite
+athletes: are force-velocity profiles sport specific or individual? PLoS One.
+2019;14(7):e0215551.
+36. Seiler S, De Koning JJ, Foster C. The fall and rise of the gender difference in
+elite anaerobic performance 1952-2006. Med Sci Sports Exerc. 2007;39(3):
+534–40.
+37. Haugen T, Paulsen G, Seiler S, Sandbakk O. New records in human power.
+Int J Sports Physiol Perform. 2018;13(6):678–86.
+
+Haugen et al. Sports Medicine - Open
+
+(2019) 5:44
+
+38. Rabita G, Dorel S, Slawinski J, Sàez-de-Villarreal E, Couturier A, Samozino P,
+et al. Sprint mechanics in world-class athletes: a new insight into the limits
+of human locomotion. Scand J Med Sci Sports. 2015;25(5):583–94.
+39. Ettema G, McGhie D, Danielsen J, Sandbakk Ø, Haugen T. On the existence
+of step-to-step breakpoint transitions in accelerated sprinting. PLoS One.
+2016;11(7):e0159701.
+40. Haugen T, Danielsen J, Alnes LO, McGhie D, Sandbakk O, Ettema G. On the
+importance of “front-side mechanics” in athletics sprinting. Int J Sports
+Physiol Perform. 2018;13(4):420–7.
+41. Nagahara R, Naito H, Morin JB, Zushi K. Association of acceleration with
+spatiotemporal variables in maximal sprinting. Int J Sports Med. 2014;35(9):
+755–61.
+42. Nagahara R, Zushi K. Development of maximal speed sprinting performance
+with changes in vertical, leg and joint stiffness. J Sports Med Phys Fitness.
+2017;57(12):1572–8.
+43. Kunz H, Kaufmann DA. Biomechanical analysis of sprinting: decathletes
+versus champions. Br J Sports Med. 1981;15(3):177–81.
+44. Mann R, Herman J. Kinematic analysis of Olympic sprint performance: men’s
+200 meters. Int J Sport Biomech. 1985;1(2):151–62.
+45. Hunter JP, Marshall RN, McNair PJ. Segment-interaction analysis of the
+stance limb in sprint running. J Biomech. 2004;37(9):1439–46.
+46. Hunter JP, Marshall RN, McNair PJ. Relationships between ground reaction
+force impulse and kinematics of sprint-running acceleration. J Appl
+Biomech. 2005;21(1):31–43.
+47. Kugler F, Janshen L. Body position determines propulsive forces in
+accelerated running. J Biomech. 2010;43(2):343–8.
+48. Colyer SL, Nagahara R, Salo AIT. Kinetic demands of sprinting shift across
+the acceleration phase: novel analysis of entire force waveforms. Scand J
+Med Sci Sports. 2018;28(7):1784–92.
+49. Colyer SL, Nagahara R, Takai Y, Salo AIT. How sprinters accelerate beyond
+the velocity plateau of soccer players: waveform analysis of ground reaction
+forces. Scand J Med Sci Sports. 2018;28(12):2527–35.
+50. Nagahara R, Mizutani M, Matsuo A, Kanehisa H, Fukunaga T. Association of
+sprint performance with ground reaction forces during acceleration and
+maximal speed phases in a single sprint. J Appl Biomech. 2018;34(2):104–10.
+51. Bezodis NE, Willwacher, Salo AIT. The biomechanics of the track and field
+sprint start: a narrative review. Sports Med. 2019; [Epub ahead of print].
+52. Ross A, Leveritt M, Riek S. Neural influences on sprint running: training
+adaptations and acute responses. Sports Med. 2001;31(6):409–25.
+53. Fitts RH. Cellular mechanisms of muscle fatigue. Physiol Rev. 1994;74(1):49–
+94.
+54. Glaister M. Multiple sprint work: physiological responses, mechanisms of
+fatigue and the influence of aerobic fitness. Sports Med. 2005;35(9):757–77.
+55. Girard O, Mendez-Villanueva A, Bishop D. Repeated-sprint ability - part I:
+factors contributing to fatigue. Sports Med. 2011;41(8):673–94.
+56. Brocherie F, Millet GP, Morin JB, Girard O. Mechanical alterations to repeated
+treadmill sprints in normobaric hypoxia. Med Sci Sports Exerc. 2016;48(8):
+1570–9.
+57. Chelly SM, Denis C. Leg power and hopping stiffness: relationship with
+sprint running performance. Med Sci Sports Exerc. 2001;33(2):326–33.
+58. Girard O, Micallef JP, Millet GP. Changes in spring-mass model
+characteristics during repeated running sprints. Eur J Appl Physiol. 2011;
+111(1):125–34.
+59. Girard O, Brocherie F, Morin JB, Millet GP. Running mechanical alterations
+during repeated treadmill sprints in hot versus hypoxic environments. A
+pilot study. J Sports Sci. 2016;34(12):1190–8.
+60. Girard O, Brocherie F, Tomazin K, Farooq A, Morin JB. Changes in running
+mechanics over 100-m, 200-m and 400-m treadmill sprints. J Biomech. 2016;
+49(9):1490–7.
+61. Morin JB, Jeannin T, Chevallier B, Belli A. Spring-mass model characteristics
+during sprint running: correlation with performance and fatigue-induced
+changes. Int J Sports Med. 2006;27(2):158–65.
+62. Duffield R, Dawson B, Goodman C. Energy system contribution to 100-m
+and 200-m track running events. J Sci Med Sport. 2004;7(3):302–13.
+63. Tucker R, Santos-Concejero J, Collins M. The genetic basis for elite running
+performance. Br J Sports Med. 2013;47(9):545–9.
+64. Lucia A, Oliván J, Gómez-Gallego F, Santiago C, Montil M, Foster C. Citius
+and longius (faster and longer) with no alpha-actinin-3 in skeletal muscles?
+Br J Sports Med. 2007;41(9):616–7.
+65. Smith DJ. A framework for understanding the training process leading to
+elite performance. Sports Med. 2003;33(15):1103–26.
+
+Page 14 of 16
+
+66. Del Coso J, Hiam D, Houweling P, Pérez LM, Eynon N, Lucía A. More than a
+‘speed gene’: ACTN3 R577X genotype, trainability, muscle damage, and the
+risk for injuries. Eur J Appl Physiol. 2019;119(1):49–60.
+67. Malina RM, Bouchard C, Beunen G. Human growth: selected aspects of
+current research on well-nourished children. Annu Rev Anthropol. 1988;17:
+187–219.
+68. Malina RM, Bouchard C, Bar-Or O. Growth, maturation and physical activity.
+2nd ed. Champaign: Human Kinetics; 2004.
+69. Tønnessen E, Svendsen I, Olsen IC, Guttormsen A, Haugen T. Performance
+development in adolescent track and field athletes according to age, sex
+and sport discipline. PLoS One. 2015;10:e0129014.
+70. Hollings SC, Hopkins WG, Hume PA. Age at peak performance of successful
+track and field athletes. Int J Sports Sci Coach. 2014;9(4):651–62.
+71. Allen SV, Hopkins WG. Age of peak competitive performance of elite
+athletes: a systematic review. Sports Med. 2015;45(10):1431–41.
+72. Haugen T, Tønnessen E, Seiler S. 9.58 and 10.49: nearing the citius end for
+100-m? Invited commentary. Int J Sports Physiol Perform. 2015;10(2):269–72.
+73. Boccia G, Moisè P, Franceschi A, Trova F, Panero D, La Torre A, et al. Career
+performance trajectories in track and field jumping events from youth to
+senior success: the importance of learning and development. PLoS One.
+2017;12:e0170744.
+74. Harman SM, Metter EJ, Tobin JD, Pearson J, Blackman MR. Longitudinal
+effects of aging on serum total and free testosterone levels in healthy men.
+Baltimore Longitudinal Study of Aging. J Clin Endocrinol Metab 2001;86(2):
+724–731.
+75. Korhonen MT, Cristea A, Alen M, Hakkinen K, Sipila S, Mero A, et al. Aging,
+muscle fiber type, and contractile function in sprint-trained athletes. J Appl
+Physiol. 2006;101(3):906–17.
+76. Hunter SK, Pereira HM, Keenan KG. The aging neuromuscular system and
+motor performance. J Appl Physiol. 2016;121(4):982–95.
+77. Hollings SC, Hume PA, Hopkins WG. Relative-age effect on competition
+outcomes at the World Youth and World unior Athletics Championships.
+Eur J Sport Sci. 2014;14(1):456–61.
+78. Hollings SC, Mallett CJ, Hume PA. The transition from elite junior track-andfield athlete to successful senior athlete: why some do, why others don’t.
+Int J Sports Sci Coach. 2014;9(3):457–71.
+79. Boccia G, Brustio PR, Moisè P, Franceschi A, La Torre A, Schena F, et al. Elite
+national athletes reach their peak performance later than non-elite in
+sprints and throwing events. J Sci Med Sport. 2019;22(3):342–7.
+80. Lloyd RS, Oliver JL, Faigenbaum AD, Howard R, De Ste Croix MB, Williams
+CA, et al. Long-term athletic development, part 2: barriers to success and
+potential solutions. J Strength Cond Res. 2015;29(5):1451–64.
+81. Lloyd RS, Oliver JL, Faigenbaum AD, Howard R, De Ste Croix MB, Williams
+CA, et al. Long-term athletic development- part 1: a pathway for all youth. J
+Strength Cond Res. 2015;29(5):1439–50.
+82. Helsen WF, Starkes JL, Hodges NJ. Team sports and the theory of deliberate
+practice. J Sport Exerc Psychol. 1998;20(1):12–34.
+83. Ericson KA, Krampe RT, Tesch-Romer C. The role of deliberate practice in the
+acquisition of expert performance. Physiol Rec. 1993;100(3):363–406.
+84. Usain Bolt biography. https://www.biography.com/athlete/usain-bolt.
+Assessed 10 Oct 2019.
+85. Delorme TL, Watkins AL. Techniques of progressive resistance exercise. Arch
+Phys Med. 1948;29(5):263–73.
+86. Gabbett TJ. The training-injury prevention paradox: should athletes be
+training smarter and harder? Br J Sports Med. 2016;50(5):273–80.
+87. Windt J, Gabbett TJ. How do training and competition workloads relate to
+injury? The workload-injury aetiology model. Br J Sports Med. 2017;51(5):
+428–35.
+88. Haugen T, Danielsen J, McGhie D, Sandbakk Ø, Ettema G. Kinematic
+asymmetry in the stride cycle is not associated with performance and
+injuries in athletic sprinters. Scand J Med Sci Sports. 2018;28(3):1001–8.
+89. Sale D, MacDougall D. Specificity in strength training: a review for the coach
+and athlete. Can J Appl Sport Sci. 1981;6(2):87–92.
+90. Kraemer WJ, Adams K, Cafarelli E, Dudley GA, Dooly C, Feigenbaum MS,
+et al. American College of Sports Medicine position stand. Progression
+models in resistance training for healthy adults. Med Sci Sports Exerc. 2002;
+34(2):364–80.
+91. Stone MH, Potteiger JA, Pierce KC, Proulx CM, O'Bryant HS, Johnson RL,
+et al. Comparison of the effects of three different weight-training programs
+on the one repetition maximum squat. J Strength Cond Res. 2000;14(3):
+332–7.
+
+Haugen et al. Sports Medicine - Open
+
+(2019) 5:44
+
+92. Kiely J. Periodization paradigms in the 21st century: evidence-led or
+tradition-driven? Int J Sports Physiol Perform. 2012;7(3):242–50.
+93. Matveyev LP. Periodisierung des sportlichen trainings. 2nd ed. Berlin: Bartels
+& Wernitz; 1975.
+94. Verkhoshansky Y. Programming and organization of training. Livonia:
+Sportivny Press; 1988.
+95. Seiler KS, Kjerland GØ. Quantifying training intensity distribution in elite
+endurance athletes: is there evidence for an “optimal” distribution? Scand J
+Med Sci Sports. 2006;16(1):49–56.
+96. Seiler KS. What is best practice for training intensity and duration distribution
+in endurance athletes? Int J Sports Physiol Perform. 2010;5(3):276–91.
+97. Morin JB, Samozino P. Interpreting power-force-velocity profiles for individualised
+and specific training. Int J Sports Physiol Perform. 2016;11(2):267–72.
+98. Bosco C, Tihanyi J, Viru A. Relationships between field fitness test and basal
+serum testosterone and cortisol levels in soccer players. Clin Physiol. 1996;
+16(3):317–22.
+99. Epstein RH. Aroused: a history of hormones and how they control just
+about everything. 1st ed: WW Norton & Company; 2018.
+100. Kraemer WJ, Ratamess NA, Nindl BC. Recovery responses of testosterone,
+growth hormone, and IGF-1 after resistance exercise. J Appl Physiol. 2017;
+122(3):549–58.
+101. Samozino P, Rabita G, Dorel S, Slawinski J, Peyrot N, Saez de Villarreal E,
+et al. A simple method for measuring power, force, velocity properties, and
+mechanical effectiveness in sprint running. Scand J Med Sci Sports. 2016;
+26(6):648–58.
+102. Cross MR, Brughelli M, Samozino P, Morin JB. Methods of power-forcevelocity profiling during sprint running: a narrative review. Sports Med.
+2017;47(7):1255–69.
+103. Rakovic E, Paulsen G, Helland C, Eriksrud O, Haugen T. The effect of
+individualised sprint training in elite female team sport athletes: a pilot
+study. J Sports Sci. 2018;36(24):2802–8.
+104. Lai A, Schache AG, Brown NA, Pandy MG. Human ankle plantar flexor
+muscle-tendon mechanics and energetics during maximum acceleration
+sprinting. J R Soc Interface. 2016;13(121).
+105. Miller RH, Umberger BR, Caldwell GE. Sensitivity of maximum sprinting
+speed to characteristic parameters of the muscle force-velocity relationship.
+J Biomech. 2012;45(8):1406–13.
+106. Weyand PG, Sandell RF, Prime DN, Bundle MW. The biological limits to
+running speed are imposed from the ground up. J Appl Physiol. 2010;
+108(4):950–61.
+107. Helland C, Haugen T, Rakovic E, Eriksrud O, Seynnes O, Mero AA, et al.
+Force-velocity profiling of sprinting athletes: single-run vs. multiple-run
+methods. Eur J Appl Physiol. 2019;119(2):465–73.
+108. Seiler S, Jøranson K, Olesen BV, Hetlelid KJ. Adaptations to aerobic interval
+training: interactive effects of exercise intensity and total work duration.
+Scand J Med Sci Sports. 2013;23(1):74–83.
+109. Tønnessen E, Shalfawi S, Haugen T, Enoksen E. The effect of 40-m repeated
+sprint training on maximum sprinting speed, repeated sprint endurance,
+vertical jump and aerobic capacity in young elite male soccer players. J
+Strength Cond Res. 2011;25(9):2364–70.
+110. Haugen T, Tønnessen E, Leirstein S, Hem E, Seiler S. Not quite so fast: effect
+of training at 90% sprint speed on maximal and repeated sprint ability in
+soccer players. J Sports Sci. 2014;32(20):1979–86.
+111. Haugen T, Tønnessen E, Øksenholt Ø, Haugen FL, Paulsen G, Enoksen E,
+Seiler S. Sprint conditioning of soccer players: effects of training intensity
+and technique supervision. PLoS One. 2015;10:e0121827.
+112. Jakeman JR, McMullan J, Babraj JA. Efficacy of a four-week uphill sprint
+training intervention in field hockey players. J Strength Cond Res. 2016;
+30(10):2761–6.
+113. Kavaliauskas M, Kilvington R, Babraj J. Effects of in-season uphill sprinting on
+physical characteristics in semi-professional soccer players. J Sports Med
+Phys Fitness. 2017;57(3):165–70.
+114. Cross MR, Lahti J, Brown SR, Chedati M, Jimenez-Reyes P, Samozino P, et al.
+Training at maximal power in resisted sprinting: optimal load determination
+methodology and pilot results in team sport athletes. PLoS One. 2018;13(4):
+e0195477.
+115. Lockie RG, Murphy AJ, Spinks CD. Effects of resisted sled towing on sprint
+kinematics in field-sport athletes. J Strength Cond Res. 2003;17(4):760–7.
+116. Cross MR, Brughelli M, Samozino P, Brown SR, Morin JB. Optimal loading for
+maximizing power during sled-resisted sprinting. Int J Sports Physiol
+Perform. 2017;12(8):1069–77.
+
+Page 15 of 16
+
+117. Morin JB, Petrakos G, Jiménez-Reyes P, Brown SR, Samozino P, Cross MR.
+Very-heavy sled training for improving horizontal-force output in soccer
+players. Int J Sports Physiol Perform. 2017;12(6):840–4.
+118. Kristensen GO, van den Tillaar R, Ettema GJ. Velocity specificity in earlyphase sprint training. J Strength Cond Res. 2006;20(4):833–7.
+119. Cissik JM. Means and methods of speed training, part II. Strength Cond J.
+2005;27(1):18–25.
+120. Mero A, Komi PV. Force-, EMG-, and elasticity-velocity relationships at
+submaximal, maximal and supramaximal running speeds in sprinters. Eur J
+Appl Physiol. 1986;55(5):553–61.
+121. Clark DA, Sabick MB, Pfeiffer RP, Kuhlman SM, Knigge NA, Shea KG.
+Influence of towing force magnitude on the kinematics of supramaximal
+sprinting. J Strength Cond Res. 2009;23(4):1162–8.
+122. Schmidt RA, Wrisberg CA. Motor learning and performance: a situation
+based learning approach. 4th ed: Human Kinetics; 2008.
+123. Stodden DF, Gao Z, Goodway JD, Langendorfer SJ. Dynamic relationships
+between motor skill competence and health-related fitness in youth. Pediatr
+Exerc Sci. 2014;26(3):231–41.
+124. Stodden DF, Goodway JD, Langendorfer SJ, Roberton MA, Rudisill ME, Garcia C,
+et al. A developmental perspective on the role of motor skill competence in
+physical activity: an emergent relationship. Quest. 2008;60(2):290–306.
+125. Porter JM, Wu WF, Crossley RM, Knopp SW, Campbell OC. Adopting an
+external focus of attention improves sprinting performance in low-skilled
+sprinters. J Strength Cond Res. 2015;29(4):947–53.
+126. Wulf G. Attentional focus and motor learning: a review of 15 year. Int Rev
+Sport Exerc Psychol. 2013;6(1):77–104.
+127. Winkelman NC, Clark KP, Ryan LJ. Experience level influences the effect of
+attentional focus on sprint performance. Hum Mov Sci. 2017;52:84–95.
+128. Porter JM, Wu WFW, Partridge JA. Focus of attention and verbal instructions:
+strategies of elite track and field coaches and athletes. Sport Sci Rev. 2010;
+19(3):199–211.
+129. Benz A, Winkelman N, Porter J, Nimphius S. Coaching instructions and cues
+for enhancing sprint performance. Strength Cond J. 2016;38(1):1–11.
+130. Cormie P, McGuigan MR, Newton RU. Developing maximal neuromuscular
+power: part 2 - training considerations for improving maximal power
+production. Sports Med. 2011;41(2):125–46.
+131. Helland C, Hole E, Iversen E, Olsson MC, Seynnes O, Solberg PA, Paulsen G.
+Training strategies to improve muscle power: is Olympic-style weightlifting
+relevant? Med Sci Sports Exerc. 2017;49(4):736–45.
+132. Seitz LB, Reyes A, Tran TT, Saez de Villarreal E, Haff GG. Increases in lowerbody strength transfer positively to sprint performance: a systematic review
+with meta-analysis. Sports Med. 2014;44(12):1693–702.
+133. Harries SK, Lubans DR, Callister R. Resistance training to improve power and
+sports performance in adolescent athletes: a systematic review and metaanalysis. J Sci Med Sport. 2012;15(6):532–40.
+134. Moir G, Sanders R, Button C, Glaister M. The effect of periodized resistance
+training on accelerative sprint performance. Sports Biomech. 2007;6(3):285–
+300.
+135. Comyns TM, Harrison AJ, Hennessy LK. Effect of squatting on sprinting
+performance and repeated exposure to complex training in male rugby
+players. J Strength Cond Res. 2010;24(3):610–8.
+136. Uth N. Anthropometric comparison of world-class sprinters and normal
+populations. J Sports Sci Med. 2005;4(4):608–16.
+137. Loturco I, Contreras B, Kobal R, Fernandes V, Moura N, Siqueira F, et al.
+Vertically and horizontally directed muscle power exercises: relationships
+with top-level sprint performance. PLoS One. 2018;13(7):e0201475.
+138. Delecluse C, Coppenolle HV, Willems E, Van Leemputte M, Diels R, Goris M.
+Influence of high-resistance and high velocity training on sprint
+performance. Med Sci Sports Exerc. 1995;27(8):1203–9.
+139. Young WB. Transfer of strength and power training to sports performance.
+Int J Sports Physiol Perform. 2006;1(2):74–83.
+140. Wathen D. Position statement: explosive/plyometric exercises. NSCA J. 1993;
+15(3):16–9.
+141. Sáez de Villarreal E, Requena B, Cronin JB. The effects of plyometric training
+on sprint performance: a meta-analysis. J Strength Cond Res. 2012;26(2):
+575–84.
+142. Nédélec M, Halson S, Delecroix B, Abaidia AE, Ahmaidi S, Dupont G. Sleep
+hygiene and recovery strategies in elite soccer players. Sports Med. 2015;
+45(11):1547–59.
+143. Gupta L, Morgan K, Gilchrist S. Does elite sport degrade sleep quality? A
+systematic review. Sports Med. 2017;47(7):1317–33.
+
+Haugen et al. Sports Medicine - Open
+
+(2019) 5:44
+
+144. Thomas DT, Erdman KA, Burke LM. American College of Sports Medicine
+joint position statement. Nutrition and athletic performance. Med Sci Sports
+Exerc. 2016;48(3):543–68.
+145. Nédélec M, McCall A, Carling C, Legall F, Berthoin S, Dupont G. Recovery in
+soccer: part ii-recovery strategies. Sports Med. 2013;43(1):9–22.
+146. Barnett A. Using recovery modalities between training sessions in elite
+athletes: does it help? Sports Med. 2006;36(9):781–96.
+147. Ortiz RO Jr, Sinclair Elder AJ, Elder CL, Dawes JJ. A systematic review on the
+effectiveness of active recovery interventions on athletic performance of
+professional-, collegiate-, and competitive-level adult athletes. J Strength
+Cond Res. 2018; [Epub ahead of print].
+148. Van Hooren B, Peake JM. Do we need a cool-down after exercise? A
+narrative review of the psychophysiological effects and the effects on
+performance, injuries and the long-term adaptive response. Sports Med.
+2018;48(7):1575–95.
+149. Opplert J, Babault N. Acute effects of dynamic stretching on muscle
+flexibility and performance: an analysis of the current literature. Sports Med.
+2018;48(2):299–325.
+150. Winchester JB, Nelson AG, Landin D, Young MA, Schexnayder IC. Static
+stretching impairs sprint performance in collegiate track and field athletes. J
+Strength Cond Res. 2008;22(1):13–9.
+151. Blazevich AJ, Gill ND, Kvorning T, Kay AD, Goh AG, Hilton B, et al. No effect
+of muscle stretching within a full, dynamic warm-up on athletic
+performance. Med Sci Sports Exerc. 2018;50(6):1258–66.
+152. Dupuy O, Douzi W, Theurot D, Bosquet L, Dugué B. An evidence-based
+approach for choosing post-exercise recovery techniques to reduce markers
+of muscle damage, soreness, fatigue, and inflammation: a systematic review
+with meta-analysis. Front Physiol. 2018;9:403.
+153. Poppendieck W, Wegmann M, Ferrauti A, Kellmann M, Pfeiffer M, Meyer T.
+Massage and performance recovery: a meta-analytical review. Sports Med.
+2016;46(2):183–204.
+154. Mine K, Lei D, Nakayama T. Is pre-performance massage effective to
+improve maximal muscle strength and functional performance? A
+systematic review. Int J Sports Phys Ther. 2018;13(5):789–99.
+155. Engel FA, Holmberg HC, Sperlich B. Is there evidence that runners can
+benefit from wearing compression clothing? Sports Med. 2016;46(12):1939–
+52.
+156. Marqués-Jiménez D, Calleja-González J, Arratibel I, Delextrat A, Terrados N.
+Are compression garments effective for the recovery of exercise-induced
+muscle damage? A systematic review with meta-analysis. Physiol Behav.
+2016;153:133–48.
+157. Leeder JD, van Someren KA, Bell PG, Spence JR, Jewell AP, Gaze D,
+Howatson G. Effects of seated and standing cold water immersion on
+recovery from repeated sprinting. J Sports Sci. 2015;33(15):1544–52.
+158. Leeder J, Gissane C, van Someren K, Gregson W, Howatson G. Cold water
+immersion and recovery from strenuous exercise: a meta-analysis. Br J
+Sports Med. 2012;46(4):233–40.
+159. Bieuzen F, Bleakley CM, Costello JT. Contrast water therapy and exercise
+induced muscle damage: a systematic review and meta-analysis. PLoS One.
+2013;8(4):e62356.
+160. Roberts LA, Raastad T, Markworth JF, Figueiredo VC, Egner IM, Shield A,
+et al. Post-exercise cold water immersion attenuates acute anabolic
+signalling and long-term adaptations in muscle to strength training. J
+Physiol. 2015;593(18):4285–301.
+161. Malone JK, Blake C, Caulfield BM. Neuromuscular electrical stimulation
+during recovery from exercise: a systematic review. J Strength Cond Res.
+2014;28(9):2478–506.
+162. Weerapong P, Hume PA, Kolt GS. The mechanisms of massage and effects
+on performance, muscle recovery and injury prevention. Sports Med. 2005;
+35(3):235–56.
+163. Mujika I, Padilla S. Scientific bases for precompetition tapering strategies.
+Med Sci Sports Exerc. 2003;35(7):1182–7.
+164. Pyne DB, Mujika I, Reilly T. Peaking for optimal performance: research
+limitations and future directions. J Sports Sci. 2009;27(3):195–202.
+165. Mujika I. The influence of training characteristics and tapering on the
+adaptation in highly trained individuals: a review. Int J Sports Med. 1998;
+19(7):439–46.
+166. Mujika I. Intense training: the key to optimal performance before and
+during the taper. Scand J Med Sci Sports. 2010;20(2):24–31.
+
+Page 16 of 16
+
+167. Zaras ND, Stasinaki AN, Krase AA, Methenitis SK, Karampatsos GP, Georgiadis
+GV, et al. Effects of tapering with light vs. heavy loads on track and field
+throwing performance. J Strength Cond Res. 2014;28(12):3484–95.
+168. Bosquet L, Montpetit J, Arvisais D, Mujika I. Effects of tapering on
+performance: a meta-analysis. Med Sci Sports Exerc. 2007;39(8):1358–65.
+169. Pritchard HJ, Tod DA, Barnes MJ, Keogh JW, McGuigan MR. Tapering
+practices of New Zealand’s elite raw powerlifters. J Strength Cond Res. 2016;
+30(7):1796–804.
+170. Pritchard HJ, Barnes MJ, Stewart RJ, Keogh JW, McGuigan MR. Higherversus lower-intensity strength-training taper: effects on neuromuscular
+performance. Int J Sports Physiol Perform. 2019;14(4):458–63.
+171. Grgic J, Mikulic P. Tapering practices of Croatian open-class powerlifting
+champions. J Strength Cond Res. 2017;31(9):2371–8.
+172. Ritchie D, Allen JB, Kirkland A. Where science meets practice: Olympic
+coaches' crafting of the tapering process. J Sports Sci. 2018;36(10):1145–54.
+
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+
+
