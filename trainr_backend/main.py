@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, send_file
 import openai
 from dotenv import load_dotenv
 import os
@@ -15,12 +15,14 @@ import cv2
 from ultralytics import YOLO
 import numpy as np
 import csv
+from flask_cors import CORS
 
 
 #Reference to https://www.youtube.com/watch?v=tcqEUSNCn8I
 load_dotenv()
 
 app = Flask(__name__)
+CORS(app)
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 CHROMA_PATH = "chroma"
@@ -110,7 +112,7 @@ def retrieve():
     print("Response", formatted_response)
     return jsonify({"Response":response_text, "Sources":sources}) 
 
-@app.route("/cv", methods=["POST"])
+@app.route("/cv/<path:video_path>", methods=["GET"])
 def cv(video_path):
     model = YOLO("yolov8n-pose.pt")
     cap = cv2.VideoCapture(video_path)
@@ -122,7 +124,8 @@ def cv(video_path):
 
     # define the code and create VideoWriter object
     fourcc = cv2.VideoWriter_fourcc(*'mp4v')
-    out = cv2.VideoWriter('output.mp4', fourcc, fps, (frame_width, frame_height))
+    output_file = 'output.mp4'  # Output video file path
+    out = cv2.VideoWriter(output_file, fourcc, fps, (frame_width, frame_height))
 
     frame_count = 0
     all_frames_data = []
@@ -178,3 +181,11 @@ def cv(video_path):
         
         # write data
         writer.writerows(all_frames_data)
+
+    if os.path.exists(output_file):
+        return send_file(output_file, as_attachment=True)
+    else:
+        return jsonify({"error": "Output file not found"}), 404
+
+if __name__ == '__main__':
+    app.run(debug=True)
