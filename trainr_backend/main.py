@@ -15,12 +15,14 @@ import cv2
 from ultralytics import YOLO
 import numpy as np
 import csv
+from flask_cors import CORS
 
 
 #Reference to https://www.youtube.com/watch?v=tcqEUSNCn8I
 load_dotenv()
 
 app = Flask(__name__)
+CORS(app)
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 CHROMA_PATH = "chroma"
