@@ -1,6 +1,6 @@
 import React from 'react'
 import Button from './Button'
-import Logo from '../assets/react.svg';
+import Logo from '../assets/logo.png';
 import { useNavigate } from 'react-router-dom';
 
 const Navbar = () => {
@@ -11,7 +11,11 @@ const Navbar = () => {
         {/* Left Side (Logo) */}
         <div className="flex items-center">
             <a onClick={() => navigate('/')}>
-                <img src={Logo} />
+            <img 
+                src={Logo} 
+                className="w-[70px] h-auto" 
+                alt="Logo"
+            />
             </a>
         </div>
     
