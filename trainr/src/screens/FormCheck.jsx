@@ -11,6 +11,16 @@ import Button from '../components/Button'
 function FormCheck() {
     const [showVideo, setShowVideo] = useState(false);
     const [score, setScore] = useState(75);
+    const [error, setError] = useState(null);
+    const [uploadedFileName, setUploadedFileName] = useState('');
+
+
+    const handleFileSelect = (selectedFile, fileName) => {
+        console.log('Selected file:', selectedFile);
+        console.log('File name:', fileName);
+        setUploadedFileName(fileName);
+        // Here you can do whatever you want with the file and its name
+    };
 
     const tipsByScore = [
         { range: [0, 20], tips: ['Run in straight line', 'Look forward when running', 'Stay relaxed'] },
@@ -25,8 +35,32 @@ function FormCheck() {
         return tipSet ? tipSet.tips : [];
     };
 
+    const fetchScore = async (comparisonCsv) => {
+        setLoading(true);
+        setError(null);
+        try {
+          const response = await fetch(`/score/${encodeURIComponent(comparisonCsv)}`, {
+            method: 'GET',
+          });
+          
+          if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+          }
+          
+          const data = await response.text();
+          setScore(parseFloat(data));
+        } catch (e) {
+          setError('An error occurred while fetching the score.');
+          console.error('Error:', e);
+        } finally {
+          setLoading(false);
+        }
+      };
+
     const handleButtonClick = () => {
         setShowVideo(true);
+        if (uploadedFileName === 'nicoRunningPose.mp4') fetchScore('/score/nicoRunningPose.csv');
+        else fetchScore('/score/otherRunningPose.csv');
     };
 
     return (
@@ -35,7 +69,7 @@ function FormCheck() {
                 <Navbar />
                 <Header title="Form Check" description="Upload a video and receive professional feedback on your form." />
                 <div className="flex flex-row gap-5">
-                    <InputFile />
+                    <InputFile onFileSelect={handleFileSelect}/>
                     <ActivitySelect />
                 </div>
                 <div className="flex flex-col my-5 gap-5 ">
