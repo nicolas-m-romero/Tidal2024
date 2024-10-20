@@ -17,6 +17,9 @@ import numpy as np
 import csv
 from flask_cors import CORS
 
+import pandas as pd
+import numpy as np
+from scipy.signal import find_peaks
 
 #Reference to https://www.youtube.com/watch?v=tcqEUSNCn8I
 load_dotenv()
@@ -187,6 +190,81 @@ def cv(video_path):
         return send_file(output_file, as_attachment=True)
     else:
         return jsonify({"error": "Output file not found"}), 404
+
+@app.route("/score/<path:comparison_csv>", methods=["GET"])
+def scoreCV(comparison_csv):
+    def calculate_angle(a, b, c):
+        # calculate the angle between three points
+        ba = a - b
+        bc = c - b
+        cosine_angle = np.dot(ba, bc) / (np.linalg.norm(ba) * np.linalg.norm(bc))
+        angle = np.arccos(cosine_angle)
+        return np.degrees(angle)
+
+    def calculate_torque(shoulder_left, shoulder_right, hip_left, hip_right):
+        # approximate torque based on the twist of shoulders relative to hips
+        shoulder_vector = shoulder_right - shoulder_left
+        hip_vector = hip_right - hip_left
+        return np.cross(shoulder_vector, hip_vector)
+
+    def get_keypoint(row, kp_num):
+        # extract x, y coordinates for a given keypoint
+        return np.array([row[f'kp{kp_num}_x'], row[f'kp{kp_num}_y']])
+
+    def analyze_pose(df):
+        # analyze pose data for a single runner
+        results = []
+        for _, row in df.iterrows():
+            # calculate leg angles
+            left_leg_angle = calculate_angle(get_keypoint(row, 11), get_keypoint(row, 12), get_keypoint(row, 13))
+            right_leg_angle = calculate_angle(get_keypoint(row, 8), get_keypoint(row, 9), get_keypoint(row, 10))
+            
+            # calculate arm angles
+            left_arm_angle = calculate_angle(get_keypoint(row, 5), get_keypoint(row, 6), get_keypoint(row, 7))
+            right_arm_angle = calculate_angle(get_keypoint(row, 2), get_keypoint(row, 3), get_keypoint(row, 4))
+            
+            # approximate torque
+            torque = calculate_torque(get_keypoint(row, 5), get_keypoint(row, 2), get_keypoint(row, 11), get_keypoint(row, 8))
+            
+            results.append({
+                'left_leg_angle': left_leg_angle,
+                'right_leg_angle': right_leg_angle,
+                'left_arm_angle': left_arm_angle,
+                'right_arm_angle': right_arm_angle,
+                'torque': np.linalg.norm(torque)
+            })
+        
+        return pd.DataFrame(results)
+
+    # perfect runner form data
+    perfect_csv = 'perfect_runner.csv'
+
+    perfect_df = pd.read_csv(perfect_csv)
+    comparison_df = pd.read_csv(comparison_csv)
+    
+    perfect_analysis = analyze_pose(perfect_df)
+    comparison_analysis = analyze_pose(comparison_df)
+    
+    # ensure both analyses have the same number of frames
+    min_frames = min(len(perfect_analysis), len(comparison_analysis))
+    perfect_analysis = perfect_analysis.iloc[:min_frames]
+    comparison_analysis = comparison_analysis.iloc[:min_frames]
+    
+    # calculate differences
+    diff_df = perfect_analysis - comparison_analysis
+    diff_df = diff_df.abs()
+    
+    # score each aspect (lower difference better)
+    max_angle_diff = 180  # max possible angle difference
+    max_torque_diff = diff_df['torque'].max()  # max observed difference for torque
+    
+    angle_score = 100 - (diff_df[['left_leg_angle', 'right_leg_angle', 'left_arm_angle', 'right_arm_angle']].mean().mean() / max_angle_diff * 100)
+    torque_score = 100 - (diff_df['torque'].mean() / max_torque_diff * 100)
+    
+    # calculate overall score (average of angle and torque scores)
+    overall_score = (angle_score + torque_score) / 2
+    
+    return str(max(0, min(100, overall_score)))  # ensure score is between 0 and 100
 
 if __name__ == '__main__':
     app.run(debug=True)
