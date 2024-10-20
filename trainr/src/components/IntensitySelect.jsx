@@ -1,4 +1,5 @@
 import React from 'react';
+import React, { useState } from 'react';
 import {
   Select,
   SelectContent,
@@ -8,8 +9,14 @@ import {
 } from './Select';
 
 export function IntensitySelect() {
+  const [intensity, setIntensity] = useState(''); // State to store selected value
+
+  const handleChange = (value) => {
+    setIntensity(value); // Update the state with the selected value
+  };
+
   return (
-    <Select>
+    <Select onValueChange={handleChange}>
       <SelectTrigger className="w-[180px]">
         <SelectValue placeholder="Select Intensity" />
       </SelectTrigger>
