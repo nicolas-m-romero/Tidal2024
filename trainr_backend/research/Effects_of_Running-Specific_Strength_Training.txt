@@ -1,0 +1,1549 @@
+International Journal of
+
+Environmental Research
+and Public Health
+
+Article
+
+Effects of Running-Specific Strength Training, Endurance
+Training, and Concurrent Training on Recreational Endurance
+Athletes’ Performance and Selected Anthropometric Parameters
+Pablo Prieto-González 1, *
+
+and Jaromir Sedlacek 2
+1
+2
+
+*
+
+Citation: Prieto-González, P.;
+Sedlacek, J. Effects of
+Running-Specific Strength Training,
+Endurance Training, and Concurrent
+Training on Recreational Endurance
+Athletes’ Performance and Selected
+Anthropometric Parameters. Int. J.
+Environ. Res. Public Health 2022, 19,
+10773. https://doi.org/10.3390/
+ijerph191710773
+Academic Editors: Jesús Siquier Coll,
+Ignacio Bartolomé and María
+Concepción Robles-Gil
+Received: 29 June 2022
+Accepted: 26 August 2022
+Published: 29 August 2022
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional affil-
+
+Health and Physical Education Department, Prince Sultan University, Riyadh 11586, Saudi Arabia
+Department of Sport Kinanthropology, Faculty of Sports, University of Prešov, 080 01 Prešov, Slovakia
+Correspondence: pprieto@psu.edu.sa
+
+Abstract: Objective: The present study aimed to verify the effects of running-specific strength
+training alone, endurance training alone, and concurrent training on recreational endurance athletes’
+performance and selected anthropometric parameters. Method: Thirty male recreational endurance
+runners were randomly assigned using a blocking technique to either a running-specific strength
+training group (RSSTG), an endurance training group (ETG), or a concurrent training group (CTG).
+RSSTG performed three strength-training sessions per week orientated to running, ETG underwent
+three endurance sessions per week, and CTG underwent a 3-day-per-week concurrent training
+program performed on non-consecutive days, alternating the strength and endurance training
+sessions applied to RSSTG and ETG. The training protocol lasted 12 weeks and was designed using
+the ATR (Accumulation, Transmutation, Realization) block periodization system. The following
+assessments were conducted before and after the training protocol: body mass (BM), body mass
+index (BMI), body fat percentage (BFP), lean mass (LM), countermovement jump (CMJ), 1RM (onerepetition maximum) squat, running economy at 12 and 14 km/h (RE12 and RE14), maximum oxygen
+consumption (VO2 max), and anaerobic threshold (AnT). Results: RSSTG significantly improved the
+results in CMJ, 1RM squat, RE12, and RE14. ETG significantly improved in RE12, RE14, VO2 max,
+and AnT. Finally, CTG, obtained significant improvements in BFP, LM, CMJ, 1RM squat, RE12,
+RE14, VO2 max, and AnT. RSSTG obtained improvements significantly higher than ETG in CMJ,
+1RM squat, and RE14. ETG results were significantly better than those attained by RSSTG in AnT.
+Moreover, CTG marks were significantly higher than those obtained by ETG in CMJ and RE14.
+Conclusion: Performing a 12-week concurrent training program integrated into the ATR periodization
+system effectively improves body composition and performance variables that can be obtained with
+exclusive running-specific strength and endurance training in recreational runners aged 30 to 40.
+Running-specific strength training enhances maximum and explosive strength and RE, whereas
+exclusive endurance training improves VO2 max, AnT, and RE. Performing concurrent training on
+non-consecutive days effectively prevents the strength and endurance adaptations attained with
+single-mode exercise from being attenuated. The ATR periodization system is useful in improving
+recreational endurance athletes’ performance parameters, especially when performing concurrent
+training programs.
+
+iations.
+
+Keywords: concurrent training; endurance training; running-specific strength training; periodization;
+recreational runner
+Copyright: © 2022 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+
+1. Introduction
+
+distributed under the terms and
+
+Several sports require an adequate levels of strength and endurance to perform at
+optimum level in competitive events. However, successfully combining endurance and
+strength training represents the highest complexity in exercise prescription [1]. It has often
+
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+
+Int. J. Environ. Res. Public Health 2022, 19, 10773. https://doi.org/10.3390/ijerph191710773
+
+https://www.mdpi.com/journal/ijerph
+
+Int. J. Environ. Res. Public Health 2022, 19, 10773
+
+2 of 17
+
+been speculated that concurrent training does not generate the same adaptations as singlemode exercise [1]. Even so, the possible mechanisms whereby concurrent training of both
+fitness components can attenuate strength and endurance adaptations remain unclear [2].
+In endurance sports, it has traditionally been thought that cardiovascular capacity is
+the main limiting factor in sports performance [3]. Therefore, maximum oxygen consumption (VO2 max) and anaerobic threshold (AnT) have been considered the best indicators to
+predict athletes’ performance [4]. Nevertheless, in reality, endurance athletes with similar
+VO2 max may perform differently in sports competitions. Hence, VO2 max could not be the
+best indicator to predict their racing performance. Nowadays, running economy (RE) and
+the evaluations that imply assessing the muscular power exerted or the speed reached by
+an athlete during the VO2 max are considered better sports performance indicators [5–7]. In
+this way, specific scientific evidence indicates that combining endurance and strength training generates additional benefits in terms of athletic performance improvement and injury
+prevention [8]. These improvements could be related to the following mechanisms [8–13]:
+(a)
+
+(b)
+(c)
+
+Musculotendinous factors: Improved muscle-tendinous stiffness and stretch-shortening
+cycle properties, conversion of fast-twitch type IIx into more fatigue-resistant type IIa
+fibers, and delayed activation of less-efficient type II fibers.
+Neuromuscular factors: Improved neuromuscular function and efficiency, improved
+intramuscular coordination, motor unit recruitment, and firing frequency.
+Physical fitness components: Improved levels of strength. This allows athletes to
+apply a lower relative percentage of force, which reduces the contribution of the
+anaerobic energy system and results in reduced fatigue, maintenance of the required
+application of strength over a longer period, or appliance of more strength per unit
+of time. Additionally, peak velocity, speed, maximum aerobic speed, and anaerobic
+capacity are enhanced.
+
+All these enhancements would result in an improved RE.
+Nevertheless, there are arguments against using concurrent training programs in
+endurance runners. Vikmoen et al. (2016) and Berryman et al. (2018) [14,15] state that
+sports requiring high strength levels are opposite in nature to endurance sports in terms of
+energy metabolism and effort duration. Therefore, developing both fitness components
+simultaneously would result in potential combative adaptations [14–16]. Actually, the main
+adaptations produced by endurance and strength training are not only different but also
+opposed: Endurance training adaptations include oxidative enzyme activity increment,
+mitochondrial and capillary density increment, maintenance or reduction of fiber size, and
+possibly also fiber type transformations (Type II into I), modifying the model of recruitment
+and reducing the muscle contractile capacity [17]. In contrast, strength training is associated
+with reduced capillary density, oxidative enzymes, and mitochondrial density, reducing
+the oxidative muscle capacity [10,15].
+In this regard, some studies have revealed a certain degree of incompatibility between
+endurance and strength training [9,18,19]. Thus, maximum voluntary contraction, rate of
+force development and some adaptations such as maximal strength and VO2 max can be
+attenuated [20]. Similarly, time to exhaustion and mitochondrial density can be reduced [14].
+This phenomenon is known as the interference effect or concurrent training effect [11], and
+the potential interferences can be chronic and acute [2,11].
+The reasons why the interference effect occurs are [1,2,11] the mechanism of muscle
+fiber recruitment used, the transformation of fast twitch muscle fibers into slow twitch
+muscle fibers, and the functioning of the endocrine system. From the molecular point of
+view, the simultaneous activation of cellular biomarkers that elicit optimal anabolic and
+endurance responses is also not possible [11]. Moreover, muscle hypertrophy implies the
+cross-sectional area increment of muscle fibers, which may increase the distance between
+the capillaries inside the muscle and could negatively impact performance. Even so, in
+untrained individuals, there is an increase in (or at least a maintenance of) the number
+of capillaries surrounding each muscle fiber, and the capillaries per fiber area do not
+experience modifications. However, since performing concurrent strength and endurance
+
+Int. J. Environ. Res. Public Health 2022, 19, 10773
+
+3 of 17
+
+training can mitigate the hypertrophic response, and endurance-trained athletes have a
+greater number of capillaries than untrained athletes, these findings may not apply to
+experienced endurance athletes [14].
+In line with the existence of arguments for and against the use of concurrent training, some studies have found improvements in sports performance after using strength
+training in endurance athletes [6,11], whereas no beneficial effect was observed in other
+research [14,21]. The discrepancies between studies may be due to the development of
+different types of strength, external variables not directly related to the intervention, the
+use of different training methods [12,22], or the application of training methods lacking
+scientific rigor [23].
+As a result, it is essential to continue searching for better strategies to improve athletic
+performance by implementing strength training sessions on endurance training programs
+and preventing the interference between both fitness components [11,16]. Future studies
+should focus on minimizing the interference effect when concurrent training is applied,
+and training load organization, type, order, and optimal application are crucial to attain
+this goal. Further research is also needed to understand better the relationship between
+strength training, anaerobic metabolism, and endurance sports performance. New studies
+must be longer in duration, since the greatest increases in RE occur after implementing
+training protocols of more than 24 sessions, and most of the existing studies are shorter [15].
+Moreover, valid strength assessments through a range of different velocities must be used,
+implementing adequate strength training programs over a long-term intervention period,
+and using multi-joint strength, explosive-strength, or reactive-strength exercises due to
+their superior functionally [6].
+Future studies must also integrate the intervention design into a suitable periodization
+system and apply sports training principles to synchronize all training contents [20]. In this
+respect, to the best of our knowledge, at present, only one investigation has been conducted
+to verify the effect of strength training on endurance runners by using a periodization
+system [21]. Additionally, athletes’ training programs must be adapted to their personal
+needs and abilities. Thus, according to the law of diminishing returns, individuals’ ability
+to attain specific adaptations will depend on their training level. Less-trained subjects are
+likely to obtain greater adaptations since they have a greater adaptation reserve. In contrast,
+well-trained individuals need more demanding training stimuli to attain improvements
+throughout the training process [22].
+Importantly, most existing studies related to concurrent training have focused on
+verifying the compatibility of simultaneous strength and endurance training. However,
+very few of them have examined the influence of strength, and particularly of runningspecific strength training, on endurance performance [24]. Most studies examined the
+interference of endurance on maximal strength and hypertrophy, but not the opposite [11].
+In this context, the utility of strength training remains to be clarified for endurance athletes,
+and research findings are often inconclusive [22]. For this reason, it is necessary to continue
+investigating this topic [17]. In fact, sports scientists have studied new ways to enhance
+biomechanics, technique, energy production, sports equipment, injury prevention, and
+recovery. However, concurrent training and the effect of strength training in endurance
+athletes is a very complex phenomenon that requires new research.
+2. Objective
+The main objective of the present study was to verify the effect of running-specific
+strength training, endurance training alone, and concurrent training on physiological
+performance and selected anthropometric variables in recreational runners. We also aimed
+to ascertain if 3-day-per-week concurrent training performed on non-consecutive days
+attenuates the strength, endurance, and anthropometric adaptations compared to strength
+and endurance training in isolation.
+
+Int. J. Environ. Res. Public Health 2022, 19, 10773
+
+4 of 17
+
+3. Materials and Methods
+A quasi-experimental randomized study was conducted.
+3.1. Subjects
+Thirty male recreational endurance runners participated in the present research. They
+were assigned into three different groups: a running-specific strength training group
+(RSSTG) [age: 34.7 (2.36); height: 1.77 (0.04); weight: 67.05 (5.37); BMI: 21.27 (1.87)], an
+endurance training group (ETG) [age: 35.1 (2.77); height: 1.78 (0.05); weight: 65.80 (4.38);
+BMI: 20.68 (1.31)], or a concurrent training group (CTG) [age: 34.3 (2.37); height: 1.76 (0.03);
+weight: 66.96 (4.48); BMI: 21.48 (1.03)]. RSSTG performed thrice-per-week strength training
+program orientated to running on non-consecutive days. ETG performed thrice-per-week
+endurance training on non-consecutive days. Finally, CTG underwent 3-days-per-week
+concurrent training performed on non-consecutive days. CTG alternated the runningspecific strength training sessions performed by RSSTG and the endurance training sessions
+underwent by ETG. The inclusion criteria were (a) be an active recreational runner; (b) able
+to run one km in less than 4:30 min; (c) have practiced running at a recreational level for at
+least the past five years before participating in the current research; (d) perform endurance
+training regularly, with a weekly frequency of not less than three times a week, but no more
+than five times a week; (e) have not performed endurance or strength systematic training
+for the last year leading up to the research’s commencement; (f) non-smoker; (g) do not use
+nutritional supplementation; (h) do not suffer from chronic diseases or ongoing injuries;
+(i) aged between 30 and 40 years old.
+Participants were asked not to modify their dietary habits or lifestyle during the
+intervention process, and attendance was recorded. Subjects were required to attend
+at least 90% of the training sessions to be included in the study. Similarly, participants
+were informed that they could voluntarily withdraw from the study at any time. The
+research was conducted according to the ethical principles of the Declaration of Helsinki. It
+was approved by the Ethics Commission of Prešov University (Prešov, Slovakia) (ethical
+clearance number: 2/2021). Similarly, all subjects who participated in this study were
+required to submit written informed consent. Previously, they received a verbal and
+written explanation about the experimental design and the potential risks and benefits of
+participating in this research.
+3.2. Randomization
+A blocking design was used to avoid any possible bias when the subjects were allocated
+into three different experimental groups and to ensure the trial’s proper randomization.
+The blocking factor was the VO2 max value obtained through the incremental load test.
+According to the results obtained in this test, participants were allocated to one of the ten
+blocks created. Athletes who obtained the best three marks were assigned to block one.
+Athletes who obtained the fourth, fifth, and sixth-best marks were assigned to block two,
+and so on. Afterward, each block’s three members were randomly assigned to one of the
+three different experimental groups. Therefore, there was one member of each block in
+each experimental group.
+3.3. Training Protocol
+The intervention lasted 12 weeks, and study participants performed three sessions
+per week on non-consecutive days. The training protocol was designed using the ATR
+block periodization system. The training intervention was divided into three mesocycles:
+accumulation (first six weeks), transmutation (from week seven to week 10), and realization
+(weeks 11 and 12). The duration of the training protocol was the minimum necessary to
+attain the planned adaptations in accordance with the abilities developed in each mesocycle,
+the sports discipline, and the characteristics of the athletes. The training methods applied
+to RSSTG are shown in Table 1, and the training methods that ETG underwent are shown
+in Table 2.
+
+Int. J. Environ. Res. Public Health 2022, 19, 10773
+
+5 of 17
+
+Table 1. Training methodology that will be used with RSSTG.
+Week
+
+Training Parameters
+
+1
+
+I: 64% 1RM; S: 4; R: 14; RT: 2”; Ex: Squat, leg curl, calf raise
+
+2
+
+I: 69% 1RM; S: 4; R: 12; RT: 20 ; Ex: Squat, leg curl, calf raise
+
+3
+
+I: 69% 1RM; S: 5; R: 12; RTS: 20 ; Ex: Squat, leg curl, calf raise
+
+4
+
+I: 69%–69%–75%–75%–80% 1RM; S: 5; R: 12-12-10-10-8; RTS: 30 ; Ex: Squat, leg curl,
+calf raise
+
+5
+
+I: 69%–75%–80%–85% 1RM; S: 4; R: 12-10-8-6; RTS: 30 ; Ex: Squat, leg curl, calf raise
+
+6
+
+I: 80% 1RM; S: 4; R: 8; RTS: 30 ; Ex: Squat, leg curl, calf raise
+
+7
+
+6S of: Squat (6R at 80% 1RM) + hurdle hops (10R) + 20 3000 running at 100% of MAS;
+RTS: 50
+
+8
+
+6S of: Squat (5R at 82% 1RM) + hurdle hops (10R) + 20 3000 running at 100% of MAS;
+RTS: 50
+
+9
+
+6S of: Squat (4R at 84% 1RM) + extended bounds (cover 50 m alternating legs by doing
+the lowest possible number of strides) + 20 1500 running at 105% of MAS; RTS: 50
+
+10
+
+6S of: = Squat (3R at 86% 1RM) + extended bounds (cover 50 m alternating legs by
+doing the lowest possible number of strides) + 20 running at 110% of MAS; RTS: 50
+
+11
+
+Uphill running. Di: 200 m; I: 115% of MAS; Incl: 6%; S: 3; R: 5; RTR: 30 ; RTS: 100
+
+12
+
+Uphill running. Di: 200 m; I: 120% of MAS; Incl: 6%; S: 2; R: 5; RTR: 30 ; RTS: 100
+
+I: intensity; S: sets; R: repetitions; RTS: resting time between sets; RTR: resting time between reps; 1RM: onerepetition maximum; MAS: maximum aerobic speed; Di: distance; Incl: inclination.
+
+Table 2. Training methodology that will be used with ETG.
+Week
+
+Training Parameters
+
+1
+
+Fartlek training. Du: 500 ; I: 117–162 b.p.m.
+
+2
+
+Fartlek training. Du: 550 ; I: 117–162 b.p.m.
+
+3
+
+Fartlek training. Du: 600 ; I: 117–162 b.p.m.
+
+4
+
+Continuous training; Du: 550 ; I: 135–139 b.p.m.
+
+5
+
+Continuous training; Du: 500 ; I: 139–144 b.p.m.
+
+6
+
+Continuous training; Du: 450 ; I: 144–149 b.p.m.
+
+7
+
+Extensive interval training (long intervals); I: 159–162 b.p.m.; 10S of 30 ; RT: 20
+
+8
+
+Extensive interval training (long intervals); I: 162–165 b.p.m.; 10S of 20 3000 ; RT: 20
+
+9
+
+Extensive interval training (medium intervals). I: 165–168 b.p.m.; 14S of 10 3000 ; RT: 20
+
+10
+
+Extensive interval training (medium intervals). I: 168–171 b.p.m.; 16S of 10 ; RT: 20
+
+11
+
+Repetition training. I: 180 b.p.m.; 5R of 30 . RT: 80
+
+12
+
+Competition method. I: 100% of competition running pace; 1R; Di: 3.5 km
+
+Du: duration; I: intensity; R: repetitions; RT: resting time; b.p.m.: beats per minute; Di: distance.
+
+Likewise, CTG underwent 3-day-per-week concurrent training performed on nonconsecutive days, alternating the strength and endurance sessions carried out by RSSTG
+and ETG. All training sessions were supervised by the same researcher: a One Physical
+Education Bachelor’s Degree holder, expert in sports training, and with more than 20 years
+of working experience in the sports field. Likewise, all training sessions were conducted in
+the same fitness center to minimize external variables’ influence avoid compromising the
+results’ validity and.
+
+Int. J. Environ. Res. Public Health 2022, 19, 10773
+
+6 of 17
+
+3.4. Assessments
+Physiological and selected anthropometric parameters were measured before (pretest) and after (post-test) applying the 12-week training protocol. The assessments were
+conducted after a rest period of 48 h, between 5:00 p.m. and 7:00 p.m. The study participants
+were asked to refrain from ingesting food or beverages three hours before testing. To avoid
+the learning effect, a theoretical–practical training session was conducted one week before
+the pre-test. The main researcher explained the testing protocols in detail. Thereupon, the
+participants practiced the proper technique of execution of all tests to verify the correct
+functioning of the equipment and procedures used in the assessment. The following
+two-phase warm-up was performed before conducting the physical and physiological tests:
+General warm-up: 10 min running at 60% of their theoretical maximum heart rate plus five
+minutes of joint mobilization exercises. Specific warm-up: 2 × 10 vertical jumps, three sets
+of squats (10 reps at 50% of their estimated 1RM, five reps at their estimated 70% 1RM, and
+three reps at their estimated 80% 1RM), and one set of 20 m acceleration. The theoretical
+1RM was estimated based on the information collected during the theoretical–practical
+training session conducted one week before the pre-test. In addition, the subject’s BM, age,
+and strength training experience were also taken into account.
+Assessments included in the pre-test and post-test are detailed below:
+
+•
+
+•
+
+•
+•
+
+•
+
+•
+
+Body mass (BM) and body mass index (BMI): Both were measured using a Seca digital
+column scale, model 769 (Hamburg, Germany). Height was measured to the nearest
+0.1 cm and body mass to the nearest 0.1 kg. Body mass and body mass index were
+assessed by the same investigator, and the subjects were in bare feet.
+Body fat percentage (BFP): BFP was obtained through the following equation [25]:
+BFP = [(Σ of abdominal, subscapular, triceps, suprailiac, abdominal, thigh, calf)0.143]
++ 4.56. The plicometer used to measure the fat folds was a Harpenden Skinfold Caliper,
+model FG1056 (Sussex, UK).
+Lean mass (LM): LM was calculated by using the following formula: LM = Body Mass (kg)
+− (Fat Mass (Kg) × BFP).
+Countermovement jump (CMJ): CMJ was used to assess jumping ability and lower
+body power due to its high reliability and validity [26]. The test was performed in
+one indoor gymnasium on a dry and non-slippery surface. The device used was an
+Optojump-next (Bolzano, Italy) connected to one laptop via USB, and the Microgate
+software (Optojump software, version 3.01.0001) was also utilized. Participants were
+not allowed to use the arm swing. Instead, they were required to keep their hands on
+their hips while performing the test. The test started with a quick countermovement
+action. When the knees were bent 90◦ , athletes initiated the take-off and flight. During
+the flight, they had to maintain their hips, knees, and ankles extended. Participants
+were also required to jump vertically. Movements forward, backward, or sideways
+were not allowed [27]. Each subject had two attempts, with three minutes rest between
+each jump.
+One-repetition maximum (1RM) squat: This test was used to measure lower body
+maximum strength due to its validity, reliability, and applicability [28,29]. To conduct
+the test properly, participants kept their trunks naturally upright. The bar was grasped
+firmly with both hands, and it was also supported on the shoulders. The test started
+with knees bent at 90◦ until the performer’s thighs were parallel with the ground.
+Then, subjects regained the upright position, with the legs fully extended. The number
+of attempts required to determine the 1RM of each subject was between two and four.
+Only the attempts correctly performed were registered. The resting time between
+attempts was three minutes.
+Incremental load test: This laboratory test was used to assess the Anaerobic Threshold
+(AnT), maximal oxygen consumption (VO2 max), and running economy (RE). The
+following protocols were implemented:
+–
+
+Protocol I: The objective was to determine the RE by using one treadmill (Cybex 625T, Rosemont, IL, USA), one metabolic gas analyzer (Cosmed Srl, Albano
+
+Int. J. Environ. Res. Public Health 2022, 19, 10773
+
+–
+
+7 of 17
+
+Laziale, Rome, Italy), and one heart rate monitor (Polar H9 BLE Kempele, Finland).
+The protocol comprised an 8 min submaximal test consisting of two, four-minute
+stages. That is to say, each stage was four minutes in length to allow for oxygen consumption and steady-state heart rate. The first stage was performed at
+12 km/h, and the second at 14 km/h. These two speeds are within the intensity
+range established by Barnes and Kilding (2015) to measure RE in recreational
+athletes [30]. Then, to determine the RE values, the VO2 mean value of the last
+minute of each stage was recorded [31].
+Protocol II: This test was used to estimate the VO2 max and AnT. The treadmill’s
+initial velocity was set at 2 km/h slower than the subjects’ estimated 4 mmol
+when the test started. Then, the speed was increased by 0.5 km/h every 30 s until
+exhaustion [32].
+
+3.5. Statistical Analysis
+Data is presented using the format mean SD (standard deviation). The Shapiro–Wilk
+test was used to contrast the normality of the variables and Levene’s test to verify the
+homogeneity of variances. Sphericity assumptions were assessed using Mauchly’s test.
+When those sphericity assumptions were violated, the Greenhouse Gessier correction was
+applied. To determine the concordance between the pre-test and post-test measurements,
+the interclass correlation coefficient (ICC) was calculated for all the assessed anthropometric
+and performance parameters. ICC values were interpreted as follows: ICC ≤ 0.49, poor;
+0.50 ≤ ICC < 0.75, moderate; 0.75 ≤ ICC < 0.9, good; ICC ≥ 0.9, excellent [33]. To verify
+whether there were differences between groups in the baseline, a one-way ANOVA (analysis
+of variance) test was conducted. To assess the training effects between groups (ETG vs.
+RSSTG vs. CTG) and within groups (pre-test vs. post-test) on the anthropometric and
+performance variables, a two-way repeated-measure ANOVA was performed. When
+statistically significant p values were found (group by time interaction effect or significant
+main effects of time or group), a post hoc pairwise comparison was conducted with
+Bonferroni correction to identify those differences. The effect size was calculated using
+Cohen’s d. Values of d < 0.2, d = 0.2, d = 0.5, and d = 0.8 were considered as trivial, small,
+medium, and large effect sizes, respectively [34]. The level of significance established was
+p < 0.05. The statistical analysis of the data was performed using the program IBM SPSS
+V.26® computing (IBM Corp., Armonk, NY, USA).
+4. Results
+Once the normality and homoscedasticity of the data were verified, the one-way
+ANOVA confirmed the absence of significant differences between the three experimental
+groups at the baseline for all the anthropometric and performance variables. Likewise, the
+ICC values obtained between the pre-test and the post-test in all assessed parameters were
+higher than 0.9 for the three groups, which indicates an excellent reliability. Then, the twoway repeated-measure ANOVA showed that there was no interaction effect, main effect of
+time, or group for BM and BMI (see Table 3). Furthermore, the two-way repeated-measure
+ANOVA revealed the existence of a group-by-time interaction effect for CMJ, 1RM squat,
+RE12, RE14, VO2 max, and AnT. A main effect of time was observed for the BFP, LM, CMJ,
+1RM squat, RE12, RE14, VO2 max, and AnT. Finally, a main effect of group was found for
+CMJ and RE14 (see Table 3).
+Subsequently, the Bonferroni post hoc comparison showed that ST obtained improvements significantly higher than ET enhancements in the following variables: CMJ
+(p = 0.003; CI95 = 1.81–7.51), 1RM squat (p = 0.035; CI95 = 1.33–9.86), and RE14 (p = 0.046;
+CI95 = 46.69–5036.38). ET results were significantly better than those obtained by ST in AnT
+(p = 0.04; CI95 = 0.04–1.95). Finally, the improvements obtained by CT were significantly
+higher than those attained by ET in CMJ (p = 0.002; CI95 = 1.21–4.26), and RE14 (p = 0.046;
+IC95 = 47.47–5035.51).
+
+Int. J. Environ. Res. Public Health 2022, 19, 10773
+
+8 of 17
+
+Table 3. Between-subjects comparisons of all the variables assessed: main effect of time, main effect
+of group, and interaction effect.
+Variable
+
+BM
+BMI
+BFP
+LM
+CMJ
+1RMsquat
+RE12
+RE14
+VO2 max
+AnT
+
+Main Effect of Time
+
+Main Effect of Group
+
+Group per Time
+Interaction Effect
+
+F (1–9)
+
+p
+
+F (2–18)
+
+p
+
+F (2–18)
+
+p
+
+0.31
+0.30
+13.24
+4.35
+42.93
+216.38
+194.51
+85.14
+52.59
+109.84
+
+0.591
+0.596
+0.005 *
+0.006 *
+<0.001*
+<0.001 *
+<0.001 *
+<0.001 *
+<0.001 *
+<0.001 *
+
+0.24
+0.86
+0.42
+0.25
+7.48
+1.92
+0.127
+20.86
+0.12
+1.39
+
+0.785
+0.440
+0.662
+0.780
+0.004 *
+0.175
+0.882
+<0.001 *
+0.891
+0.275
+
+0.55
+0.47
+3.92
+0.92
+18.62
+27.62
+23.08
+23.95
+8,72
+37.31
+
+0.584
+0.632
+0.055
+0.413
+<0.001 *
+<0.001 *
+<0.001 *
+<0.001 *
+0.002 *
+<0.001 *
+
+Legend: BM: Body mass; BMI: Body mass index; BFP: Body fat percentage; LM: Lean mass; CMJ: Countermovement jump; 1RM squat: One-repetition maximum squat; AnT: Anaerobic threshold; VO2 max: Maximum
+oxygen consumption; RE: Running economy; p: Level of statistical significance; F: Variation between sample
+means/variation within the samples; *: Significant improvement between the pre-test and post-test.
+
+As for the within-subject comparisons (see Table 4), RSSTG significantly improved
+between the pre- and post-tests in CMJ (p < 0.001; IC95 = 3.42–4.13), 1RM squat (p < 0.001;
+IC = 5.66–8.73), RE12 (p < 0.001; 5.66–8.73) and RE14 (p = 0.007; F: 0.23–1.11). The effect
+size of these improvements was small in the case of RE12 and RE14, and large for CMJ and
+1RM squat. ETG significantly improved between the pre- and post-tests in the following
+parameters: RE12 (p < 0.001; IC95 = 1.93–2.59), RE14 (p = 0.015; F = 620.65–4464.61), VO2 max
+(p < 0.001; CI95 = 0.51–0.77), and AnT (p < 0.001; CI95 = 262–738). The effect size of these
+improvements was small in the case of RE14, medium for VO2 max, and large for RE12
+and AnT. Additionally, CTG significantly improved its results between the pre- and the
+post-tests in the following variables: BFP (p < 0.001; CI95 = 0.354–0.590), LM (p = 0.035;
+CI95 = 0.5–1.12), CMJ (p < 0.001; CI95 = 1.72–2.47), 1RM squat (p < 0.001; CI95 = 3.10–4.10),
+RE12 (p = 0.035; CI95 = 1.62–2.56), RE14 (p < 0.001; CI95 = 0.80–1.84), VO2 max (p < 0.001;
+CI95 = 1.57–3.02), and AnT (p < 0.001; 0.84–1.15). The effect size of these improvements was
+small in the case of RE14, medium for BFP and RE12, and large for the CMJ, 1RM squat,
+and AnT variables.
+Table 4. Results obtained by the three experimental groups in the pre- and post-test in all the
+variables assessed.
+Variable
+
+Group
+
+Pre-Test
+
+Post-Test
+
+X
+
+SD
+
+X
+
+SD
+
+Cohen’s d
+
+p
+
+BM
+
+RSSTG
+ETG
+CTG
+
+67.11
+65.80
+66.96
+
+5.37
+4.38
+4.48
+
+67.49
+65.62
+67.10
+
+5.32
+4.30
+4.31
+
+0.076
+0.037
+0.066
+
+0.159
+0.330
+0.172
+
+BMI
+
+RSSTG
+ETG
+CTG
+
+21.27
+20.68
+21.47
+
+1.87
+1.31
+1.03
+
+21.38
+20.63
+21.52
+
+1.76
+1.34
+1.08
+
+0.066
+0.051
+0.098
+
+0.190
+0.645
+0.171
+
+BFP
+
+RSSTG
+ETG
+CTG
+
+15.28
+15.09
+15.18
+
+1.03
+0.95
+1.07
+
+15.04
+14.86
+14.32
+
+1.16
+0.87
+1.15
+
+0.199
+0.233
+0.721
+
+0.152
+0.051
+<0.001 *
+
+LM
+
+RSSTG
+ETG
+CTG
+
+56.77
+55.84
+56.73
+
+4.58
+3.59
+4.29
+
+57.31
+55.81
+57.50
+
+4.71
+3.73
+4.21
+
+0.115
+0.006
+0.141
+
+0.110
+0.108
+0.018 *
+
+Int. J. Environ. Res. Public Health 2022, 19, 10773
+
+9 of 17
+
+Table 4. Cont.
+Variable
+
+Group
+
+Pre-Test
+
+Post-Test
+
+X
+
+SD
+
+X
+
+SD
+
+Cohen’s d
+
+p
+
+CMJ
+
+RSSTG
+ETG
+CTG
+
+33.29
+32.86
+33.06
+
+1.71
+1.73
+1.41
+
+37.07
+32.42
+35.16
+
+1.81
+2.33
+1.29
+
+2.141
+0.210
+1.551
+
+<0.001 *
+0.446
+<0.001 *
+
+1RM squat
+
+RSSTG
+ETG
+CTG
+
+83.10
+83.61
+82.70
+
+4.51
+2.27
+2.75
+
+90.30
+84.71
+86.30
+
+4.57
+3.37
+2.66
+
+1.571
+0.348
+1.321
+
+<0.001 *
+0.168
+<0.001 *
+
+RE12
+
+RSSTG
+ETG
+CTG
+
+41.63
+40.49
+41.61
+
+3.07
+2.65
+3.08
+
+42.41
+42.76
+42.55
+
+3.01
+2.75
+2.71
+
+0.272
+0.838
+0.783
+
+<0.001 *
+<0.001 *
+<0.001 *
+
+RE14
+
+RSSTG
+ETG
+CTG
+
+49.44
+48.92
+48.58
+
+3.41
+3.13
+3.12
+
+50.28
+50.08
+50.18
+
+3.17
+3.33
+3.01
+
+0.253
+0.346
+0.431
+
+<0.001 *
+<0.001 *
+<0.001 *
+
+VO2 max
+
+RSSTG
+ETG
+CTG
+
+60.29
+59.02
+58.67
+
+4.18
+3.01
+3.25
+
+60.91
+60.91
+60.98
+
+4.51
+4.27
+3.36
+
+0.138
+0.581
+0.207
+
+0.097
+<0.001 *
+<0.001 *
+
+AnT
+
+RSSTG
+ETG
+CTG
+
+14.95
+14.90
+14.65
+
+0.68
+0.51
+0.58
+
+15.05
+16.05
+15.70
+
+0.83
+0.83
+0.42
+
+0.131
+0.845
+2.749
+
+0.172
+<0.001 *
+<0.001 *
+
+Legend: BM: body mass; BMI: body mass index; BFP: body fat percentage; LM: lean mass; CMJ: countermovement
+jump; 1RM squat: one-repetition maximum squat; AnT: anaerobic threshold; VO2 max: maximum oxygen
+consumption; RE: running economy; p: level of statistical significance; *: significant improvement between the
+pre-test and post-test.
+
+5. Discussion
+5.1. Anthropometric Parameters
+None of the three experimental groups presented modifications to their BM in the
+present study. Furthermore, the effect sizes of the modifications produced in this parameter
+between the baseline and the post-test were trivial in all three cases. These results are
+consistent with previous recent studies [12,32,35]. Thus, on the one hand, it can be expected
+that the exclusive practice of endurance training may promote muscular catabolism and
+increase mitochondrial density and activity. Therefore, these adaptations could reduce body
+mass and body fat percentage [36]. On the other hand, strength training can potentially
+increase lean tissue by increasing the release of anabolic hormones such as testosterone and
+growth hormone [37,38]. However, in the present study, we understand that the absence of
+significant modifications in BM may be due to the following reasons: Firstly, the duration
+of the intervention period (12 weeks) could not be long enough to generate significant
+variations in this parameter. Secondly, in RSSTG and CTG, the potential or expected
+decrease in BM of the participants derived from the slight reduction in fat mass has been
+hindered by the slight increase in LM. Thus, the net result would be a non-significant
+alteration of athletes’ BM. Likewise, since the study participants were recreational athletes
+who perform endurance training sessions regularly, to be able to attain significant decreases
+in their body weight, it is plausible that they require not only more extended intervention
+periods, but also significant increases in their weekly training frequency, volume, density,
+and intensity.
+Regarding ETG, the absence of a significant weight reduction might be related to the
+participants’ regular practice of endurance training. Therefore, this group may need more
+intense or prolonged workouts to significantly decreases BM. Importantly, there was no
+increase in lean tissue in ETG but a slight reduction. This means that the slight decrease in
+lean tissue of the participants included in this group, together with their slight reduction in
+BFP, was of such small magnitude that it did not cause a significant reduction in BM. This
+is in line with the trivial effect sizes observed in ETG in its reduction of BFP and LM.
+
+Int. J. Environ. Res. Public Health 2022, 19, 10773
+
+10 of 17
+
+As for the BMI, there were no significant variations in any of the three experimental
+groups. In the case of RSSTG and CTG, a certain increase in their BMI might be expected
+due to the strength training practice and its potential anabolic effect. However, the effect
+size of the BMI increase in both groups was trivial. These results are somewhat surprising,
+since none of the study participants had previous experience in strength training. Moreover,
+it must be taken into account that, although the objective of the strength training protocol
+used in the present research was not designed to produce muscle hypertrophy (see Table 1),
+strength training is likely to generate certain amount of hypertrophy, particularly in subjects
+without previous strength training experience [39]. These results are more surprising in the
+case of RSSTG, since they did not perform endurance training. Thus, the trivial increase
+in RSSTG suggests that for strength training to generate significant increases in BMI, it is
+necessary to use training methods specifically aimed at achieving this goal and, probably, a
+longer intervention period. In ETG, as expected, the BMI did not increase but decreased.
+However, the reduction was trivial. We understand this slight decrease is in line with
+the training principle of specificity since endurance training is more likely to generate
+reductions in BM and BMI rather than increases [36].
+As far as the BFP is concerned, significant reductions were only observed in CTG.
+These results coincide with the study carried out by Eklund et al. (2016) [40]. In contrast, the BFP remained unaffected in some studies after applying a concurrent training
+protocol [12,32]. Furthermore, Blagrove et al. (2018c) conducted a systematic review to analyze the effects of adding strength training to the endurance training programs of mediumand long-distance athletes. They observed that BFP is commonly unaffected [41]. In the
+present study, we understand that only CTG significantly improved its BFP due to the
+strength and endurance training combination. This could be because strength training can
+increase basal metabolism [39,42], and endurance training may produce a significant caloric
+expenditure [39,42,43]. Regarding ETG, despite the fact that endurance training effectively
+reduced BFP in some previous studies [38,44], we understand that subjects included in this
+group did not improve their BFP due to the absence of strength training, which implied
+that they could not benefit from its potential capacity to increase basal metabolism. On
+the contrary, we interpret that RSSTG could not significantly decrease their BFP since
+they did not practice endurance training and could not benefit from the significant caloric
+expenditure that endurance training produces.
+Concerning the LM, only CTG significantly increased this parameter after undertaking
+the 12-week-training protocol. This increase could be related to the following reasons. First,
+a greater training variability was applied to this group. Second, only CTG significantly
+decreased BFP. Therefore, even though CTG and RSSTG reduced their LM in absolute terms
+at similar levels and with similar effect sizes, the increase in CTG in relative terms was
+higher due to its greater reduction in BFP. Third, according to Coffey and Hawley (2017) and
+Fyfe and Loenneke (2018), the practice of divergent exercise (i.e., strength and endurance) by
+untrained or recreationally active individuals induced similar increased anabolic signaling
+in skeletal muscle during the first weeks of training [1,22]. Not surprisingly, ETG did not
+increase the LM. Unlike CTG and RSSTG, this group decreased its LM, but not significantly.
+We consider that this could be related to the potential catabolic effect of aerobic exercise [36].
+The LM results of the present study are consistent with those attained by Eklund et al. (2016)
+and Vikmoen et al. (2020) [40,45]. However, our results only partially coincide with those
+obtained by Vikmoen et al. (2017) since they observed that both concurrent strength–
+endurance training and running-specific strength training are useful for increasing LM [46].
+Furthermore, Beattie et al. (2017) did not observe any changes in LM in competitive distance
+runners, probably because it is more difficult for well-trained subjects to attain adaptations
+due to their lower reserve of adaptation [32].
+5.2. Performance Variables
+As expected, ETG did not improve the results in CMJ. This confirms that endurance
+training does not significantly modify the marks obtained by recreational endurance ath-
+
+Int. J. Environ. Res. Public Health 2022, 19, 10773
+
+11 of 17
+
+letes in CMJ. In contrast, RSSTG and CTG significantly improved their performance in CMJ.
+In the first case, it was expected since RSSTG only performed running-specific strength
+training sessions, and the subjects included in the present study had no previous strength
+training experience. As for CTG, it has been verified that their improvements in CMJ
+produced by the strength training performed were not attenuated despite the concomitant
+strength and endurance training. Additionally, RSSTG and CTG obtained significantly
+better results than ETG in CMJ. This proves that the interference effect does not occur with
+the weekly training frequency used in the training protocol. The results of the present study
+are consistent with the findings obtained by Fyfe, Bishop and Stepto (2014) [47]. These
+authors state that there is no evidence supporting the interference effect theory. In this
+regard, Coffey and Hawley (2017) add that despite chronic studies indicating that there is
+robust evidence supporting that endurance training attenuates strength adaptations when
+concurrent training protocols are applied, the underlying mechanisms of the mentioned interference are unknown. Nevertheless, some studies have verified that endurance training
+attenuates improvements in power, specifically in CMJ when concurrent training protocols
+are implemented [45,48].
+As for 1RM squat, as expected, RSSTG and CTG improved their marks between preand post-test, probably because the study participants had no previous strength training
+experience. Only the marks obtained by RSSTG were significantly higher than those
+attained by ETG in the post-test. This could indicate that a higher frequency of strength
+training provides additional benefits, since the number of strength sessions performed by
+RSSTG was higher than the sessions performed by CTG. However, we understand that
+the interference effect did not occur in CTG, because no significant differences between
+RSSTG and CTG were observed in the post-test in 1RM squat. The present research results
+are consistent with those obtained by Vikmoen et al. (2016), Vikmoen et al. (2017), and
+Sousa et al. (2017) [14,46,49]. In all three cases, the utility of concurrent training to improve
+the 1RM squat was verified.
+As far as RE is concerned, the three groups significantly improved this parameter at 12
+and 14 km/h. The improvements obtained in RE14 by CTG and RSSTG were significantly
+higher than those achieved by ETG. In RSSTG, the improvements in RE could be related
+to the attainment of certain adaptations [9,10,32,50]: (a) improved musculotendinous
+stiffness of the lower extremities; (b) improved motor unit recruitment and synchronization
+patterns; (c) improved intermuscular coordination and neural inhibition; (d) delayed
+activation of less-efficient type II muscle fibers; (e) conversion of type IIx fibers into fatigueresistant IIa fibers; (f) facilitation of the optimal application of strength throughout the
+entire training or competition; (g) reduction of the relative intensity that each particular
+cycle of effort or sports technique represents for one athlete when overcoming the same
+resistance; (g) improved ability to perform the same effort with lower oxygen consumption;
+(h) improved ability to apply the same strength with less muscle mass; (i) improved reuse
+of elastic energy in each stride. Therefore, attaining all of these physiological adaptations
+could be the reason why RSSTG obtained significant improvements over ETG in RE14.
+Regarding the results obtained by ETG in RE12 and RE14, we interpreted that the
+improvements were the result of attaining certain adaptations [51]: (a) improved oxidative
+capacity, which in turn is associated with better mitochondrial functioning, and leads to
+a reduction in the use of the oxygen required to perform submaximal intensity efforts;
+(b) improved buffering capacity of the skeletal muscles and hematological system. As for
+CTG, we considered they simultaneously benefited from the adaptations that both strength
+and endurance training provide to improve RE. This circumstance would explain why
+CTG obtained significantly better results than ETG in RE14. Likewise, it is also understandable that the results obtained by ETG were significantly lower than those attained
+by RSSTG and CTG in RE14 but not in RE12, since runners show greater RE values at
+race pace [12]. In this regard, considering the characteristics of the athletes included in the
+present research and their results in AnT (see Table 3), it is understood that their competition race velocity is close to 14 km/h. The results of the present research are consistent
+
+Int. J. Environ. Res. Public Health 2022, 19, 10773
+
+12 of 17
+
+with the studies of Beattie et al. (2017), Blagrove et al. (2018b), Giovanelli et al. (2017), and
+Li et al. (2019) [12,31,32,52]. In all four cases, the practice of concurrent training was effective in improving RE. Additionally, recent systematic reviews and meta-analyses confirmed
+the efficacy of strength training in improving RE [6,15,41]. In contrast, some studies verified
+that the implementation of concurrent training programs was not effective in enhancing
+RE [14,53].
+Regarding the VO2 max, although the trainability of this variable could be conditioned
+by genetic factors [54], ETG and CTG obtained significant improvements. Therefore, it
+can be assumed that these improvements are training-specific adaptations. Likewise,
+the fact that the improvements attained by ETG were not significantly higher than those
+achieved by CTG suggests that no interference effect has occurred. The present study
+results coincide with the research conducted by Patoz et al. (2021) [53]. However, in a
+systematic review, Blagrove et al. (2018c) verified that VO2 max is typically unaffected
+after the application of concurrent training programs [41]. Therefore, the discrepancies
+between studies could occur because the possibility of improving VO2 max is genetically
+conditioned [54]. Moreover, as expected, RSSTG did not improve the VO2 max, probably
+because this group did not perform endurance training sessions. In fact, few studies found
+significant improvements in VO2 max after the exclusive practice of strength training. In
+this regard, Ozaki et al. (2013) conducted a review study to verify the effects of strength
+training on increasing VO2 max, and in only three out of the 17 studies analyzed were
+significant improvements in VO2 max registered. They also ascertained that the higher the
+training level, the more difficult it is to improve the VO2 max [55].
+Finally, regarding AnT, both ETG and CTG improved this variable. We understand
+that this improvement resulted from the training methods specifically designed to enhance
+the AnT (see Table 2). Likewise, the results attained by ETG were significantly better than
+those achieved by RSSTG. However, the absence of significant differences between ETG
+and CTG reveals that no interference effect has occurred in CTG. Furthermore, as expected,
+RSSTG did not significantly improve the AnT. In this case, we consider that the absence of
+endurance training explains the non-achievement of significant improvements. Moreover,
+few studies have examined the effects on AnT. Ferrauti et al. (2010) verified the absence of
+significant differences in AnT between a concurrent and endurance training program in
+isolation [35]. Likewise, Cragnulini (2016), after conducting one review article, concluded
+that adding strength training to endurance athletes’ training programs does not have a
+negative impact on AnT [17].
+5.3. Overall Interpretation of the Results
+The improvements attained by the three experimental groups are specific exercise
+mode adaptations. Thus, RSSTG improved all strength parameters, ETG all the endurance
+parameters, and CTG strength and endurance parameters, and only the concurrent training
+program effectively improved body composition in 12 weeks. Additionally, the interference
+effect did not occur for the strength, endurance, or anthropometric variables. This suggests
+that the weekly frequency used in the training protocol of the present study prevents the
+attenuation of adaptations in concurrent training protocols with respect to single-mode
+strength or endurance exercise. In this regard, Pattison et al. (2020) point out that CMJ
+is useful for analyzing the interference effect on neuromuscular improvements when
+performing concurrent training programs [48], and the results obtained in the present
+research by RSSTG in CMJ were not significantly better than those attained by CTG.
+Furthermore, based on the improvements attained by RSSTG and CTG in 1RM squat
+and CMJ, and also considering the large effect sizes obtained by both groups, it can be
+inferred that athletes without previous strength training experience can obtain significant
+improvements in key performance parameters due to their greater reserve of adaptation.
+In this sense, Fyfe and Loenneke (2018) consider that untrained individuals have a greater
+capacity to adapt to training stimuli than trained individuals, although their individual
+genetic potential could also limit the possibility of obtaining improvements [22]. For this
+
+Int. J. Environ. Res. Public Health 2022, 19, 10773
+
+13 of 17
+
+reason, Beattie et al. (2014) indicate that, for endurance athletes with lower levels of strength,
+a general strength training program may be sufficient to improve their maximum strength,
+explosive strength, and reactive strength [6]. However, athletes with higher strength
+levels should perform explosive and reactive strength training programs to improve their
+performance [6,56].
+It is also noteworthy that, based on the improvements achieved by the three experimental groups after the 12-week training program, the ATR periodization system seems to
+be adequate to improve the performance of recreational endurance runners, mainly when
+concurrent training programs are applied. However, it is also possible that intervention
+periods longer than 12 weeks can be required to attain significant improvements in body
+composition, mainly when a single-mode exercise is used. Regrettably, few studies used
+concurrent training protocols integrated into periodization systems such as the ATR block
+periodization system. In this regard, García-Manso et al. (2017) conducted one research
+with recreational college-age subjects, using one block periodization for nine weeks. They
+verified that concurrent and exclusive endurance training effectively improves sports
+performance. However, no significant differences were found between both training protocols [21].
+Importantly, we must mention future lines of research. Despite several studies examining concurrent training programs’ effects on endurance athletes, many aspects remain
+unclear. This circumstance is further aggravated by the important methodological differences that exist between studies and their limitations. Thus, future studies might consider
+the following aspects:
+(a)
+
+(b)
+(c)
+
+(d)
+
+(e)
+
+(f)
+(g)
+(h)
+(i)
+
+The use of concurrent training programs might be oriented to ensure that neuromuscular adaptations positively impact athlete’s biomechanical and performance
+parameters [57].
+It could be interesting to investigate the effect of different running volumes combined
+with explosive strength training [58].
+Since an eight-week concurrent training program could not be long enough to improve
+certain performance variables [35], long-term intervention periods might be applied.
+Li et al. (2019) propose the use of training protocols longer than 16 weeks [31], and
+Beattie et al. (2014) longer than six months [6].
+Although Berryman et al. (2018) found that the beneficial effects of strength training
+on endurance performance occur regardless of athletes’ level [15], some authors
+propose conducting studies with different populations. Low et al. (2019) recommend
+conducting research with women and people with different training status [59], and
+Li et al. (2019) with groups of senior citizens and women [31].
+Future training protocols might be integrated into periodization systems such as the
+ATR model. In this vein, Berryman et al. (2018) point out that the use of periodization
+strategies could help clarify the optimal moment to implement strength training
+activities within the annual training plan [15].
+Future studies might include training protocols combining different endurance training methods (i.e., fartlek, continuous training, interval training) [23].
+Appropriate training methods and tests to develop and assess strength levels must be
+used [6].
+The number of strength training sessions per week might be between two and
+three [41].
+The training protocols used might be designed in accordance with the sports
+training principles.
+
+Finally, it is necessary to mention the study’s strengths and limitations. As for the
+strengths, there are two noteworthy aspects. First, as well as including one concurrent
+and one single-mode endurance training group, one running-specific strength training
+group was incorporated. This circumstance (which is not usual in studies conducted
+with endurance athletes) was useful to verify the adaptations that endurance runners
+can attain with running-specific strength training and determine the possible existence of
+
+Int. J. Environ. Res. Public Health 2022, 19, 10773
+
+14 of 17
+
+interference effects in CTG. Second, the number of weekly training sessions applied to the
+three experimental groups was equated. In this regard, it should be noted that in several
+previous studies, the concurrent group performed two or three additional weekly strength
+sessions with respect to the endurance training group, which implies using a distinctive
+number of sessions.
+As for the limitations, first, the sample size was small. A larger sample would have
+ensured greater representativity. Second, no time-trial test was conducted in the present
+research since the study participants were not specialized in any specific distance. Finally,
+we consider that if the intervention period had been longer, it would have been possible
+that the three experimental groups had obtained additional improvements, particularly
+in body composition. Furthermore, significant differences between groups could have
+occurred in more anthropometric and performance variables at the post-test.
+6. Conclusions
+A concurrent training program of 12 weeks integrated into the ATR periodization
+system is effective in enhancing body composition and selected sports performance parameters associated with the exclusive practice of strength training (maximum and explosive
+strength) and endurance training (VO2 max and AnT), in addition to RE in recreational
+runners aged 30–40. The exclusive practice of running-specific strength training during
+the same period also using the ATR design improves maximum and explosive strength
+and RE, while the exclusive practice of endurance training using the ATR model improves
+endurance parameters (VO2 max and AnT) and RE. Thus, concurrent training is the most
+time-efficient method to attain anthropometric and performance adaptations. Additionally, a concurrent training program performed on non-consecutive days did not attenuate
+the endurance and strength adaptations that can be attained with single-mode exercise.
+However, it cannot be ruled out that a higher weekly training frequency may generate
+interference effects.
+The ATR periodization system improves the performance parameters of recreational
+endurance athletes, especially when performing concurrent training. Likewise, in recreational athletes without previous strength training experience, due to their greater reserve
+of adaptation, concomitant running-specific strength and endurance training—in addition
+to enhancing their body composition and relevant performance variables—produce large
+improvements in maximum and explosive strength and further enhance RE.
+7. Practical Applications
+
+•
+•
+
+•
+
+•
+
+•
+
+Performing exclusive strength or endurance training allows athletes only to attain
+specific exercise mode adaptations.
+Undertaking concurrent training programs allows athletes to obtain strength and
+endurance adaptations. However, to this end, separating the training sessions by at
+least nine hours is necessary to avoid significant interferences, or 24 h to guarantee to
+a greater extent that the adaptations will not be attenuated [60].
+Concurrent training programs should be integrated into a periodization model to attain
+greater effectiveness. In this sense, the ATR block periodization system effectively improves anthropometric and performance variables in recreational endurance athletes.
+Long-term interventions of more than 12 weeks might be used. Intervention periods of
+12 weeks are insufficient to attain improvements in anthropometric parameters when
+single-mode exercise training is used.
+Regarding the training load and the type of strength that must be developed, it is necessary to adapt the strength training program to the athlete’s objectives, training level,
+and previous training experience. Thus, a general strength training program might
+improve sports performance in subjects without previous strength training experience.
+However, in subjects who did not previously develop their maximum strength, it can
+be leapfrogging using inappropriate workloads or developing types of strength with
+lower residual effect (i.e., explosive strength, muscular endurance, reactive strength).
+
+Int. J. Environ. Res. Public Health 2022, 19, 10773
+
+15 of 17
+
+It may also reduce their adaptation reserve unnecessarily and limit future improvements. By contrast, endurance athletes with previous strength training experience
+should develop explosive and reactive strength to enhance their performance.
+Author Contributions: Conceptualization, P.P.-G.; methodology, P.P.-G.; validation, P.P.-G. and J.S.;
+formal analysis, P.P.-G.; investigation, P.P.-G.; resources, P.P.-G.; data curation, P.P.-G.; writing—
+original draft preparation, P.P.-G.; writing—review and editing, P.P.-G. and J.S.; supervision, J.S. All
+authors have read and agreed to the published version of the manuscript.
+Funding: The authors would like to thank Prince Sultan University, Riyadh, Saudi Arabia, for
+supporting the article processing charges.
+Institutional Review Board Statement: The research was conducted according to the ethical principles of the Declaration of Helsinki. It was approved by the Ethics Commission of Prešov University
+(Slovakia) (ethical clearance number: 2/2021).
+Informed Consent Statement: Informed consent was obtained from all subjects involved in the study.
+Data Availability Statement: The data presented in this study are available on request from the
+corresponding author.
+Acknowledgments: The authors would like to thank Prince Sultan University, Riyadh, Saudi Arabia,
+for their support in research.
+Conflicts of Interest: The authors declare no conflict of interest.
+
+References
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+
+Coffey, V.G.; Hawley, J.A. Concurrent exercise training: Do opposites distract? J. Physiol. 2017, 595, 2883–2896. [CrossRef]
+[PubMed]
+Leveritt, M.; Abernethy, P.J.; Barry, B.K.; Logan, P.A. Concurrent strength and endurance training. A review. Sports Med. 1999, 28,
+413–427. [CrossRef] [PubMed]
+Bassett, D.R., Jr.; Howley, E.T. Limiting factors for maximum oxygen uptake and determinants of endurance performance. Med.
+Sci. Sports Exerc. 2000, 32, 70–84. [CrossRef] [PubMed]
+Kravitz, L.; Dalleck, L.C. Physiological factors limiting endurance exercise capacity. IDEA Health Fit. Source 2002, 20, 40–49.
+Saunders, P.U.; Pyne, D.B.; Telford, R.D.; Hawley, J.A. Factors affecting running economy in trained distance runners. Sports Med.
+2004, 34, 465–485. [CrossRef]
+Beattie, K.; Kenny, I.C.; Lyons, M.; Carson, B.P. The effect of strength training on performance in endurance athletes. Sports Med.
+2014, 44, 845–865. [CrossRef]
+Paavolainen, L.M.; Nummela, A.T.; Rusko, H. Muscle power factors and VO2 max as determinants of horizontal and uphill
+running performance. Scand. J. Med. Sci. Sports 2000, 10, 286–291. [CrossRef]
+Gäbler, M.; Prieske, O.; Hortobágyi, T.; Granacher, U. The Effects of Concurrent Strength and Endurance Training on Physical
+Fitness and Athletic Performance in Youth: A Systematic Review and Meta-Analysis. Front. Physiol. 2018, 9, 1057. [CrossRef]
+Rønnestad, B.R.; Mujika, I. Optimizing strength training for running and cycling endurance performance: A review. Scand. J. Med.
+Sci. Sports 2014, 24, 603–612. [CrossRef]
+Blagrove, R.C.; Howe, L.P.; Howatson, G.; Hayes, P.R. Strength and Conditioning for Adolescent Endurance Runners. Strength
+Cond. J. 2018, 1, 2–11. [CrossRef]
+Flores-Zamora, A.C.; Rodríguez, M.; Rodríguez-Blanco, Y. Physiologicals adaptations to concurrent strength and endurance
+training. Review. Olimpia 2017, 14, 119–129.
+Blagrove, R.C.; Howe, L.P.; Emily, J.C.; Spence, A.; Howatson, G.; Pedlar, C.R.; Hayes, P.R. Effects of Strength Training on
+Postpubertal Adolescent Distance Runners. Med. Sci. Sports Exerc. 2018, 50, 1224–1232. [CrossRef] [PubMed]
+Verkhoshansky, Y.; Verkhoshansky, N. Special Strength Training. Manual for Coaches; Verkhoshansky SSTM: Rome, Italy, 2011.
+Vikmoen, O.; Raastad, T.; Seynnes, O.; Bergstrøm, K.; Ellefsen, S.; Rønnestad, B.R. Effects of Heavy Strength Training on Running
+Performance and Determinants of Running Performance in Female Endurance Athletes. PLoS ONE 2016, 11, e0150799. [CrossRef]
+Berryman, N.; Mujika, I.; Arvisais, D.; Roubeix, M.; Laurent, C.B. Strength Training for Middle- and Long-Distance Performance:
+A Meta-Analysis. Int. J. Sports Physiol. Perform. 2018, 13, 57–63. [CrossRef] [PubMed]
+Cantrell, G.S.; Schilling, B.K.; Paquette, M.R.; Murlasits, Z. Maximal strength, power, and aerobic endurance adaptations to
+concurrent strength and sprint interval training. Eur. J. Appl. Physiol. 2014, 114, 763–771. [CrossRef] [PubMed]
+Cragnulini, F.E. Entrenamiento de la fuerza en deportes de resistencia: ¿más certezas que dudas o más dudas que certezas?
+Perspectivas en Educación Física [Strength training in endurance sports: More certainties than doubts or more doubts than
+certainties? Perspectives on Physical Education]. Doc. Res. Notes 2016, 3. Available online: http://www.memoria.fahce.unlp.edu.
+ar/art_revistas/pr.7306/pr.7306.pdf (accessed on 17 November 2021).
+
+Int. J. Environ. Res. Public Health 2022, 19, 10773
+
+18.
+19.
+
+20.
+
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+
+28.
+29.
+
+30.
+31.
+
+32.
+33.
+34.
+35.
+
+36.
+37.
+38.
+
+39.
+40.
+
+41.
+42.
+43.
+44.
+
+16 of 17
+
+Aagaard, P.; Andersen, J.L. Effects of strength training on endurance capacity in top-level endurance athletes. Scand. J. Med. Sci.
+Sports 2010, 20 (Suppl. 20), 39–47. [CrossRef]
+Izquierdo, M.; Häkkinen, K.; Ibáñez, J.; Kraemer, W.J.; Gorostiaga, E.M. Effects of combined resistance and cardiovascular training
+on strength, power, muscle cross-sectional area, and endurance markers in middle-aged men. Eur. J. Appl. Physiol. 2005, 94, 70–75.
+[CrossRef]
+Conceição, M.; Cadore, E.L.; González-Izal, M.; Izquierdo, M.; Liedtke, G.V.; Wilhelm, E.N.; Pinto, R.S.; Goltz, F.R.; Schneider, C.D.;
+Ferrari, R.; et al. Strength Training Prior to Endurance Exercise: Impact on the Neuromuscular System, Endurance Performance
+and Cardiorespiratory Responses. J. Hum. Kinet. 2014, 44, 171–181. [CrossRef]
+García-Manso, J.M.; Arriaza-Ardiles, E.; Valverde, T.; Moya-Vergara, F.; Mardones-Tare, C. Effects of concurrent strength and
+endurance training on middle distance races. Cult. Sci. Sport 2017, 12, 221–227. [CrossRef]
+Fyfe, J.J.; Loenneke, J.P. Interpreting Adaptation to Concurrent Compared with Single-Mode Exercise Training: Some Methodological Considerations. Sports Med. 2018, 48, 289–297. [CrossRef]
+Boullosa, D.; Esteve-Lanao, J.; Casado, A.; Peyré-Tartaruga, L.A.; Gomes da Rosa, R.; Del Cose, J. Factors Affecting Training and
+Physical Performance in Recreational Endurance Runners. Sports 2020, 1, 35. [CrossRef] [PubMed]
+Esteve-Lanao, J.; Rhea, M.R.; Fleck, S.J.; Lucia, A. Running-Specific, Periodized Strength Training Attenuates Loss of Stride Length
+During Intense Endurance Running. J. Strength Cond. Res. 2008, 22, 1176–1183. [CrossRef] [PubMed]
+González-Gallego, J.; Sánchez-Collado, P.; Mataix, J. Nutrition in Sports and Ergogenic Aids and Doping; Editorial Díaz de Santos:
+Madrid, Spain, 2006.
+Markovic, G.; Dizdar, D.; Jukic, I.; Cardinale, M. Reliability and factorial validity of squat and countermovement jump tests. J.
+Strength Cond. Res. 2004, 18, 551–555.
+Heishman, A.; Brown, B.; Daub, B.; Miller, R.; Freitas, E.; Bemben, M. The influence of countermovement jump protocol on
+reactive strength index modified and flight time: Contraction time in Collegiate Basketball players. Sports 2019, 7, 37. [CrossRef]
+[PubMed]
+Levinger, I.; Goodman, C.; Hare, D.L.; Jerums, G.; Toia, D.; Selig, S. The reliability of the 1RM strength test for untrained
+middle-aged individuals. J. Sci. Med. Sport 2009, 12, 310–316. [CrossRef] [PubMed]
+Verdijk, L.B.; Gleeson, B.G.; JonkerS, R.A.M.; Meijer, K.; Savelberg, H.H.C.M.; Dendale, P.; Van Loon, L.J.C. Skeletal muscle
+hypertrophy following resistance training is accompanied by a fiber type-specific increase in satellite cell content in elderly men.
+J. Gerontol. Ser. A Biol. Sci. Med. Sci. 2009, 64, 332–339. [CrossRef] [PubMed]
+Barnes, K.R.; Kilding, A.E. Running economy: Measurement, norms, and determining factors. Sports Med. Open 2015, 1, 8.
+[CrossRef] [PubMed]
+Li, F.; Wang, R.; Newton, R.U.; Sutton, D.; Haiyong, Y.S. Effects of complex training versus heavy resistance training on
+neuromuscular adaptation, running economy and 5-km performance in well-trained distance runners. PeerJ 2019, 7, e6787.
+[CrossRef]
+Beattie, K.; Carson, B.P.; Lyons, M.; Rossiter, A.; Kenny, I.C. The Effect of Strength Training on Performance Indicators in Distance
+Runners. J. Strength Cond. Res. 2017, 31, 9–23. [CrossRef]
+Koo, T.K.; Li, M.Y. A Guideline of Selecting and Reporting Intraclass Correlation Coefficients for Reliability Research. J. Chiropr.
+Med. 2016, 15, 155–163. [CrossRef] [PubMed]
+Cohen, J. Statistical Power Analysis for the Behavioral Sciences, 2nd ed.; NJ Erlbaum Associates: Hillsdale, MI, USA, 1988.
+Ferrauti, A.; Bergermann, M.; Fernandez-Fernandez, J. Effects of a concurrent strength and endurance training on running
+performance and running economy in recreational marathon runners. J. Strength Cond. Res. 2010, 24, 2770–2778. [CrossRef]
+[PubMed]
+Herrera, J.M.C. Aerobic Exercise Effects On Body Composition, Cardiovascular Endurance, Circadian Cycle, Polar T3 Syndrome
+in Colombia’s First Mission to Antarctica. Rev. Cienc. Poder Aéreo 2016, 12, 72–90.
+Suárez-Rodríguez, D. Testosterone and Growth Hormone: Systems Strength Training. Rev. Entren. Deport. 2016, 30, 9–19.
+Willis, L.H.; Slentz, C.A.; Bateman, L.A.; Shields, A.T.; Piner, L.W.; Bales, C.W.; Houmard, J.A.; Kraus, W.E. Effects of aerobic
+and/or resistance training on body mass and fat mass in overweight or obese adults. J. Appl. Physiol. 2012, 113, 1831–1837.
+[CrossRef] [PubMed]
+Haff, G.G.; Triplett, N.T. Essentials of Strength Training and Conditioning, 4th ed.; Human Kinetics: Champaign, IL, USA, 2016.
+Eklund, D.; Häkkinen, A.; Laukkanen, J.A.; Balandzic, M.; Nyman, K.; Häkkinen, K. Fitness, body composition and blood
+lipids following 3 concurrent strength and endurance training modes. Appl. Physiol. Nutr. Metab. 2016, 41, 767–774. [CrossRef]
+[PubMed]
+Blagrove, R.C.; Howatson, G.; Hayes, P.R. Effects of Strength Training on the Physiological Determinants of Middle- and
+Long-Distance Running Performance: A Systematic Review. Sports Med. 2018, 48, 1117–1149. [CrossRef]
+Hughes, D.C.; Ellefsen, S.; Baar, K. Adaptations to Endurance and Strength Training. Cold Spring Harb. Perspect. Med. 2018,
+8, a029769. [CrossRef]
+Hellsten, Y.; Nyberg, M. Cardiovascular Adaptations to Exercise Training. Compr. Physiol. 2015, 6, 1–32.
+Pérez-Gómez, J.; Vicente-Rodríguez, G.; Ara-Royo, I.; Martínez-Redondo, D.; Puzo-Foncillas, J.; Moreno, L.A.; Díez-Sánchez, C.;
+Casajús, J.A. Effect of endurance and resistance training on regional fat mass and lipid profile. Nutr. Hosp. 2013, 28, 340–346.
+
+Int. J. Environ. Res. Public Health 2022, 19, 10773
+
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+
+17 of 17
+
+Vikmoen, O.; Raastad, T.; Ellefsen, S.; Rønnestad, B.R. Adaptations to strength training differ between endurance-trained and
+untrained women. Eur. J. Appl. Physiol. 2020, 120, 1541–1549. [CrossRef] [PubMed]
+Vikmoen, O.; Rønnestad, B.R.; Ellefsen, S.; Raastad, T. Heavy strength training improves running and cycling performance
+following prolonged submaximal work in well-trained female athletes. Physiol. Rep. 2017, 5, e13149. [CrossRef] [PubMed]
+Fyfe, J.J.; Bishop, D.J.; Stepto, N.K. Interference between concurrent resistance and endurance exercise: Molecular bases and the
+role of individual training variables. Sports Med. 2014, 44, 743–762. [CrossRef] [PubMed]
+Pattison, K.J.; Drinkwater, E.J.; Bishop, D.J.; Stepto, N.K.; Fyfe, J.J. Modulation of countermovement jump-derived markers of
+neuromuscular function with concurrent vs. single-mode resistance training. J. Strength Cond. Res. 2020, 34, 1497–1502. [CrossRef]
+Sousa, A.C.; Marinho, D.A.; Gil, M.H.; Izquierdo, M.; Rodríguez-Rosell, D.; Neiva, H.P.; Marques, M.C. Concurrent training
+followed by detraining: Does the resistance training intensity matter? J. Strength Cond. Res. 2017, 32, 632–642. [CrossRef]
+Mújika, I.; Rønnestad, B.R.; Martin, D.T. Effects of Increased Muscle Strength and Muscle Mass on Endurance-Cycling Performance.
+Int. J. Sports Physiol. Perform. 2016, 11, 283–289. [CrossRef]
+Mayoralas, F.G.M.; Díaz, J.F.J.; Santos-García, D.J.; Castellanos, R.B.; Yustres, I.; González-Ravé, J.M. Running economy and
+performance. High and low intensity efforts during training and warm-up. A bibliographic review. Arch. Sports Med. 2018, 35,
+108–116.
+Giovanelli, N.; Taboga, P.; Rejc, E.; Lazzer, S. Effects of strength, explosive and plyometric training on energy cost of running in
+ultra-endurance athletes. Eur. J. Sport Sci. 2017, 17, 805–813. [CrossRef]
+Patoz, A.; Breine, B.; Thouvenot, A.; Mourot, L.; Gindre, C.; Lussiana, T. Does Characterizing Global Running Pattern Help to
+Prescribe Individualized Strength Training in Recreational Runners? Front. Physiol. 2021, 12, 631637. [CrossRef]
+Williams, C.J.; Williams, M.G.; Eynon, N.; Ashton, K.J.; Little, J.P.; Wisloff, U.; Coombes, J.S. Genes to predict VO2 max trainability:
+A systematic review. BMC Genomics 2017, 18, 831. [CrossRef]
+Ozaki, H.; Loenneke, J.P.; Thiebaud, R.S.; Abe, T. Resistance training induced increase in VO2 max in young and older subjects.
+Eur. Rev. Aging Phys. 2013, 10, 107–116. [CrossRef]
+Williams, J. Effect of explosive-based training on musculotendinous stiffness and running economy in highly-trained distance
+runners. J. Aust. Strength Cond. 2020, 28, 86–92.
+Trowell, D.; Vicenzino, B.; Saunders, N.; Fox, A.; Bonacci, J. Effect of strength training on biomechanical and neuromuscular
+variables in distance runners: A systematic review and meta-analysis. Sports Med. 2020, 50, 133–150. [CrossRef] [PubMed]
+Lum, D.; Tan, F.; Pang, J.; Barbosa, T.M. Effects of intermittent sprint and plyometric training on endurance running performance.
+J. Sport Health Sci. 2019, 8, 471–477. [CrossRef] [PubMed]
+Low, J.L.; Ahmadi, H.; Kelly, L.P.; Willardson, J.; Boullosa, D.; Behm, D.G. Prior Band-Resisted Squat Jumps Improves Running
+and Neuromuscular Performance in Middle-Distance Runners. J. Sports Sci. Med. 2019, 18, 301–315.
+Baldwin, K.M.; Badenhorst, C.E.; Cripps, A.J.; Landers, G.J.; Merrells, R.J.; Bulsara, M.K.; Hoyne, G.F. Strength Training for
+Long-Distance Triathletes. Strength Cond. J. 2022, 44, 1–14. [CrossRef]
+
+
