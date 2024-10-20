@@ -26,7 +26,10 @@ Use the following context for reference:
 
 ---
 
-Answer the question based on the above context: {question}
+Can you generate a workout plan for 7 days using this context: {question}.
+
+It should be in JSON format with the name of the day (day1, day2, day3, etc...) as the keys and the workout plan as the values. The values should be a list of exercies with their sets, reps, rest, and weights (exercise : exercise_name, sets : number_of_sets, reps : number_of_reps, rest : time_to_rest, weight : weight_amount)."
+Only return the JSON with all keys and values as strings.
 """
 
 @app.route("/")
@@ -77,11 +80,9 @@ def retrieve():
     if not query_text:
         return jsonify({"error": "Query parameter is required"}), 400
     
-    # Prepare the DB.
     embedding_function = OpenAIEmbeddings()
     db = Chroma(persist_directory=CHROMA_PATH, embedding_function=embedding_function)
 
-    # Search the DB.
     results = db.similarity_search_with_relevance_scores(query_text, k=3)
     if len(results) == 0 or results[0][1] < 0.7:
         print(f"Unable to find matching results.")
@@ -90,13 +91,16 @@ def retrieve():
     context_text = "\n\n---\n\n".join([doc.page_content for doc, _score in results])
     prompt_template = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
     prompt = prompt_template.format(context=context_text, question=query_text)
-    print(prompt)
 
-    model = ChatOpenAI()
+    model = ChatOpenAI(
+        model="gpt-4-turbo",
+        model_kwargs={"response_format": {"type": "json_object"}},
+)
     response_text = model.predict(prompt)
 
     sources = [doc.metadata.get("source", None) for doc, _score in results]
     formatted_response = f"Response: {response_text}\nSources: {sources}"
-    print(formatted_response)
+    # print(formatted_response)
     print("Got Here")
-    return jsonify({"response": formatted_response})
+    print("Response", formatted_response)
+    return jsonify({"Response":response_text, "Sources":sources}) 
