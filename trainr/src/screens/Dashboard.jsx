@@ -42,13 +42,14 @@ function Dashboard() {
                 <Navbar />
                 <Header title="Dashboard" description="Welcome to your dashboard. Here you can view your saved workouts." />
                 
-                <button onClick={handleClearWorkouts} className="bg-red-500 text-white p-2 rounded mb-4">
+                <button onClick={handleClearWorkouts} className="bg-red-500 text-white p-2 rounded mb-4 pl-4 pr-4">
                     Clear Workouts
                 </button>
 
-                <div className="flex flex-wrap gap-5 p-5 justify-center"> {/* Center the cards */}
+                <div className="flex flex-wrap gap-5 justify-center p-5">
+                    {/* Render workouts in reverse order */}
                     {workouts.slice().reverse().map((workout, index) => (
-                        <div className="w-64" key={index}> {/* Fixed width for cards */}
+                        <div className="w-1/3 flex-grow" key={index}> {/* Use w-1/3 for equal width */}
                             <WorkoutCard workout={workout} onClick={() => handleCardClick(workout)} />
                         </div>
                     ))}
