@@ -1,6 +1,4 @@
-import React from 'react'
-
-import '../App.css'
+import React, { useState } from 'react'
 
 // Import components
 import Navbar from '../components/Navbar'
@@ -11,6 +9,25 @@ import { ActivitySelect } from '../components/ActivitySelect'
 import Button from '../components/Button'
 
 function FormCheck() {
+    const [showVideo, setShowVideo] = useState(false);
+    const [score, setScore] = useState(75);
+
+    const tipsByScore = [
+        { range: [0, 20], tips: ['Run in straight line', 'Look forward when running', 'Stay relaxed'] },
+        { range: [21, 40], tips: ['Keep core tight', 'Bring knees higher', 'Drive wth arms'] },
+        { range: [41, 60], tips: ['Naturally rise up', 'Toe Drag on block starts', 'Drive knees into floor'] },
+        { range: [61, 80], tips: ['Remember dorsiflexsion', 'Run tall', 'Swing arms straight'] },
+        { range: [81, 100], tips: ['10+ m of drive phase', 'Fast contact with ground', 'Push off the floor vertically'] },
+    ];
+
+    const getTipsForScore = (score) => {
+        const tipSet = tipsByScore.find(tipRange => score >= tipRange.range[0] && score <= tipRange.range[1]);
+        return tipSet ? tipSet.tips : [];
+    };
+
+    const handleButtonClick = () => {
+        setShowVideo(true);
+    };
 
     return (
         <div className="flex flex-col min-h-screen gap-5">
@@ -21,16 +38,25 @@ function FormCheck() {
                     <InputFile />
                     <ActivitySelect />
                 </div>
-                <div className="flex flex-col my-5 gap-5">
-                    <Button title="Upload Video" />
-                    <h2 className="font-bold ">You received a score of ...</h2>
-                    <h1></h1>
-                    <h2 className="font-bold">Here are some tips to improve your score</h2>
-                    <ul>
-                        <li>Tip 1</li>
-                        <li>Tip 2</li>
-                        <li>Tip 3</li>
-                    </ul>
+                <div className="flex flex-col my-5 gap-5 ">
+                    {!showVideo && (<Button title="Upload Video" onClick={handleButtonClick} />)}
+                    {showVideo && (    
+                        <video
+                            className="w-full rounded-lg shadow-lg"
+                            controls
+                            autoPlay={false}
+                        >
+                        <source src='nicoRunningPose.mp4' type="video/mp4" />
+                        Your browser does not support the video tag.
+                        </video>)}
+                    {showVideo && (<h2 className="font-semibold ">You received a score of ...</h2>)}
+                    {showVideo && (<h1 className="font-bold text-4xl text-primary100">{score}</h1>)}
+                    {showVideo && (<h2 className="font-semibold">Here are some tips to improve your score</h2>)}
+                    {showVideo && (<ul>
+                            {getTipsForScore(score).map((tip, index) => (
+                                <li key={index}>{tip}</li>
+                            ))}
+                        </ul>)}
                 </div>
             </div>
             <Footer />
